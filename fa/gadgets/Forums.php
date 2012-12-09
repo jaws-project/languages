@@ -125,5 +125,6 @@ define('_FA_FORUMS_POSTS_ATTACHMENT_HITS', "دریافت شده {0} بار");
 define('_FA_FORUMS_POSTS_ATTACHMENT_REMOVE', "زدودن فایل پیوست");
 define('_FA_FORUMS_POSTS_EDIT_REASON', "انگیزه ویرایش");
 define('_FA_FORUMS_POSTS_UPDATEDBY', "بروزرسانی بدست");
+define('_FA_FORUMS_POSTS_COUNT', "{0} نوشته");
 define('_FA_FORUMS_USERS_POSTS_COUNT', "نوشته ها");
 define('_FA_FORUMS_USERS_REGISTERED_DATE', "زمان پیوستن");

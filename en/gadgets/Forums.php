@@ -137,6 +137,7 @@ define('_EN_FORUMS_POSTS_ATTACHMENT_HITS', "Downloaded {0} times");
 define('_EN_FORUMS_POSTS_ATTACHMENT_REMOVE', "Remove attachment");
 define('_EN_FORUMS_POSTS_EDIT_REASON', "Edit reason");
 define('_EN_FORUMS_POSTS_UPDATEDBY', "Updated by");
+define('_EN_FORUMS_POSTS_COUNT', "{0} posts");
 
 /* Users */
 define('_EN_FORUMS_USERS_POSTS_COUNT', "Posts count");
