@@ -6,6 +6,7 @@ define('_EN_URLMAPPER_DESCRIPTION', "Manage how you want your URL to be accesed 
 /** ACL **/
 define('_EN_URLMAPPER_ACL_MANAGEURLMAPPER', "Manage the URL Mapper");
 define('_EN_URLMAPPER_ACL_EDITMAPS', "Edit url maps");
+define('_EN_URLMAPPER_ACL_MANAGEERRORMAPS', "Manage url error maps");
 
 /** Common strings **/
 define('_EN_URLMAPPER_SELECT_A_GADGET', "Select a gadget");
@@ -47,6 +48,22 @@ define('_EN_URLMAPPER_ALIASES_LINK_TYPE', "Link type");
 define('_EN_URLMAPPER_ALIASES_LINK_TYPE_CUSTOM', "Custom link");
 define('_EN_URLMAPPER_ALIASES_LINK_TYPE_INTERNAL', "Internal link");
 
+/** Error Maps **/
+define('_EN_URLMAPPER_ERRORMAPS', "Error Maps");
+define('_EN_URLMAPPER_ERRORMAPS_URL', "Source URL");
+define('_EN_URLMAPPER_ERRORMAPS_CODE', "Status");
+define('_EN_URLMAPPER_ERRORMAPS_CODE_404', "404");
+define('_EN_URLMAPPER_ERRORMAPS_CODE_301', "301");
+define('_EN_URLMAPPER_ERRORMAPS_CODE_302', "302");
+define('_EN_URLMAPPER_ERRORMAPS_CODE_410', "410");
+define('_EN_URLMAPPER_ERRORMAPS_NEW_URL', "Destination URL");
+define('_EN_URLMAPPER_ERRORMAPS_NEW_CODE', "New Status");
+define('_EN_URLMAPPER_ERRORMAPS_HITS', "Hits");
+define('_EN_URLMAPPER_ERRORMAPS_ADD_TITLE', "Add Error Map");
+define('_EN_URLMAPPER_ERRORMAPS_EDIT_TITLE', "Edit Error Map");
+define('_EN_URLMAPPER_ERRORMAPS_CONFIRM_DELETE', "Delete this Error Map?");
+define('_EN_URLMAPPER_ERRORMAPS_INCOMPLETE_FIELDS', "Some fields haven't been (correctly) filled in.");
+
 /** Responses **/
 define('_EN_URLMAPPER_MAP_ADDED', "The map {0} has been added");
 define('_EN_URLMAPPER_MAP_DELETED', "The map has been deleted");
@@ -56,6 +73,10 @@ define('_EN_URLMAPPER_SETTINGS_SAVED', "The settings have been saved");
 define('_EN_URLMAPPER_ALIAS_ADDED', "The alias has been added");
 define('_EN_URLMAPPER_ALIAS_DELETED', "The alias has been deleted");
 define('_EN_URLMAPPER_ALIAS_UPDATED', "The alias has been updated");
+
+define('_EN_URLMAPPER_ERRORMAP_ADDED', "The error map has been added");
+define('_EN_URLMAPPER_ERRORMAP_DELETED', "The error map has been deleted");
+define('_EN_URLMAPPER_ERRORMAP_UPDATED', "The error map has been updated");
 
 /** Errors **/
 define('_EN_URLMAPPER_ERROR_MAP_NOT_UPDATED', "There was an error while updating the map");
@@ -67,3 +88,7 @@ define('_EN_URLMAPPER_ERROR_ALIAS_NOT_ADDED', "There was an error while adding t
 define('_EN_URLMAPPER_ERROR_ALIAS_NOT_DELETED', "There was an error while deleting the alias");
 define('_EN_URLMAPPER_ERROR_ALIAS_BAD_FORMAT', "Aliases can't have slashes, points or such characters, should be single words");
 define('_EN_URLMAPPER_ERROR_ALIAS_ALREADY_EXISTS', "The alias already exists");
+define('_EN_URLMAPPER_ERROR_ERRORMAP_NOT_ADDED', "There was an error while adding the error map");
+define('_EN_URLMAPPER_ERROR_ERRORMAP_ALREADY_EXISTS', "The error map already exists");
+define('_EN_URLMAPPER_ERROR_ERRORMAP_NOT_DELETED', "There was an error while deleting the error map");
+define('_EN_URLMAPPER_ERROR_ERRORMAP_NOT_UPDATED', "There was an error while updating the error map");
