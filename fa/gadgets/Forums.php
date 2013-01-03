@@ -128,3 +128,4 @@ define('_FA_FORUMS_POSTS_UPDATEDBY', "بروزرسانی بدست");
 define('_FA_FORUMS_POSTS_COUNT', "{0} نوشته");
 define('_FA_FORUMS_USERS_POSTS_COUNT', "نوشته ها");
 define('_FA_FORUMS_USERS_REGISTERED_DATE', "زمان پیوستن");
+define('_FA_FORUMS_USER_POSTS', "نوشته های {0}");

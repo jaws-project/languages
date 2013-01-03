@@ -142,5 +142,5 @@ define('_EN_FORUMS_POSTS_COUNT', "{0} posts");
 /* Users */
 define('_EN_FORUMS_USERS_POSTS_COUNT', "Posts count");
 define('_EN_FORUMS_USERS_REGISTERED_DATE', "Registered date");
-
+define('_EN_FORUMS_USER_POSTS', "{0}'s Posts");
 
