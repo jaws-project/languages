@@ -78,6 +78,13 @@ define('_FA_USERS_ACCOUNT_EDIT', "ویرایش کاربر");
 define('_FA_USERS_ACCOUNT_DELETE', "زدودن کاربر");
 define('_FA_USERS_USERS_GROUPS', "هموندی در گروههای کاربری");
 define('_FA_USERS_ACLRULES', "موارد دسترسی");
+
+define('_FA_USERS_USERS_AVATAR', "تصویر شما");
+define('_FA_USERS_USERS_UPLOAD_AVATAR', "ارسال تصویر");
+define('_FA_USERS_USERS_DELETE_AVATAR', "حذف تصویر");
+
+define('_FA_USERS_USERS_SIGNATURE', "امضا");
+
 define('_FA_USERS_USERS_USERNAME', "نام کاربری");
 define('_FA_USERS_USERS_PASSWORD', "گذرواژه");
 define('_FA_USERS_USERS_NICKNAME', "نام نمایشی");
