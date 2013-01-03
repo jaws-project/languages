@@ -150,6 +150,7 @@ define('_EN_BLOG_RECENT_POSTS_BY_CATEGORY', "Entries of {0}");
 define('_EN_BLOG_ENTRY_VISITS', "Visits: {0}");
 define('_EN_BLOG_POPULAR_POSTS', "Popular Posts");
 define('_EN_BLOG_POSTS_AUTHORS', "Posts Authors");
+define('_EN_BLOG_CATEGORY_INCOMPLETE_FIELDS', "Some fields haven't been (correctly) filled in.");
 
 /* Responses */
 define('_EN_BLOG_CATEGORY_ADDED', "A category has been added");
