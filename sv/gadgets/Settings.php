@@ -86,3 +86,4 @@ define('_SV_SETTINGS_PROXY_MODE', "Proxytyp");
 define('_SV_SETTINGS_PROXY_AUTH', "Proxy + Auth");
 define('_SV_SETTINGS_PROXY_USER', "Proxy-användarnamn");
 define('_SV_SETTINGS_PROXY_PASS', "Proxy-lösenord");
+define('_SV_DATA_SETTINGS_EDITOR_CKEDITOR', "CKEditor");

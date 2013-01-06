@@ -212,3 +212,16 @@ define('_SV_GLOBAL_MARK_AS_SPAM', "Märk som spam");
 define('_SV_GLOBAL_SPAM_POSSIBLE_DUPLICATE_MESSAGE', "Dubbla meddelanden ej tillåtet.");
 define('_SV_GLOBAL_MESSAGE_SENT', "Ditt meddelande skickades.");
 define('_SV_GLOBAL_COMMENTS_RESTRICTED', "Du måste <a href=\"{0}\">logga in</a> eller <a href=\"{1}\">registrera dig</a> för att kunna posta en kommentar.");
+define('_SV_DATA_GLOBAL_GI_GENERAL', "Diverse");
+define('_SV_DATA_GLOBAL_GI_GADGETS', "Moduler");
+define('_SV_DATA_GLOBAL_META_KEYWORDS', "Meta-nyckelord");
+define('_SV_DATA_GLOBAL_META_DESCRIPTION', "Meta-beskrivning");
+define('_SV_DATA_GLOBAL_ERROR_LOGIN_EXPIRED', "Användarnamnet har gått ut");
+define('_SV_DATA_GLOBAL_ERROR_LOGIN_LOGON_HOURS', "Inloggninstiden har gått ut");
+define('_SV_DATA_GLOBAL_ERROR_LOGIN_STATUS_0', "Användarnamnet är avaktiverat");
+define('_SV_DATA_GLOBAL_ERROR_LOGIN_STATUS_2', "Användarnamnet är overifierat");
+define('_SV_DATA_GLOBAL_ERROR_INVALID_USERNAME', "Användarnamnet är ogiltigt, det kan endast innehålla bokstäver eller nummer och måste vara minst 2 tecken långt");
+define('_SV_DATA_GLOBAL_ERROR_INVALID_EMAIL_ADDRESS', "Epostadressen är ogiltig");
+define('_SV_DATA_GLOBAL_ERROR_INVALID_PASSWORD', "Lösenordet är ogiltigt, det kan endast innehålla utskrivbara ACII-tecken och måste vara minst {0} tecken långt");
+define('_SV_DATA_GLOBAL_ERROR_INVALID_COMPLEXITY', "Lösenordet är inte tillräckligt komplicerat, det måste innehålla stora och små bokstäver, nummer och specialtecken");
+

@@ -221,3 +221,4 @@ define('_SV_BLOG_PINGBACK_DEFAULT_COMMENT', "Pingback-kommentar från {0}");
 define('_SV_BLOG_PINGBACK_DEFAULT_TITLE', "Pingback från {0}");
 define('_SV_BLOG_PINGBACK_TITLE', "{0} (från pingback)");
 define('_SV_BLOG_PINGBACK_COMMENT', "Denna kommentar kommer från pingback: {0}");
+define('_SV_DATA_BLOG_ACL_MODIFYPUBLISHEDENTRIES', "Modifiera publicerade inlägg");

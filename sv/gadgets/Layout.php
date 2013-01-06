@@ -64,3 +64,5 @@ define('_SV_LAYOUT_ERROR_ELEMENT_MOVED', "Ett fel uppstod när elementet skulle 
 define('_SV_LAYOUT_ERROR_ELEMENT_DELETED', "Ett fel uppstod när elementet skulle raderas");
 define('_SV_LAYOUT_ERROR_CHANGE_WHEN', "Kan inte uppdatera visning när...");
 define('_SV_LAYOUT_ERROR_NO_BLOCK', "Temat \"{0}\" har inte \"{1}\" block");
+define('_SV_DATA_LAYOUT_THEME_LOCAL', "Lokala teman");
+define('_SV_DATA_LAYOUT_THEME_REMOTE', "Icke lokala teman");
