@@ -75,6 +75,6 @@ define('_SV_POLICY_RESPONSE_ANTISPAM_UPDATED', "Antispam-inställningarna uppdat
 define('_SV_POLICY_RESPONSE_ADVANCED_POLICIES_UPDATED', "Avancerade policys uppdaterades");
 define('_SV_POLICY_RESPONSE_PROPERTIES_UPDATED', "Policyegenskaper uppdaterades");
 define('_SV_POLICY_RESPONSE_PROPERTIES_NOT_UPDATED', "Kunde inte spara egenskaper för policy");
-define('_SV_DATA_POLICY_BLOCKED', "Blockerad");
-define('_SV_DATA_POLICY_IP_BLOCK_UNDEFINED', "Blockera odefinierad IP");
-define('_SV_DATA_POLICY_AGENT_BLOCK_UNDEFINED', "Blockera odefinierad agent");
+define('_SV_POLICY_BLOCKED', "Blockerad");
+define('_SV_POLICY_IP_BLOCK_UNDEFINED', "Blockera odefinierad IP");
+define('_SV_POLICY_AGENT_BLOCK_UNDEFINED', "Blockera odefinierad agent");

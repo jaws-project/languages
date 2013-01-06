@@ -72,5 +72,5 @@ define('_SV_TMS_RESPONSE_THEME_SHARED', "Temat har delats");
 define('_SV_TMS_RESPONSE_THEME_UNINSTALLED', "Temat har avinstallerats");
 define('_SV_TMS_RESPONSE_THEME_UNSHARED', "Temat har odelats (ja, vilket roligt ord alltså)");
 define('_SV_TMS_RESPONSE_SETTINGS_SAVED', "Inställningarna har sparats");
-define('_SV_DATA_TMS_ACL_DOWNLOADTHEME', "Laddar ned tema");
-define('_SV_DATA_TMS_DOWNLOAD', "Ladda ned");
+define('_SV_TMS_ACL_DOWNLOADTHEME', "Laddar ned tema");
+define('_SV_TMS_DOWNLOAD', "Ladda ned");
