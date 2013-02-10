@@ -60,13 +60,10 @@ define('_EN_POLL_REPORTS_PERCENT', "{0}%");
 define('_EN_POLL_REPORTS_TOTAL_VOTES', "Total Votes");
 
 /* Layout */
-define('_EN_POLL_LAYOUT_POLL', "Display poll");
-define('_EN_POLL_LAYOUT_LAST', "Last poll");
-define('_EN_POLL_LAYOUT_DISPLAY_LAST_DESC', "Display the last poll introduced");
-define('_EN_POLL_LAYOUT_POLLS', "List of polls");
-define('_EN_POLL_LAYOUT_POLLS_ALL', 'All polls');
-define('_EN_POLL_LAYOUT_POLLS_DESC', "Prints a list of all opened polls");
-define('_EN_POLL_LAYOUT_LIST_INGROUP_POLLS_DESC', "Prints a list of all opened polls in this category");
+define('_EN_POLL_ACTIONS_POLL', "Display poll");
+define('_EN_POLL_ACTIONS_POLL_DESC', "Display poll");
+define('_EN_POLL_ACTIONS_POLLS', "List of polls");
+define('_EN_POLL_ACTIONS_POLLS_DESC', "List of polls");
 
 /* front-end */
 define('_EN_POLL_VOTE', "Vote");
