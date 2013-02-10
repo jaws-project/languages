@@ -20,10 +20,10 @@ define('_EN_WEBCAM_REFRESH_TIME', "Refresh time (seconds)");
 define('_EN_WEBCAM_CONFIRM_DELETE_WEBCAM', "Are you sure you want to delete this webcam?");
 
 /** Layout **/
-define('_EN_WEBCAM_LAYOUT_DISPLAY', "Show webcams");
-define('_EN_WEBCAM_LAYOUT_DISPLAY_DESC', "Show all the webcams");
-define('_EN_WEBCAM_LAYOUT_RANDOM', "Show random webcams");
-define('_EN_WEBCAM_LAYOUT_RANDOM_DESC', "Show only those webcams that are selected randomly");
+define('_EN_WEBCAM_ACTIONS_DISPLAY', "Show webcams");
+define('_EN_WEBCAM_ACTIONS_DISPLAY_DESC', "Show all the webcams");
+define('_EN_WEBCAM_ACTIONS_RANDOM', "Show random webcams");
+define('_EN_WEBCAM_ACTIONS_RANDOM_DESC', "Show only those webcams that are selected randomly");
 
 /** ACL's **/
 define('_EN_WEBCAM_ACL_DEFAULT', "Administer Webcam");
