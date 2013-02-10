@@ -20,12 +20,16 @@ define('_EN_VISITCOUNTER_ACL_CLEANENTRIES', "Clear the counter");
 define('_EN_VISITCOUNTER_ACL_UPDATEPROPERTIES', "Update properties");
 
 /* Layout Strings */
-define('_EN_VISITCOUNTER_ACTION_TITLE', "Visitors Statistics");
-define('_EN_VISITCOUNTER_ACTION_DESC_ONLINE', "Display number of online visitors");
-define('_EN_VISITCOUNTER_ACTION_DESC_TODAY', "Display number of today visitors");
-define('_EN_VISITCOUNTER_ACTION_DESC_TOTAL', "Display number of total visitors");
-define('_EN_VISITCOUNTER_ACTION_CUSTOM', "Customizable mode");
-define('_EN_VISITCOUNTER_ACTION_DESC_CUSTOM', "Display the number of visitors in customizable format");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYONLINE', "Online visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYONLINE_DESC', "Display number of online visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYTODAY', "Today visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYTODAY_DESC', "Display number of today visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYYESTERDAY', "Yesterday visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYYESTERDAY_DESC', "Display number of yesterday visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYTOTAL', "Total visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAYTOTAL_DESC', "Display number of total visitors");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAY', "Customizable mode");
+define('_EN_VISITCOUNTER_ACTIONS_DISPLAY_DESC', "Display the number of visitors in customizable format");
 
 define('_EN_VISITCOUNTER_PEOPLE_VISITORS', "{0} visitors");
 define('_EN_VISITCOUNTER_PEOPLE_VISITORS_REST', "have visited this site");
