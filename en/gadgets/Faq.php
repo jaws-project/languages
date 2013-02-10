@@ -14,6 +14,10 @@
 define('_EN_FAQ_NAME', "FAQ");
 define('_EN_FAQ_DESCRIPTION', "Stores Frequently Asked Questions and their answers.");
 
+// Actions
+define('_EN_FAQ_ACTIONS_LISTCATEGORIES', "List categories");
+define('_EN_FAQ_ACTIONS_LISTCATEGORIES_DESC', "Show a list with the FAQ categories");
+
 // ACL Stuff
 define('_EN_FAQ_ACL_DEFAULT', "Administrate FAQ");
 define('_EN_FAQ_ACL_ADDQUESTION', "Add questions");
@@ -22,8 +26,6 @@ define('_EN_FAQ_ACL_DELETEQUESTION', "Delete questions");
 define('_EN_FAQ_ACL_MANAGECATEGORIES', "Manage categories");
 
 // Strings
-define('_EN_FAQ_LAYOUT_LISTCATEGORIES', "List categories");
-define('_EN_FAQ_LAYOUT_LISTCATEGORIES_DESCRIPTION', "Show a list with the FAQ categories");
 define('_EN_FAQ_CATEGORIES', "Faq Categories");
 define('_EN_FAQ_TITLE', "Frequently Asked Questions");
 define('_EN_FAQ_CONTENTS', "Contents");
