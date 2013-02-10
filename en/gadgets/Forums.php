@@ -13,6 +13,10 @@
 define('_EN_FORUMS_NAME', "Forums");
 define('_EN_FORUMS_DESCRIPTION', "A simple forum");
 
+/* Actions */
+define('_EN_FORUMS_ACTIONS_RECENTTOPICS', "Recent forum posts");
+define('_EN_FORUMS_ACTIONS_RECENTTOPICS_DESC', "Display recent posts of selected option");
+
 /* ACLs */
 define('_EN_FORUMS_ACL_ADDFORUM', "Add forum");
 define('_EN_FORUMS_ACL_EDITFORUM', "Edit forum");
@@ -39,10 +43,6 @@ define('_EN_FORUMS_ACL_DELETEPOST', "Delete post");
 define('_EN_FORUMS_ACL_DELETEOTHERSPOST', "Delete others post");
 define('_EN_FORUMS_ACL_DELETEOUTDATEDPOST', "Delete outdated post");
 define('_EN_FORUMS_ACL_DELETEPOSTINLOCKEDTOPIC', "Delete post in locked topic");
-
-/* Layout */
-define('_EN_FORUMS_LAYOUT_RECENT_POSTS', "Recent forum posts");
-define('_EN_FORUMS_LAYOUT_RECENT_POSTS_DESC', "Display recent posts of selected option");
 
 /* Commons */
 define('_EN_FORUMS_GROUP', "Group");
