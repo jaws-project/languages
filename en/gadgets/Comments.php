@@ -12,3 +12,6 @@
 
 define('_EN_COMMENTS_NAME', "Comments");
 define('_EN_COMMENTS_DESCRIPTION', "A gadget to mangament comments");
+
+define('_EN_COMMENTS_ACTIONS_RECENTCOMMENTS', "Recent comments");
+define('_EN_COMMENTS_ACTIONS_RECENTCOMMENTS_DESC', "show list of recent comments");
