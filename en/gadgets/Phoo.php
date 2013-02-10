@@ -16,15 +16,21 @@ define('_EN_PHOO_DESCRIPTION', "A nice photo organizer for your site");
 define('_EN_PHOO_DEFAULT_VIEW', "Default View");
 define('_EN_PHOO_ALBUM_LIST', "Album List");
 define('_EN_PHOO_PHOTOBLOG', "Photoblog");
-define('_EN_PHOO_RANDOM_IMAGE', "Random Phoo Image");
-define('_EN_PHOO_RANDOM_IMAGE_DESC', "Displays a random image from any album");
-define('_EN_PHOO_MOBLOG', "Moblog");
-define('_EN_PHOO_MOBLOG_DESC', "Displays the Moblog album");
-define('_EN_PHOO_ALBUMS', "Albums");
-define('_EN_PHOO_ALBUMS_DESC', "Displays all albums list");
+
+/* Actions */
+define('_EN_PHOO_ACTIONS_RANDOM', "Random Phoo Image");
+define('_EN_PHOO_ACTIONS_RANDOM_DESC', "Displays a random image from any album");
+define('_EN_PHOO_ACTIONS_MOBLOG', "Moblog");
+define('_EN_PHOO_ACTIONS_MOBLOG_DESC', "Displays the Moblog album");
+define('_EN_PHOO_ACTIONS_ALBUMLIST', "Albums");
+define('_EN_PHOO_ACTIONS_ALBUMLIST_DESC', "Displays all albums list");
+define('_EN_PHOO_ACTIONS_RECENTCOMMENTS', "Recent Comments On Photos");
+define('_EN_PHOO_ACTIONS_RECENTCOMMENTS_DESC', "Displays a summary of recent comments.");
+
 define('_EN_PHOO_UNKNOW_ALBUM', "Not found in an album");
 define('_EN_PHOO_WITHOUT_ALBUM', "Orphaned Photos");
 define('_EN_PHOO_WITHOUT_ALBUM_DESCRIPTION', "Photos which do not belong to any album");
+define('_EN_PHOO_ALBUMS', "Albums");
 define('_EN_PHOO_NEW_ALBUM', "New Album");
 define('_EN_PHOO_EDIT_ALBUM', "Edit Album");
 define('_EN_PHOO_ALBUM_CREATION_DATE', "Creation date {0}");
@@ -93,8 +99,6 @@ define('_EN_PHOO_UPDATE_COMMENT', "Update Comment");
 define('_EN_PHOO_DELETE_COMMENT', "Delete Comment");
 define('_EN_PHOO_REPLY', "Reply");
 define('_EN_PHOO_SEND_COMMENT', "Send Comments");
-define('_EN_PHOO_RECENT_COMMENTS', "Recent Comments On Photos");
-define('_EN_PHOO_RECENT_COMMENTS_DESC', "Displays a summary of recent comments.");
 define('_EN_PHOO_SAVE_SETTINGS', "Save Settings");
 define('_EN_PHOO_RESIZE_METHOD', "Resize Method");
 define('_EN_PHOO_DEFAULT_STATUS', "Default Status");
