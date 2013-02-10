@@ -31,18 +31,18 @@ define('_EN_USERS_ACL_EDITUSERPREFERENCES', "Edit user's preferences by user");
 define('_EN_USERS_ACL_MANAGEAUTHENTICATIONMETHOD', "Manage authentication method");
 
 /* Layout */
-define('_EN_USERS_LAYOUT_LOGINBOX', "Login Box");
-define('_EN_USERS_LAYOUT_LOGINBOX_DESC', "Display Login Box.");
-define('_EN_USERS_LAYOUT_LOGINLINKS', "Login links");
-define('_EN_USERS_LAYOUT_LOGINLINKS_DESC', "Display some links related to login stuff.");
-define('_EN_USERS_LAYOUT_ONLINE_USERS', "Online users");
-define('_EN_USERS_LAYOUT_ONLINE_USERS_DESC', "Display online registered users");
-define('_EN_USERS_LAYOUT_ONLINE_STATISTICS', "Online users statistics");
-define('_EN_USERS_LAYOUT_ONLINE_STATISTICS_DESC', "Display statistics of online users/guests");
-define('_EN_USERS_LAYOUT_LATEST_REGISTERED', "Latest registered users");
-define('_EN_USERS_LAYOUT_LATEST_REGISTERED_DESC', "Display Latest registered users");
-define('_EN_USERS_LAYOUT_PROFILE', "About a user");
-define('_EN_USERS_LAYOUT_PROFILE_DESC', "Display user's profile information");
+define('_EN_USERS_ACTIONS_LOGINBOX', "Login Box");
+define('_EN_USERS_ACTIONS_LOGINBOX_DESC', "Display Login Box.");
+define('_EN_USERS_ACTIONS_LOGINLINKS', "Login links");
+define('_EN_USERS_ACTIONS_LOGINLINKS_DESC', "Display some links related to login stuff.");
+define('_EN_USERS_ACTIONS_ONLINEUSERS', "Online users");
+define('_EN_USERS_ACTIONS_ONLINEUSERS_DESC', "Display online registered users");
+define('_EN_USERS_ACTIONS_ONLINESTATISTICS', "Online users statistics");
+define('_EN_USERS_ACTIONS_ONLINESTATISTICS_DESC', "Display statistics of online users/guests");
+define('_EN_USERS_ACTIONS_LATESTREGISTERED', "Latest registered users");
+define('_EN_USERS_ACTIONS_LATESTREGISTERED_DESC', "Display Latest registered users");
+define('_EN_USERS_ACTIONS_PROFILE', "About a user");
+define('_EN_USERS_ACTIONS_PROFILE_DESC', "Display user's profile information");
 
 /* Group Management */
 define('_EN_USERS_GROUPS_GROUPNAME', "Group name");
