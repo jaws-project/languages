@@ -12,10 +12,10 @@
  */
 
 /* Actions */
-define('_EN_GLOSSARY_LAYOUT_RANDOM', "Show a random term");
-define('_EN_GLOSSARY_LAYOUT_RANDOM_DESC', "Shows a term that is selected randomly");
-define('_EN_GLOSSARY_LAYOUT_LISTOF', "Show the list of terms");
-define('_EN_GLOSSARY_LAYOUT_LISTOF_DESC', "Shows a list of all the terms");
+define('_EN_GLOSSARY_ACTIONS_RANDOMTERMS', "Show a random term");
+define('_EN_GLOSSARY_ACTIONS_RANDOMTERMS_DESC', "Shows a term that is selected randomly");
+define('_EN_GLOSSARY_ACTIONS_LISTOFTERMS', "Show the list of terms");
+define('_EN_GLOSSARY_ACTIONS_LISTOFTERMS_DESC', "Shows a list of all the terms");
 
 /* Menubar actions */
 define('_EN_GLOSSARY_MENUBAR_VIEWTERMS', "View terms");
