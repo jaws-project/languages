@@ -115,14 +115,14 @@ define('_EN_CONTACT_ERROR_EMAIL_NOT_SENT', "Sending Email has been failed.");
 define('_EN_CONTACT_ERROR_GROUP_HAS_NO_USER', "The selected group has no user.");
 
 /* Layout Strings */
-define('_EN_CONTACT_ACTION_DISPLAY', "Default Contact");
-define('_EN_CONTACT_ACTION_DISPLAY_DESCRIPTION', "Display Contact Default Interface");
-define('_EN_CONTACT_ACTION_DISPLAY_MINI', "Mini Contact");
-define('_EN_CONTACT_ACTION_DISPLAY_MINI_DESCRIPTION', "Display Contact Mini Interface");
-define('_EN_CONTACT_ACTION_DISPLAY_SIMPLE', "Simple Contact");
-define('_EN_CONTACT_ACTION_DISPLAY_SIMPLE_DESCRIPTION', "Display Contact Simple Interface");
-define('_EN_CONTACT_ACTION_DISPLAY_FULL', "Full Contact");
-define('_EN_CONTACT_ACTION_DISPLAY_FULL_DESCRIPTION', "Display Contact Full Interface");
+define('_EN_CONTACT_ACTIONS_DISPLAY', "Default Contact");
+define('_EN_CONTACT_ACTIONS_DISPLAY_DESC', "Display Contact Default Interface");
+define('_EN_CONTACT_ACTIONS_DISPLAYMINI', "Mini Contact");
+define('_EN_CONTACT_ACTIONS_DISPLAYMINI_DESC', "Display Contact Mini Interface");
+define('_EN_CONTACT_ACTIONS_DISPLAYSIMPLE', "Simple Contact");
+define('_EN_CONTACT_ACTIONS_DISPLAYSIMPLE_DESC', "Display Contact Simple Interface");
+define('_EN_CONTACT_ACTIONS_DISPLAYFULL', "Full Contact");
+define('_EN_CONTACT_ACTIONS_DISPLAYFULL_DESC', "Display Contact Full Interface");
 
 /* Result Strings */
 define('_EN_CONTACT_RESULT_SENT', "Your message has been successfully sent.");
