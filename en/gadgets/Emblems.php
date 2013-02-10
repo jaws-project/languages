@@ -22,10 +22,10 @@ define('_EN_EMBLEMS_ACL_EDITEMBLEM', "Edit Emblems");
 define('_EN_EMBLEMS_ACL_UPDATEPROPERTIES', "Update Emblems Gadget Properties");
 
 // Actions
+define('_EN_EMBLEMS_ACTIONS_DISPLAY', "Display");
+define('_EN_EMBLEMS_ACTIONS_DISPLAY_DESC', "Display the active emblems in your site");
 define('_EN_EMBLEMS_ACTION_TITLE', "Emblems");
 define('_EN_EMBLEMS_ACTION_DEFAULT', "Default Action");
-define('_EN_EMBLEMS_ACTION_DISPLAY', "Display");
-define('_EN_EMBLEMS_ACTION_DISPLAY_DESC', "Display the active emblems in your site");
 
 //Strings
 define('_EN_EMBLEMS_ACTIVE', "Active");
