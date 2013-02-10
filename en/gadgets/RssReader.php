@@ -30,8 +30,8 @@ define('_EN_RSSREADER_CONFIRM_DELETE_FEED', "Are you sure you want to delete thi
 
 /* Actions */
 define('_EN_RSSREADER_ACTION_TITLE', "News on other sites");
-define('_EN_RSSREADER_LAYOUT_SHOW_TITLES', "Show title news of RSS sites");
-define('_EN_RSSREADER_LAYOUT_SHOW_TITLES_DESCRIPTION', "Show the title news and links of configured feed URLs");
+define('_EN_RSSREADER_ACTIONS_DISPLAY', "Show title news of RSS sites");
+define('_EN_RSSREADER_ACTIONS_DISPLAY_DESC', "Show the title news and links of configured feed URLs");
 
 /* Responses */
 define('_EN_RSSREADER_SITE_UPDATED', "The site has been updated");
