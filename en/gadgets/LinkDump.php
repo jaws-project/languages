@@ -12,20 +12,20 @@
 define('_EN_LINKDUMP_NAME', "Link Dump");
 define('_EN_LINKDUMP_DESCRIPTION', "Easily link to things around the net");
 
+/* Actions */
+define('_EN_LINKDUMP_ACTIONS_DISPLAY', "Link dump");
+define('_EN_LINKDUMP_ACTIONS_DISPLAY_DESC', "Show links with the group's limitation count");
+define('_EN_LINKDUMP_ACTIONS_SHOWCATEGORIES', "Categories");
+define('_EN_LINKDUMP_ACTIONS_SHOWCATEGORIES_DESC', "Show list of links's categories");
+define('_EN_LINKDUMP_ACTIONS_SHOWTAGCLOUD', "Tag Cloud");
+define('_EN_LINKDUMP_ACTIONS_SHOWTAGCLOUD_DESC', "Generated a cloud of your links tags");
+
 // ACL Keys
 define('_EN_LINKDUMP_ACL_DEFAULT', "Administration");
 define('_EN_LINKDUMP_ACL_MANAGELINKS', "Links management");
 define('_EN_LINKDUMP_ACL_MANAGEGROUPS', "Groups management");
 define('_EN_LINKDUMP_ACL_MANAGETAGS', "Tags management");
 define('_EN_LINKDUMP_ACL_UPDATEPROPERTIES', "Update properties");
-
-/* Layout */
-define('_EN_LINKDUMP_LAYOUT_DISPLAY', "Link dump");
-define('_EN_LINKDUMP_LAYOUT_DISPLAY_DESCRIPTION', "Show links with the group's limitation count");
-define('_EN_LINKDUMP_LAYOUT_CATEGORIES', "Categories");
-define('_EN_LINKDUMP_LAYOUT_CATEGORIES_DESCRIPTION', "Show list of links's categories");
-define('_EN_LINKDUMP_LAYOUT_TAG_CLOUD', "Tag Cloud");
-define('_EN_LINKDUMP_LAYOUT_TAG_CLOUD_DESCRIPTION', "Generated a cloud of your links tags");
 
 /* Common */
 define('_EN_LINKDUMP_FASTURL', "Fast URL");
