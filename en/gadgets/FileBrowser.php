@@ -14,6 +14,10 @@
 define('_EN_FILEBROWSER_NAME', "FileBrowser");
 define('_EN_FILEBROWSER_DESCRIPTION', "An easy and fast filebrowser to view your files");
 
+/* Actions */
+define('_EN_FILEBROWSER_ACTIONS_INITIALFOLDER', "Initial Folder");
+define('_EN_FILEBROWSER_ACTIONS_INITIALFOLDER_DESC', "Displays a list of items in root folder.");
+
 /* ACL's */
 define('_EN_FILEBROWSER_ACL_DEFAULT', "Administer FileBrowser");
 define('_EN_FILEBROWSER_ACL_MANAGEFILES', "Manage Files");
@@ -42,10 +46,6 @@ define('_EN_FILEBROWSER_ROOT', "Root");
 define('_EN_FILEBROWSER_FILEINFO', "Info");
 define('_EN_FILEBROWSER_ENTRIES_COUNT', '{0} files/directories');
 define('_EN_FILEBROWSER_HITS', 'Hits');
-
-/* Layout components */
-define('_EN_FILEBROWSER_INITIAL_FOLDER', "Initial Folder");
-define('_EN_FILEBROWSER_INITIAL_FOLDER_DESC', "Displays a list of items in root folder.");
 
 /* Responses */
 define('_EN_FILEBROWSER_CREATED_DIR', "The directory {0} has been created");
