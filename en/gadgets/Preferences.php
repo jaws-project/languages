@@ -36,8 +36,8 @@ define('_EN_PREFERENCES_ACL_DEFAULT', "Administer Preferences");
 define('_EN_PREFERENCES_ACL_UPDATEPROPERTIES', "Turn on/off some preferences");
 
 /* Layout */
-define('_EN_PREFERENCES_LAYOUT_DISPLAY', "Show preferences box");
-define('_EN_PREFERENCES_LAYOUT_DISPLAY_DESCRIPTION', "Show preferences box (language and theme)");
+define('_EN_PREFERENCES_ACTIONS_DISPLAY', "Show preferences box");
+define('_EN_PREFERENCES_ACTIONS_DISPLAY_DESC', "Show preferences box (language and theme)");
 
 /* Responses */
 define('_EN_PREFERENCES_PROPERTIES_UPDATED', "The properties have been updated");
