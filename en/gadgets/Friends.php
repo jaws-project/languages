@@ -26,8 +26,8 @@ define('_EN_FRIENDS_ACL_DELETEFRIEND', "Delete friends");
 define('_EN_FRIENDS_ACL_UPDATEPROPERTIES', "Update Friends properties");
 
 /**Layout**/
-define('_EN_FRIENDS_LAYOUT_DISPLAY', "Show friends");
-define('_EN_FRIENDS_LAYOUT_DISPLAY_DESC', "Show a list of all friends");
+define('_EN_FRIENDS_ACTIONS_DISPLAY', "Show friends");
+define('_EN_FRIENDS_ACTIONS_DISPLAY_DESC', "Show a list of all friends");
 
 /**Validators**/
 define('_EN_FRIENDS_VALIDATE_NAME', "You need to provide your friend's name");
