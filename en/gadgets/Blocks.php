@@ -28,7 +28,8 @@ define('_EN_BLOCKS_ACL_EDITBLOCK', "Edit blocks");
 define('_EN_BLOCKS_ACL_DELETEBLOCK', "Delete blocks");
 
 /**Layout**/
-define('_EN_BLOCKS_SHOW_BLOCK', "Show this block");
+define('_EN_BLOCKS_ACTIONS_BLOCK', "Show this block");
+define('_EN_BLOCKS_ACTIONS_BLOCK_DESC', "Show block");
 
 /**Responses**/
 define('_EN_BLOCKS_UPDATED', "Block \"{0}\" has been updated");
