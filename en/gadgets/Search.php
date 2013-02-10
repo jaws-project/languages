@@ -17,12 +17,12 @@ define('_EN_SEARCH_DESCRIPTION', "Provides a site wide search function.");
 define('_EN_SEARCH_ACL_DEFAULT', "Manage Search");
 
 // Layout blocks
-define('_EN_SEARCH_LAYOUT_BOX', "Search Box");
-define('_EN_SEARCH_LAYOUT_BOX_DESCRIPTION', "Provides a search box.");
-define('_EN_SEARCH_LAYOUT_SIMPLEBOX', "Simple Search Box");
-define('_EN_SEARCH_LAYOUT_SIMPLEBOX_DESCRIPTION', "Provides a search box without selectable gadgets.");
-define('_EN_SEARCH_LAYOUT_ADVANCEDBOX', "Advanced Search Box");
-define('_EN_SEARCH_LAYOUT_ADVANCEDBOX_DESCRIPTION', "Provides a advanced search box.");
+define('_EN_SEARCH_ACTIONS_BOX', "Search Box");
+define('_EN_SEARCH_ACTIONS_BOX_DESC', "Provides a search box.");
+define('_EN_SEARCH_ACTIONS_SIMPLEBOX', "Simple Search Box");
+define('_EN_SEARCH_ACTIONS_SIMPLEBOX_DESC', "Provides a search box without selectable gadgets.");
+define('_EN_SEARCH_ACTIONS_ADVANCEDBOX', "Advanced Search Box");
+define('_EN_SEARCH_ACTIONS_ADVANCEDBOX_DESC', "Provides a advanced search box.");
 
 // Strings
 define('_EN_SEARCH_RESULTS', "Search Results");
