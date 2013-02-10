@@ -21,9 +21,8 @@ define('_EN_BANNER_ACL_BANNERSGROUPING', "Banner grouping");
 define('_EN_BANNER_ACL_VIEWREPORTS', "View reports");
 
 /* Layout Strings */
-define('_EN_BANNER_ACTION_TITLE', "{0} banners");
-define('_EN_BANNER_ACTION_DISPLAY_NAME', "Banners");
-define('_EN_BANNER_ACTION_DISPLAY_DESCRIPTION', "Display Banners");
+define('_EN_BANNER_ACTIONS_DISPLAY', "Banners");
+define('_EN_BANNER_ACTIONS_DISPLAY_DESC', "Display Banners");
 
 /* Banners Management */
 define('_EN_BANNER_BANNERS_BANNERS', "Banners");
