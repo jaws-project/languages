@@ -156,6 +156,10 @@ define('_EN_USERS_ADVANCED_OPTS_NOT_YET', "No value defined yet");
 define('_EN_USERS_USERS_PERMISSION_ALLOW', "Allow");
 define('_EN_USERS_USERS_PERMISSION_DENY', "Deny");
 define('_EN_USERS_USERS_PERMISSION_NONE', "Default");
+define('_EN_USERS_USER_ACTIVITY', "Activity");
+define('_EN_USERS_USER_ACTIVITY_IN_GADGET', "In {0} gadget");
+define('_EN_USERS_USER_ACTIVITY_ITEM', "{0} Item in {1}");
+define('_EN_USERS_USER_NOT_HAVE_ACTIVITY', "User dose not have any activity!");
 
 /* MyAccount */
 define('_EN_USERS_MYACCOUNT_UPDATED', "Your profile has been updated.");
