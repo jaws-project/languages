@@ -71,6 +71,7 @@ define('_EN_POLICY_PASSWD_LOCKEDOUT_TIME', "Password lockedout time");
 define('_EN_POLICY_PASSWD_MAX_AGE', "Password maximum age");
 define('_EN_POLICY_PASSWD_RESISTANT', "Resistant");
 define('_EN_POLICY_PASSWD_MIN_LEN', "Password minimum length");
+define('_EN_POLICY_LOGIN_CAPTCHA', 'Login captcha');
 define('_EN_POLICY_XSS_PARSING_LEVEL', "XSS parsing level");
 define('_EN_POLICY_XSS_PARSING_NORMAL', "Normal");
 define('_EN_POLICY_XSS_PARSING_PARANOID', "Paranoid");
