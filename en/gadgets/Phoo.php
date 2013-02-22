@@ -190,3 +190,4 @@ define('_EN_PHOO_PHOTO_DELETED',    "The photo has been deleted");
 define('_EN_PHOO_COMMENT_UPDATED',  "The comment has been updated");
 define('_EN_PHOO_COMMENT_DELETED',  "The comment has been deleted");
 define('_EN_PHOO_SETTINGS_UPDATED', "The settings have been updated");
+define('_EN_PHOO_COMMENT_MARKED',   "Some comment has changed their status");

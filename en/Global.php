@@ -269,3 +269,6 @@ define('_EN_GLOBAL_MARK_AS_SPAM', "Mark as spam");
 define('_EN_GLOBAL_SPAM_POSSIBLE_DUPLICATE_MESSAGE', "Duplicate message denied.");
 define('_EN_GLOBAL_MESSAGE_SENT', "Your message successfully sent.");
 define('_EN_GLOBAL_COMMENTS_RESTRICTED', "You must <a href=\"{0}\">login</a> or <a href=\"{1}\">register</a> to post a comment.");
+define('_EN_GLOBAL_COMMENT_UPDATED', "Comment updated");
+define('_EN_GLOBAL_COMMENT_MARKED', "Comment marked");
+define('_EN_GLOBAL_COMMENT_DELETED', "Comment deleted");
