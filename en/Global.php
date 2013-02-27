@@ -33,6 +33,7 @@ define('_EN_GLOBAL_YES', "Yes");
 define('_EN_GLOBAL_NO', "No");
 define('_EN_GLOBAL_CREATED', "Created");
 define('_EN_GLOBAL_UPDATED', "Updated");
+define('_EN_GLOBAL_ADD', "Add {0}");
 define('_EN_GLOBAL_EDIT', "Edit {0}");
 define('_EN_GLOBAL_DELETE', "Delete {0}");
 define('_EN_GLOBAL_START_TIME', "Start Time");
