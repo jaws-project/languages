@@ -79,6 +79,7 @@ define('_EN_STATICPAGE_FASTURL', "Fast URL");
 define('_EN_STATICPAGE_DRAFT', "Draft");
 define('_EN_STATICPAGE_PUBLISHED', "Published");
 define('_EN_STATICPAGE_STATUS', "Status");
+define('_EN_STATICPAGE_ORDERBY', "Order by");
 define('_EN_STATICPAGE_SHOW_TITLE', "Show title");
 define('_EN_STATICPAGE_DEFAULT_PAGE', "Default page");
 define('_EN_STATICPAGE_DEFAULT_LANGUAGE', "Default language");
