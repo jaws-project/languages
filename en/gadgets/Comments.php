@@ -21,6 +21,7 @@ define('_EN_COMMENTS_FILTER', "Filter");
 define('_EN_COMMENTS_EDIT_MESSAGE_DETAILS', "Edit comment");
 define('_EN_COMMENTS_MESSAGE', "Message");
 define('_EN_COMMENTS_CONFIRM_DELETE', "Are you sure you want to delete this comment?");
+define('_EN_COMMENTS_REPLY', "Reply");
 
 define('_EN_COMMENTS_SEARCH_POST_ID_IS', "post ID is");
 define('_EN_COMMENTS_SEARCH_COMMENT_CONTAINS', "comment contains");
