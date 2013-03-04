@@ -16,6 +16,7 @@ define('_EN_COMMENTS_DESCRIPTION', "A gadget to mangament comments");
 define('_EN_COMMENTS_ACTIONS_RECENTCOMMENTS', "Recent comments");
 define('_EN_COMMENTS_ACTIONS_RECENTCOMMENTS_DESC', "show list of recent comments");
 
+define('_EN_COMMENTS_RECENT_COMMENTS', "{0} recent comments");
 define('_EN_COMMENTS_GADGETS', "Gadget");
 define('_EN_COMMENTS_FILTER', "Filter");
 define('_EN_COMMENTS_EDIT_MESSAGE_DETAILS', "Edit comment");
