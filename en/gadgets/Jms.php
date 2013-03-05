@@ -15,8 +15,14 @@
  * "Content-Transfer-Encoding: 8bit"
  */
 
+/* Terms */
 define('_EN_JMS_NAME', "Component Management");
 define('_EN_JMS_DESCRIPTION', "Manage all components in Jaws.");
+define('_EN_JMS_INSTALL', "Install");
+define('_EN_JMS_UNINSTALL', "Uninstall");
+define('_EN_JMS_DISABLE', "DISABLE");
+define('_EN_JMS_UPDATE', "Update");
+
 define('_EN_JMS_INSTALLED_COMPONENTS', "Installed components");
 define('_EN_JMS_UNINSTALLED_COMPONENTS', "Uninstalled components");
 define('_EN_JMS_OUTDATED_COMPONENTS', "Outdated components");
@@ -24,12 +30,8 @@ define('_EN_JMS_KEY', "Key");
 define('_EN_JMS_VALUE', "Value");
 define('_EN_JMS_INFORMATION', "Information");
 define('_EN_JMS_VERSION', "Version");
-define('_EN_JMS_INSTALL', "Install");
-define('_EN_JMS_UNINSTALL', "Uninstall");
-define('_EN_JMS_PURGE', "Purge");
 define('_EN_JMS_UNINSTALLED', "uninstalled");
 define('_EN_JMS_PURGED', "purged");
-define('_EN_JMS_UPDATE', "Update");
 define('_EN_JMS_ONLY_SHOW', "Only show: ");
 
 /* ACL */
@@ -69,13 +71,18 @@ define('_EN_JMS_PLUGINS_UNINSTALL_CONFIRM', "Do you want to uninstall this plugi
 /* Gadgets */
 define('_EN_JMS_GADGETS', "Gadgets");
 define('_EN_JMS_GADGETS_INSTALLED_GADGETS', "Installed gadgets");
+define('_EN_JMS_GADGETS_INSTALLED_GADGETS_DESC', "There are gadgets you can uninstall.");
+define('_EN_JMS_GADGETS_OUTDATED_GADGETS', "Outdated gadgets");
+define('_EN_JMS_GADGETS_OUTDATED_GADGETS_DESC', "These are gadgets that can be updated now.");
 define('_EN_JMS_GADGETS_NOTINSTALLED_GADGETS', "Not installed gadgets");
+define('_EN_JMS_GADGETS_NOTINSTALLED_GADGETS_DESC', "There are gadgets waiting to be installed.");
+define('_EN_JMS_GADGETS_CONFIRM_DISABLE', "Do you want to disable the gadget? This does not delete data from database.");
+define('_EN_JMS_GADGETS_CONFIRM_UNINSTALL', "Do you want to uninstall the gadget? This will delete data from database.");
+
 define('_EN_JMS_GADGETS_NOTHING', "No gadgets");
 define('_EN_JMS_GADGETS_REGISTRY', "Registry Keys");
 define('_EN_JMS_GADGETS_ACL', "ACL Rules");
 define('_EN_JMS_GADGETS_DOESNT_EXISTS', "The gadget {0} does not exists");
-define('_EN_JMS_GADGETS_UNINSTALL_CONFIRM', "Do you want to uninstall the gadget? This option does not delete data");
-define('_EN_JMS_GADGETS_PURGE_CONFIRM', "Do you want to purge the gadget? This option will uninstall and delete data");
 define('_EN_JMS_GADGETS_NOT_EXISTS', "The gadget does not exists");
 define('_EN_JMS_GADGETS_NO_SELECTION', "No gadget has been selected, please select one");
 define('_EN_JMS_GADGETS_ENABLED_OK', "The {0} gadget has been installed sucessfully");
@@ -92,18 +99,16 @@ define('_EN_JMS_GADGETS_REQUIRES_X_DEPENDENCY', "{0} can't be {2} because {1} ga
 define('_EN_JMS_SIDEBAR_ENABLE', "Enable");
 define('_EN_JMS_SIDEBAR_DISABLE', "Disable");
 
-/* Gadgets Sidebar */
+/* For compatability */
 define('_EN_JMS_SIDEBAR_DISABLED_GADGETS', "Disabled Gadgets");
 define('_EN_JMS_SIDEBAR_GADGETS_WAITING', "There are gadgets waiting to be enabled:");
 define('_EN_JMS_SIDEBAR_ENABLED_GADGETS', "Enabled Gadgets");
 define('_EN_JMS_SIDEBAR_DISABLE_GADGETS_WAITING', "There are gadgets you can disable:");
+define('_EN_JMS_SIDEBAR_NOTUPDATED_GADGETS', "Outdated Gadgets");
+define('_EN_JMS_SIDEBAR_NOTUPDATED_SUGESTION', "These are gadgets that can be updated now:");
 
 /* Gadget disabling errors */
 define('_EN_JMS_SIDEBAR_DISABLE_MAIN_FAILURE', "Cannot disable main gadget");
-
-/* Not updated gadgets sidebar */
-define('_EN_JMS_SIDEBAR_NOTUPDATED_GADGETS', "Outdated Gadgets");
-define('_EN_JMS_SIDEBAR_NOTUPDATED_SUGESTION', "These are gadgets that can be updated now:");
 
 /* Plugins Sidebar */
 define('_EN_JMS_SIDEBAR_DISABLED_PLUGINS', "Disabled Plugins");
