@@ -217,6 +217,7 @@ define('_EN_GLOBAL_ERROR_LOGIN_STATUS_0', "This username is disabled");
 define('_EN_GLOBAL_ERROR_LOGIN_STATUS_2', "This username is not verified");
 define('_EN_GLOBAL_ERROR_SESSION_NOTFOUND', "Session not found, please try again");
 define('_EN_GLOBAL_ERROR_INVALID_USERNAME', "The username is not valid, it can only contain letters or numbers, with a length of more than 2 characters");
+define('_EN_GLOBAL_ERROR_INVALID_GROUPNAME', "The group name is not valid, it can only contain letters or numbers, with a length of more than 2 characters");
 define('_EN_GLOBAL_ERROR_INVALID_EMAIL_ADDRESS', "The email address is not valid");
 define('_EN_GLOBAL_ERROR_INVALID_PASSWORD', "The password is not valid, it can only contain printable ASCII characters, with {0} characters minimum length");
 define('_EN_GLOBAL_ERROR_INVALID_COMPLEXITY', "The password is not complex enough, it must contain lower, upper, number and special characters");
