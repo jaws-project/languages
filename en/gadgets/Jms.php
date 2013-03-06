@@ -17,22 +17,20 @@
 
 /* Terms */
 define('_EN_JMS_NAME', "Component Management");
-define('_EN_JMS_DESCRIPTION', "Manage all components in Jaws.");
+define('_EN_JMS_DESCRIPTION', "Manage gadgets and plugins.");
+define('_EN_JMS_UPDATE', "Update");
 define('_EN_JMS_INSTALL', "Install");
 define('_EN_JMS_UNINSTALL', "Uninstall");
-define('_EN_JMS_DISABLE', "DISABLE");
-define('_EN_JMS_UPDATE', "Update");
+define('_EN_JMS_ENABLE', "Enable");
+define('_EN_JMS_DISABLE', "Disable");
+define('_EN_JMS_VERSION', "Version");
+define('_EN_JMS_JAWS_VERSION', "Required Jaws version");
+define('_EN_JMS_DEPENDENCIES', "Dependencies");
 
-define('_EN_JMS_INSTALLED_COMPONENTS', "Installed components");
-define('_EN_JMS_UNINSTALLED_COMPONENTS', "Uninstalled components");
-define('_EN_JMS_OUTDATED_COMPONENTS', "Outdated components");
+define('_EN_JMS_GADGET_LOCATION', "Location");
+
 define('_EN_JMS_KEY', "Key");
 define('_EN_JMS_VALUE', "Value");
-define('_EN_JMS_INFORMATION', "Information");
-define('_EN_JMS_VERSION', "Version");
-define('_EN_JMS_UNINSTALLED', "uninstalled");
-define('_EN_JMS_PURGED', "purged");
-define('_EN_JMS_ONLY_SHOW', "Only show: ");
 
 /* ACL */
 define('_EN_JMS_ACL_MANAGEJMS', "Use component manager");
@@ -81,7 +79,7 @@ define('_EN_JMS_GADGETS_CONFIRM_UNINSTALL', "Do you want to uninstall the gadget
 
 define('_EN_JMS_GADGETS_NOTHING', "No gadgets");
 define('_EN_JMS_GADGETS_REGISTRY', "Registry Keys");
-define('_EN_JMS_GADGETS_ACL', "ACL Rules");
+define('_EN_JMS_GADGETS_ACL', "ACL rules");
 define('_EN_JMS_GADGETS_DOESNT_EXISTS', "The gadget {0} does not exists");
 define('_EN_JMS_GADGETS_NOT_EXISTS', "The gadget does not exists");
 define('_EN_JMS_GADGETS_NO_SELECTION', "No gadget has been selected, please select one");
