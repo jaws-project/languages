@@ -41,8 +41,8 @@ define('_EN_USERS_ACTIONS_ONLINESTATISTICS', "Online users statistics");
 define('_EN_USERS_ACTIONS_ONLINESTATISTICS_DESC', "Display statistics of online users/guests");
 define('_EN_USERS_ACTIONS_LATESTREGISTERED', "Latest registered users");
 define('_EN_USERS_ACTIONS_LATESTREGISTERED_DESC', "Display Latest registered users");
-define('_EN_USERS_ACTIONS_PROFILE', "About a user");
-define('_EN_USERS_ACTIONS_PROFILE_DESC', "Display user's profile information");
+define('_EN_USERS_ACTIONS_ABOUTUSER', "About a user");
+define('_EN_USERS_ACTIONS_ABOUTUSER_DESC', "Display some information about a user");
 
 /* Group Management */
 define('_EN_USERS_GROUPS_GROUPNAME', "Group name");
