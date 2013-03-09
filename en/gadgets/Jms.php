@@ -42,6 +42,8 @@ define('_EN_JMS_GADGETS_OUTDATED', "Outdated gadgets");
 define('_EN_JMS_GADGETS_OUTDATED_DESC', "These are gadgets that can be updated now.");
 define('_EN_JMS_GADGETS_NOTINSTALLED', "Not installed gadgets");
 define('_EN_JMS_GADGETS_NOTINSTALLED_DESC', "There are gadgets waiting to be installed.");
+define('_EN_JMS_GADGETS_CORE', "Core gadgets");
+define('_EN_JMS_GADGETS_CORE_DESC', "Core gadgets could not be uninstalled.");
 define('_EN_JMS_GADGETS_LOCATION', "Location");
 define('_EN_JMS_GADGETS_CONFIRM_UNINSTALL', "Do you want to uninstall the gadget? This will delete data from database.");
 define('_EN_JMS_GADGETS_CONFIRM_DISABLE', "Do you want to disable the gadget? This does not delete data from database.");
