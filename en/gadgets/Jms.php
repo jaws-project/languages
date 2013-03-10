@@ -11,8 +11,8 @@
  */
 
 /* JMS */
-define('_EN_JMS_NAME', "Component Management");
-define('_EN_JMS_DESCRIPTION', "Manage gadgets and plugins.");
+define('_EN_JMS_NAME', "Components");
+define('_EN_JMS_DESCRIPTION', "Manage gadgets and plugins");
 
 /* ACL */
 define('_EN_JMS_ACL_MANAGEJMS', "Use component manager");
@@ -26,6 +26,7 @@ define('_EN_JMS_UPDATE', "Update");
 define('_EN_JMS_DISABLE', "Disable");
 define('_EN_JMS_VERSION', "Version");
 define('_EN_JMS_JAWS_VERSION', "Required Jaws version");
+define('_EN_JMS_SUMMARY', "Summary");
 
 /* Gadgets */
 define('_EN_JMS_GADGETS', "Gadgets");
@@ -40,6 +41,7 @@ define('_EN_JMS_GADGETS_CORE_DESC', "Core gadgets could not be uninstalled.");
 define('_EN_JMS_GADGETS_LOCATION', "Location");
 define('_EN_JMS_GADGETS_DEPENDENCIES', "Dependencies");
 define('_EN_JMS_GADGETS_ACL_RULES', "ACL rules");
+define('_EN_JMS_GADGETS_TOTAL', "Total gadgets");
 define('_EN_JMS_GADGETS_CONFIRM_UNINSTALL', "Do you want to uninstall the gadget? This will delete data from database.");
 define('_EN_JMS_GADGETS_CONFIRM_DISABLE', "Do you want to disable the gadget? This does not delete data from database.");
 define('_EN_JMS_GADGETS_NOT_EXISTS', "The gadget does not exists.");
@@ -69,6 +71,7 @@ define('_EN_JMS_PLUGINS_NOT_FRIENDLY', "Not friendly");
 define('_EN_JMS_PLUGINS_ACCESSKEY', "Access Key");
 define('_EN_JMS_PLUGINS_NO_ACCESSKEY', "No access key found");
 define('_EN_JMS_PLUGINS_USE_ALWAYS', "All Gadgets");
+define('_EN_JMS_PLUGINS_TOTAL', "Total plugins");
 define('_EN_JMS_PLUGINS_UPDATED', "Your plugin settings have been updated.");
 define('_EN_JMS_PLUGINS_INSTALL_OK', "The {0} plugin has been installed sucessfully.");
 define('_EN_JMS_PLUGINS_INSTALL_FAILURE', "There was a problem installing {0} plugin.");
