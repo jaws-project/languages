@@ -255,10 +255,12 @@ define('_EN_GLOBAL_CAPTCHA_ERROR_FORCED_CAPTCHAS_NOT_DELETED', "There was a prob
 define('_EN_GLOBAL_CAPTCHA_ERROR_DOES_NOT_MATCH', "The captcha you wrote doesn't match with the image");
 
 /* HTTP Error Codes */
-define('_EN_GLOBAL_HTTP_ERROR_TITLE_404', "Page not found");
-define('_EN_GLOBAL_HTTP_ERROR_CONTENT_404', "The requested page {0} could not be found, please contact the site administrator if you believe it should exist.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_403', "Access Denied/Forbidden");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_403', "You are not authorized to view this page.");
+define('_EN_GLOBAL_HTTP_ERROR_TITLE_404', "Page not found");
+define('_EN_GLOBAL_HTTP_ERROR_CONTENT_404', "The requested page {0} could not be found, please contact the site administrator if you believe it should exist.");
+define('_EN_GLOBAL_HTTP_ERROR_TITLE_410', "Page not found");
+define('_EN_GLOBAL_HTTP_ERROR_CONTENT_410', "The requested page is no longer available.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_500', "Internal Server Error");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_500', "Internal Server Error, please contact the site administrator if you believe it should fix.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_503', "Service Unavailable");
