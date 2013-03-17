@@ -255,6 +255,10 @@ define('_EN_GLOBAL_CAPTCHA_ERROR_FORCED_CAPTCHAS_NOT_DELETED', "There was a prob
 define('_EN_GLOBAL_CAPTCHA_ERROR_DOES_NOT_MATCH', "The captcha you wrote doesn't match with the image");
 
 /* HTTP Error Codes */
+define('_EN_GLOBAL_HTTP_ERROR_TITLE_301', "Moved permanently");
+define('_EN_GLOBAL_HTTP_ERROR_CONTENT_301', "The requested page was permanently moved.");
+define('_EN_GLOBAL_HTTP_ERROR_TITLE_302', "Moved temporarily");
+define('_EN_GLOBAL_HTTP_ERROR_CONTENT_302', "The requested page was temporarily moved.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_403', "Access Denied/Forbidden");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_403', "You are not authorized to view this page.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_404', "Page not found");
