@@ -263,7 +263,7 @@ define('_EN_GLOBAL_HTTP_ERROR_TITLE_403', "Access Denied/Forbidden");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_403', "You are not authorized to view this page.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_404', "Page not found");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_404', "The requested page {0} could not be found, please contact the site administrator if you believe it should exist.");
-define('_EN_GLOBAL_HTTP_ERROR_TITLE_410', "Page not found");
+define('_EN_GLOBAL_HTTP_ERROR_TITLE_410', "Page gone");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_410', "The requested page is no longer available.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_500', "Internal Server Error");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_500', "Internal Server Error, please contact the site administrator if you believe it should fix.");
