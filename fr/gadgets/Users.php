@@ -76,7 +76,7 @@ define('_FR_USERS_USERS_GENDER_2', "Femme");
 define('_FR_USERS_USERS_BIRTHDAY', "Date de naissance");
 define('_FR_USERS_USERS_BIRTHDAY_SAMPLE', "ex: 2009/08/31");
 define('_FR_USERS_USERS_SHOW_ALL', "Afficher tout");
-define('_FR_USERS_USERS_CONCURRENT_LOGINS', "Connexions simultanées");
+define('_FR_USERS_USERS_CONCURRENTS', "Connexions simultanées");
 define('_FR_USERS_FIND_USER', "Chercher un utilisateur");
 define('_FR_USERS_USERS_SEND_AUTO_PASSWORD', "Laissez-le vide pour recevoir un mail contenant un mot de passe aléatoire");
 define('_FR_USERS_USERS_PASSWORD_VERIFY', "Vérifier le mot de passe");

@@ -77,7 +77,7 @@ define('_NB_USERS_USERS_GENDER', "Kjønn");
 define('_NB_USERS_USERS_BIRTHDAY', "Fødselsdato");
 define('_NB_USERS_USERS_BIRTHDAY_SAMPLE', "F.eks 2009/08/31");
 define('_NB_USERS_USERS_SHOW_ALL', "Vis alle");
-define('_NB_USERS_USERS_CONCURRENT_LOGINS', "Samtidige innlogginger");
+define('_NB_USERS_USERS_CONCURRENTS', "Samtidige innlogginger");
 define('_NB_USERS_USERS_EXPIRY_DATE', "Utløpsdato");
 define('_NB_USERS_USERS_SEND_AUTO_PASSWORD', "La være tom for å få sendt et tilfeldig passord til E-postadressen din");
 define('_NB_USERS_USERS_PASSWORD_VERIFY', "Bekreft passordet");

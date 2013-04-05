@@ -82,7 +82,7 @@ define('_RU_USERS_USERS_GENDER_2', "Женский");
 define('_RU_USERS_USERS_BIRTHDAY', "День рождения");
 define('_RU_USERS_USERS_BIRTHDAY_SAMPLE', "например, 2009/08/31");
 define('_RU_USERS_USERS_SHOW_ALL', "Показать всех");
-define('_RU_USERS_USERS_CONCURRENT_LOGINS', "Одновременных входов");
+define('_RU_USERS_USERS_CONCURRENTS', "Одновременных входов");
 define('_RU_USERS_USERS_EXPIRY_DATE', "Срок действия");
 define('_RU_USERS_FIND_USER', "Найти пользователя");
 define('_RU_USERS_USERS_SEND_AUTO_PASSWORD', "Оставьте пустым, чтобы отправить случайный пароль на ваш e-mail");

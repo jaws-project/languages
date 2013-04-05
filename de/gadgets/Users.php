@@ -82,7 +82,7 @@ define('_DE_USERS_USERS_GENDER_2', "Weiblich");
 define('_DE_USERS_USERS_BIRTHDAY', "Geburtsdatum");
 define('_DE_USERS_USERS_BIRTHDAY_SAMPLE', "z.B., 31.08.2009");
 define('_DE_USERS_USERS_SHOW_ALL', "Alle zeigen");
-define('_DE_USERS_USERS_CONCURRENT_LOGINS', "Parallele Logins");
+define('_DE_USERS_USERS_CONCURRENTS', "Parallele Logins");
 define('_DE_USERS_USERS_EXPIRY_DATE', "Ablaufdatum");
 define('_DE_USERS_USERS_SEND_AUTO_PASSWORD', "Nicht ausfüllen, um ein zufällig generiertes Passwort zu Ihrer E-Mail-Adresse versenden zu lassen");
 define('_DE_USERS_USERS_PASSWORD_VERIFY', "Passwort verifzieren");

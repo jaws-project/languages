@@ -82,7 +82,7 @@ define('_TR_USERS_USERS_GENDER_2', "Bayan");
 define('_TR_USERS_USERS_BIRTHDAY', "Doğum Günü");
 define('_TR_USERS_USERS_BIRTHDAY_SAMPLE', "örn.,2009/08/31");
 define('_TR_USERS_USERS_SHOW_ALL', "Hepsini göster");
-define('_TR_USERS_USERS_CONCURRENT_LOGINS', "Eş zamanlı oturum açma");
+define('_TR_USERS_USERS_CONCURRENTS', "Eş zamanlı oturum açma");
 define('_TR_USERS_USERS_EXPIRY_DATE', "Son kullanma tarihi");
 define('_TR_USERS_USERS_SEND_AUTO_PASSWORD', "E-İleti adresinize rasgele şifre göndermek için boş bırakın");
 define('_TR_USERS_USERS_PASSWORD_VERIFY', "Şifreyi Doğrula");

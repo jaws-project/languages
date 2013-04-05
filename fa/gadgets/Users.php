@@ -109,7 +109,7 @@ define('_FA_USERS_USERS_EXPERIENCES', "کاردانی و توانمندی");
 define('_FA_USERS_USERS_OCCUPATIONS', "پیشینه کاری");
 define('_FA_USERS_USERS_INTERESTS', "دلبستگی ها");
 define('_FA_USERS_USERS_SHOW_ALL', "دیدن همه");
-define('_FA_USERS_USERS_CONCURRENT_LOGINS', "تعداد ورود همزمان");
+define('_FA_USERS_USERS_CONCURRENTS', "تعداد ورود همزمان");
 define('_FA_USERS_USERS_EXPIRY_DATE', "زمان پایان");
 define('_FA_USERS_USERS_REGISTRATION_DATE', "زمان نام نویسی");
 define('_FA_USERS_USERS_SEARCH_TERM', "گزاره");

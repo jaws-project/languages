@@ -76,7 +76,7 @@ define('_SV_USERS_USERS_GENDER_2', "Kvinna");
 define('_SV_USERS_USERS_BIRTHDAY', "Födelsedag");
 define('_SV_USERS_USERS_BIRTHDAY_SAMPLE', "som: 2009/08/31");
 define('_SV_USERS_USERS_SHOW_ALL', "Visa alla");
-define('_SV_USERS_USERS_CONCURRENT_LOGINS', "Löpande inloggningar");
+define('_SV_USERS_USERS_CONCURRENTS', "Löpande inloggningar");
 define('_SV_USERS_FIND_USER', "Hitta användare");
 define('_SV_USERS_USERS_SEND_AUTO_PASSWORD', "Låt stå tomt för att generera slumpat lösenord som skickas till din epostadress");
 define('_SV_USERS_USERS_PASSWORD_VERIFY', "Verifiera lösenord");
