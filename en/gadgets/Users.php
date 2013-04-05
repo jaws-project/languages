@@ -114,7 +114,7 @@ define('_EN_USERS_USERS_EXPERIENCES', "Experiences and Skills");
 define('_EN_USERS_USERS_OCCUPATIONS', "Occupations");
 define('_EN_USERS_USERS_INTERESTS', "Interests");
 define('_EN_USERS_USERS_SHOW_ALL', "Show all");
-define('_EN_USERS_USERS_CONCURRENT', "Concurrent logins");
+define('_EN_USERS_USERS_CONCURRENTS', "Concurrent logins");
 define('_EN_USERS_USERS_EXPIRY_DATE', "Expiry date");
 define('_EN_USERS_USERS_REGISTRATION_DATE', "Registration date");
 define('_EN_USERS_USERS_SEARCH_TERM', "Term");
