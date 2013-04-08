@@ -22,8 +22,9 @@ define('_EN_JMS_ACL_MANAGEPLUGINS', "Install/Uninstall plugins");
 /* Terms */
 define('_EN_JMS_INSTALL', "Install");
 define('_EN_JMS_UNINSTALL', "Uninstall");
-define('_EN_JMS_UPDATE', "Update");
+define('_EN_JMS_ENABLE', "Enable");
 define('_EN_JMS_DISABLE', "Disable");
+define('_EN_JMS_UPDATE', "Update");
 define('_EN_JMS_VERSION', "Version");
 define('_EN_JMS_JAWS_VERSION', "Required Jaws version");
 define('_EN_JMS_SUMMARY', "Summary");
@@ -36,6 +37,7 @@ define('_EN_JMS_GADGETS_OUTDATED', "Outdated gadgets");
 define('_EN_JMS_GADGETS_OUTDATED_DESC', "These gadgets can be updated now");
 define('_EN_JMS_GADGETS_NOTINSTALLED', "Not installed gadgets");
 define('_EN_JMS_GADGETS_NOTINSTALLED_DESC', "There are gadgets waiting to be installed");
+define('_EN_JMS_GADGETS_DISABLED', "Disabled gadgets");
 define('_EN_JMS_GADGETS_CORE', "Core gadgets");
 define('_EN_JMS_GADGETS_CORE_DESC', "Core gadgets could not be uninstalled");
 define('_EN_JMS_GADGETS_LOCATION', "Location");
