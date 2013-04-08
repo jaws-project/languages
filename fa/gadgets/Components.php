@@ -2,7 +2,7 @@
 /**
  * Meta Data
  *
- * "Project-Id-Version: Jms"
+ * "Project-Id-Version: Components"
  * "Last-Translator: Mohsen Khahani <mkhahani@gmail.com>"
  * "Language-Team: FA"
  * "MIME-Version: 1.0"
@@ -17,8 +17,9 @@ define('_FA_COMPONENTS_ACL_MANAGEGADGETS', "مدیریت ابزارها");
 define('_FA_COMPONENTS_ACL_MANAGEPLUGINS', "مدیریت افزونه ها");
 define('_FA_COMPONENTS_INSTALL', "نصب");
 define('_FA_COMPONENTS_UNINSTALL', "حذف");
-define('_FA_COMPONENTS_UPDATE', "بروزرسانی");
+define('_FA_COMPONENTS_ENABLE', "فعال");
 define('_FA_COMPONENTS_DISABLE', "غیرفعال");
+define('_FA_COMPONENTS_UPDATE', "بروزرسانی");
 define('_FA_COMPONENTS_VERSION', "نگارش");
 define('_FA_COMPONENTS_JAWS_VERSION', "نگارش جاوز موردنیاز");
 define('_FA_COMPONENTS_SUMMARY', "خلاصه");
@@ -29,9 +30,10 @@ define('_FA_COMPONENTS_GADGETS_OUTDATED', "ابزارهای قدیمی");
 define('_FA_COMPONENTS_GADGETS_OUTDATED_DESC', "ابزارهایی که می توانید بروزرسانی کنید");
 define('_FA_COMPONENTS_GADGETS_NOTINSTALLED', "ابزارهای نصب نشده");
 define('_FA_COMPONENTS_GADGETS_NOTINSTALLED_DESC', "ابزارهایی که می توانید نصب کنید");
+define('_FA_COMPONENTS_GADGETS_DISABLED', "ابزارهای غیرفعال");
 define('_FA_COMPONENTS_GADGETS_CORE', "ابزارهای هسته");
 define('_FA_COMPONENTS_GADGETS_CORE_DESC', "ابزارهای هسته قابل حذف نیستند");
-define('_FA_COMPONENTS_GADGETS_LOCATION', "محل نمایش");
+define('_FA_COMPONENTS_GADGETS_SECTION', "بخش");
 define('_FA_COMPONENTS_GADGETS_DEPENDENCIES', "وابستگی ها");
 define('_FA_COMPONENTS_GADGETS_ACL_RULES', "مجوزها");
 define('_FA_COMPONENTS_GADGETS_TOTAL', "کل ابزارها");

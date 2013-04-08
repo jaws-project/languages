@@ -40,7 +40,7 @@ define('_EN_COMPONENTS_GADGETS_NOTINSTALLED_DESC', "There are gadgets waiting to
 define('_EN_COMPONENTS_GADGETS_DISABLED', "Disabled gadgets");
 define('_EN_COMPONENTS_GADGETS_CORE', "Core gadgets");
 define('_EN_COMPONENTS_GADGETS_CORE_DESC', "Core gadgets could not be uninstalled");
-define('_EN_COMPONENTS_GADGETS_LOCATION', "Location");
+define('_EN_COMPONENTS_GADGETS_SECTION', "Section");
 define('_EN_COMPONENTS_GADGETS_DEPENDENCIES', "Dependencies");
 define('_EN_COMPONENTS_GADGETS_ACL_RULES', "ACL rules");
 define('_EN_COMPONENTS_GADGETS_TOTAL', "Total gadgets");
@@ -48,9 +48,9 @@ define('_EN_COMPONENTS_GADGETS_CONFIRM_UNINSTALL', "Do you want to uninstall the
 define('_EN_COMPONENTS_GADGETS_CONFIRM_DISABLE', "Do you want to disable the gadget? This does not delete data from database.");
 define('_EN_COMPONENTS_GADGETS_NOT_EXISTS', "The gadget does not exists.");
 define('_EN_COMPONENTS_GADGETS_DISABLE_MAIN_FAILURE', "Cannot disable main gadget.");
-define('_EN_COMPONENTS_GADGETS_ENABLE_OK', "The {0} gadget has been installed sucessfully.");
+define('_EN_COMPONENTS_GADGETS_ENABLE_OK', "The {0} gadget has been enabled sucessfully.");
 define('_EN_COMPONENTS_GADGETS_ENABLE_FAILURE', "There was a problem installing {0} gadget.");
-define('_EN_COMPONENTS_GADGETS_DISABLE_OK', "The {0} gadget has been uninstalled successfully.");
+define('_EN_COMPONENTS_GADGETS_DISABLE_OK', "The {0} gadget has been disabled successfully.");
 define('_EN_COMPONENTS_GADGETS_DISABLE_FAILURE', "There was a problem uninstalling {0} gadget.");
 define('_EN_COMPONENTS_GADGETS_UPDATE_OK', "The {0} gadget has been updated successfully.");
 define('_EN_COMPONENTS_GADGETS_UPDATE_FAILURE', "There was a problem updating {0} gadget.");
