@@ -3,7 +3,7 @@
  * Meta Data
  *
  * "Project-Id-Version: Plugins_FileBrowser"
- * "Last-Translator: Mohsen Khahani <mohsen@khahani.com>"
+ * "Last-Translator: "
  * "Language-Team: NB"
  * "MIME-Version: 1.0"
  * "Content-Type: text/plain; charset=UTF-8"
