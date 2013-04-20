@@ -30,6 +30,7 @@ define('_EN_COMMENTS_SEND', "Send Message");
 define('_EN_COMMENTS_COMMENTS', "Comments");
 define('_EN_COMMENTS_COMMENTS_COUNT', "{0} comments");
 
+define('_EN_COMMENTS_FILTER_BY', "Filter by");
 define('_EN_COMMENTS_SEARCH_POST_ID_IS', "post ID is");
 define('_EN_COMMENTS_SEARCH_COMMENT_CONTAINS', "comment contains");
 define('_EN_COMMENTS_SEARCH_NAME_CONTAINS', "name contains");
