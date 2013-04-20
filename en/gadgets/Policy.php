@@ -51,7 +51,6 @@ define('_EN_POLICY_ENCRYPTION_KEY_START_DATE', "Key Start Date");
 
 //AntiSpam
 define('_EN_POLICY_ANTISPAM', "AntiSpam");
-define('_EN_POLICY_ANTISPAM_ALLOWDUPLICATE', "Allow duplicate messages");
 define('_EN_POLICY_ANTISPAM_CAPTCHA', "Captcha");
 define('_EN_POLICY_ANTISPAM_CAPTCHA_ALWAYS', "Always");
 define('_EN_POLICY_ANTISPAM_CAPTCHA_ANONYMOUS', "Anonymous users only");
