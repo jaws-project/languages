@@ -29,6 +29,8 @@ define('_EN_COMMENTS_REPLY', "Reply");
 define('_EN_COMMENTS_SEND', "Send Message");
 define('_EN_COMMENTS_COMMENTS', "Comments");
 define('_EN_COMMENTS_COMMENTS_COUNT', "{0} comments");
+define('_EN_COMMENTS_USERS_REGISTERED_DATE', "Registered date");
+define('_EN_COMMENTS_POSTEDBY', "Posted by");
 
 define('_EN_COMMENTS_FILTER_BY', "Filter by");
 define('_EN_COMMENTS_SEARCH_POST_ID_IS', "post ID is");
