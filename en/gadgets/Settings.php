@@ -33,8 +33,6 @@ define('_EN_SETTINGS_ADMIN_LANGUAGE', "Admin Area Language");
 define('_EN_SETTINGS_MAIN_GADGET', "Default Gadget");
 define('_EN_SETTINGS_SITE_EMAIL', "Default Site Email");
 define('_EN_SETTINGS_DATE_FORMAT', "Date Format");
-define('_EN_SETTINGS_ALLOW_COMMENTS', "Allow comments site-wide");
-define('_EN_SETTINGS_ALLOW_COMMENTS_RESTRICTED', "Restricted");
 define('_EN_SETTINGS_GRAVATAR', "Gravatar Rating");
 define('_EN_SETTINGS_GRAVATAR_G', "G: Child friendly content.");
 define('_EN_SETTINGS_GRAVATAR_PG', "PG: Possibly offensive content.");

@@ -43,5 +43,7 @@ define('_EN_COMMENTS_SEARCH_IP_IS', "ip address is");
 define('_EN_COMMENTS_ANTISPAM_ALLOWDUPLICATE', "Allow duplicate messages");
 define('_EN_COMMENTS_PROPERTIES_UPDATED', "Properties have been updated");
 define('_EN_COMMENTS_ERROR_CANT_UPDATE_PROPERTIES', "There was a problem updating the properties");
+define('_EN_COMMENTS_ALLOW_COMMENTS', "Allow comments site-wide");
+define('_EN_COMMENTS_ALLOW_COMMENTS_RESTRICTED', "Restricted");
 
 
