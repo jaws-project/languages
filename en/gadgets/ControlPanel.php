@@ -26,7 +26,6 @@ define('_EN_CONTROLPANEL_GADGETS', "Gadgets");
 /* Login Form */
 define('_EN_CONTROLPANEL_LOGIN_BAD_AUTH', "You entered the wrong username and/or password.");
 define('_EN_CONTROLPANEL_LOGIN_LOST_PASSWORD', "Lost your password?");
-define('_EN_CONTROLPANEL_AUTH_METHOD', "Authentication Method");
 define('_EN_CONTROLPANEL_LOGIN_BACK_TO_SITE', "Back to site");
 define('_EN_CONTROLPANEL_LOGIN_TITLE', "Login");
 

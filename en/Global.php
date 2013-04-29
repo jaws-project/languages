@@ -93,6 +93,7 @@ define('_EN_GLOBAL_LOGIN', "Login");
 define('_EN_GLOBAL_LOGOUT', "Logout");
 define('_EN_GLOBAL_USERNAME', "Username");
 define('_EN_GLOBAL_PASSWORD', "Password");
+define('_EN_GLOBAL_AUTHTYPE', "Authentication Type");
 define('_EN_GLOBAL_MY_ACCOUNT', "My Account");
 define('_EN_GLOBAL_REMEMBER_ME', "Remember me");
 define('_EN_GLOBAL_LOGIN_SECURE', "Secure login");
