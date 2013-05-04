@@ -118,6 +118,7 @@ define('_EN_INSTALL_CONFIG_INFO', "You now need to save your configuration file.
 define('_EN_INSTALL_CONFIG_SOLUTION', "You can do this in two ways");
 define('_EN_INSTALL_CONFIG_SOLUTION_PERMISSION', "Make <strong>{0}</strong> writable, and hit next, which will allow the installer to save the configuration itself.");
 define('_EN_INSTALL_CONFIG_SOLUTION_UPLOAD', "Copy and paste the contents of the box below into a file and save it as <strong>{0}</strong>");
+define('_EN_INSTALL_CONFIG_LOGLEVEL', 'Jaws logging level');
 define('_EN_INSTALL_CONFIG_RESPONSE_WRITE_FAILED', "There was an unknown error writing the configuration file.");
 define('_EN_INSTALL_CONFIG_RESPONSE_MAKE_CONFIG', "You need to either make the config directory writable, or create {0} by hand.");
 

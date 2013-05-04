@@ -103,6 +103,7 @@ define('_FA_INSTALL_CONFIG_INFO', "حالا شما نیاز دارید که فا
 define('_FA_INSTALL_CONFIG_SOLUTION', "شما این کار را می توانید  از دو طریق انجام دهید");
 define('_FA_INSTALL_CONFIG_SOLUTION_PERMISSION', "{0} را قابل نوشتن کنید و برروی کلید بعدی کلیک نمایید، با اینکار اجازه می دهید تنظیمات بوسیله نصب کننده ذخیره شوند.");
 define('_FA_INSTALL_CONFIG_SOLUTION_UPLOAD', "محتویات کادر زیر را کپی کرده و در یک فایل الصاق نمایید و با نام {0} ذخیره کنید");
+define('_FA_INSTALL_CONFIG_LOGLEVEL', "پایه رویدادنگاری");
 define('_FA_INSTALL_CONFIG_RESPONSE_WRITE_FAILED', "یک خطای ناشناخته در هنگام نوشتن فایل پیکربندی رخ داده است.");
 define('_FA_INSTALL_CONFIG_RESPONSE_MAKE_CONFIG', "شما باید پوشه config را قابل نوشتن نمایید و یا {0} را خودتان ایجاد نماید. ");
 define('_FA_INSTALL_FINISH_INFO', "نصب وب سایت شما با موفقیت به پایان رسید!");
