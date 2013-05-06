@@ -20,6 +20,7 @@ define('_EN_CONTACT_ACL_EDITSENTMESSAGE', "Edit sent messages");
 define('_EN_CONTACT_ACL_MANAGERECIPIENTS', "Manage recipients");
 define('_EN_CONTACT_ACL_ACCESSTOMAILER', "Access to mailer");
 define('_EN_CONTACT_ACL_UPDATEPROPERTIES', "Update properties");
+define('_EN_CONTACT_ACL_ALLOWATTACHMENT', "Allow Attachment");
 
 /* Common Strings */
 define('_EN_CONTACT_COMPANY', "Company");
