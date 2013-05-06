@@ -28,6 +28,9 @@ define('_EN_COMPONENTS_UPDATE', "Update");
 define('_EN_COMPONENTS_VERSION', "Version");
 define('_EN_COMPONENTS_JAWS_VERSION', "Required Jaws version");
 define('_EN_COMPONENTS_SUMMARY', "Summary");
+define('_EN_COMPONENTS_INFO', "Info");
+define('_EN_COMPONENTS_REGISTRY', "Registry");
+define('_EN_COMPONENTS_ACL', "ACL");
 
 /* Gadgets */
 define('_EN_COMPONENTS_GADGETS', "Gadgets");
