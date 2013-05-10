@@ -179,6 +179,7 @@ define('_EN_USERS_EDIT_ACCOUNT', "Edit Account");
 define('_EN_USERS_EDIT_PERSONAL', "Edit Personal");
 define('_EN_USERS_CONTROLPANEL', "Control Panel");
 define('_EN_USERS_EDIT_PREFERENCES', "Edit Preferences");
+define('_EN_USERS_EDIT_CONTACTS', "Edit Contacts");
 define('_EN_USERS_PREFERENCES_UPDATED', "Your preferences have been updated.");
 define('_EN_USERS_LOGINLINKS', "Login links");
 define('_EN_USERS_WELCOME', 'Welcome');
