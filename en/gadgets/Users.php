@@ -149,6 +149,15 @@ define('_EN_USERS_RESET_ACL', "Reset ACL");
 define('_EN_USERS_RESET_ACL_CONFIRM', "Are you sure you want to reset (delete) the permissions?");
 define('_EN_USERS_PERSONAL', "Personal Information");
 define('_EN_USERS_PREFERENCES', "Preferences");
+define('_EN_USERS_CONTACTS', "Contacts Information");
+define('_EN_USERS_CONTACTS_COUNTRY', "Country");
+define('_EN_USERS_CONTACTS_CITY', "City");
+define('_EN_USERS_CONTACTS_ADDRESS', "Address");
+define('_EN_USERS_CONTACTS_POSTAL_CODE', "Postal code");
+define('_EN_USERS_CONTACTS_PHONE_NUMBER', "Phone number");
+define('_EN_USERS_CONTACTS_MOBILE_NUMBER', "Mobile number");
+define('_EN_USERS_CONTACTS_FAX_NUMBER', "Fax number");
+
 define('_EN_USERS_ADVANCED_OPTS_EDITOR', "User editor");
 define('_EN_USERS_ADVANCED_OPTS_LANGUAGE', "Preferred language");
 define('_EN_USERS_ADVANCED_OPTS_THEME', "Preferred theme");
@@ -182,6 +191,7 @@ define('_EN_USERS_USER_DELETED', "User {0} has been deleted.");
 define('_EN_USERS_USERS_ACL_RESETED', "User privileges have been reseted.");
 define('_EN_USERS_USERS_PERSONALINFO_UPDATED', "Personal information have been updated");
 define('_EN_USERS_USERS_ADVANCED_UPDATED', "User advanced options have been updated");
+define('_EN_USERS_USERS_CONTACTINFO_UPDATED', "User contacts information have been updated");
 
 /* User Management Errors */
 define('_EN_USERS_USERS_NOT_CREATED', "There was a problem creating user {0}.");
@@ -190,6 +200,7 @@ define('_EN_USERS_USERS_CANT_DELETE', "There was a problem deleting user {0}.");
 define('_EN_USERS_USERS_CANT_DELETE_SELF', "Can't delete your same user");
 define('_EN_USERS_USERS_PERSONALINFO_NOT_UPDATED', "There was a problem updating personal information");
 define('_EN_USERS_USERS_NOT_ADVANCED_UPDATED', "There was a problem updating advanced user options");
+define('_EN_USERS_USERS_NOT_CONTACTINFO_UPDATED', "There was a problem updating user contacts information");
 
 /* Online Users */
 define('_EN_USERS_ONLINE_USERS', "Online users");
