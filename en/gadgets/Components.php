@@ -18,6 +18,8 @@ define('_EN_COMPONENTS_DESCRIPTION', "Manage gadgets and plugins");
 define('_EN_COMPONENTS_ACL_MANAGEJMS', "Use component manager");
 define('_EN_COMPONENTS_ACL_MANAGEGADGETS', "Install/Uninstall gadgets");
 define('_EN_COMPONENTS_ACL_MANAGEPLUGINS', "Install/Uninstall plugins");
+define('_EN_COMPONENTS_ACL_MANAGEREGISTRY', "Change registry values");
+define('_EN_COMPONENTS_ACL_MANAGEACLS', "Change default ACLs");
 
 /* Terms */
 define('_EN_COMPONENTS_INSTALL', "Install");
@@ -85,3 +87,11 @@ define('_EN_COMPONENTS_PLUGINS_UNINSTALL_OK', "The {0} plugin has been uninstall
 define('_EN_COMPONENTS_PLUGINS_UNINSTALL_FAILURE', "Could not disable plugin");
 define('_EN_COMPONENTS_PLUGINS_PLUGIN_DOESNT_EXISTS', "The {0} plugin does not exists.");
 define('_EN_COMPONENTS_PLUGINS_PLUGIN_CANT_HAVE_NAME_CORE', "The plugin can't have the name Core, it's reserved for Jaws.");
+
+/* Registry */
+define('_EN_COMPONENTS_REGISTRY_UPDATED', "Registery changes have been updated.");
+define('_EN_COMPONENTS_REGISTRY_NOT_UPDATED', "Error while updating registery changes.");
+
+/* ACL */
+define('_EN_COMPONENTS_ACL_UPDATED', "ACL changes have been updated.");
+define('_EN_COMPONENTS_ACL_NOT_UPDATED', "Error while updating ACL changes.");
