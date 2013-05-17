@@ -107,11 +107,10 @@ define('_EN_INSTALL_SETTINGS_SITE_NAME', "Site Name");
 define('_EN_INSTALL_SETTINGS_SITE_NAME_INFO', "The name to display for your site.");
 define('_EN_INSTALL_SETTINGS_SLOGAN', "Site Slogan");
 define('_EN_INSTALL_SETTINGS_SLOGAN_INFO', "A longer description of the site.");
-define('_EN_INSTALL_SETTINGS_DEFAULT_GADGET', "Default Gadget");
-define('_EN_INSTALL_SETTINGS_DEFAULT_GADGET_INFO', "The gadget to display when someone visits the home page.");
 define('_EN_INSTALL_SETTINGS_SITE_LANGUAGE', "Site Language");
 define('_EN_INSTALL_SETTINGS_SITE_LANGUAGE_INFO', "The main language to display the site in.");
-define('_EN_INSTALL_USER_RESPONSE_SITE_NAME_EMPTY', "You need to fill in the site name box.");
+define('_EN_INSTALL_SETTINGS_SITE_SAMPLE', "Site sample");
+define('_EN_INSTALL_SETTINGS_SITE_SAMPLE_INFO', "Install some gadgets with sample data.");
 
 /* WriteConfig */
 define('_EN_INSTALL_CONFIG_INFO', "You now need to save your configuration file.");
