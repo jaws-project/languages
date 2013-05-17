@@ -126,3 +126,16 @@ define('_EN_INSTALL_FINISH_INFO', "You have now finished setting up your website
 define('_EN_INSTALL_FINISH_CHOICES', "You now have two choices, you can either <a href=\"{0}\">view your site</a> or <a href=\"{1}\">login to the control panel</a>.");
 define('_EN_INSTALL_FINISH_MOVE_LOG', "Note: If you turned on the logging option at the first stage we suggest you to save it and move it / delete it");
 define('_EN_INSTALL_FINISH_THANKS', "Thank you for using Jaws!");
+
+/* Sample site */
+define('_EN_INSTALL_SAMPLE_BLOG_CONTENT1_TITLE', "Welcome");
+define('_EN_INSTALL_SAMPLE_BLOG_CONTENT1_SUMMARY', "Hi to All.&#10;Welcome to Jaws CMS.");
+
+define('_EN_INSTALL_SAMPLE_LINKDUMP_TITLE1', "Jaws Support Forum");
+define('_EN_INSTALL_SAMPLE_LINKDUMP_TITLE2', "Jaws Persian Support");
+define('_EN_INSTALL_SAMPLE_LINKDUMP_TITLE3', "Jaws Github");
+
+define('_EN_INSTALL_SAMPLE_MENU_TITLE1', "Home");
+define('_EN_INSTALL_SAMPLE_MENU_TITLE2', "Blog Archive");
+define('_EN_INSTALL_SAMPLE_MENU_TITLE3', "Photo Gallery");
+define('_EN_INSTALL_SAMPLE_MENU_TITLE4', "Contact us");
