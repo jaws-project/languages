@@ -65,7 +65,7 @@ define('_EN_COMPONENTS_PLUGINS_INSTALLED_DESC', "There are plugins you can unins
 define('_EN_COMPONENTS_PLUGINS_NOTINSTALLED', "Not installed plugins");
 define('_EN_COMPONENTS_PLUGINS_NOTINSTALLED_DESC', "There are plugins waiting to be installed");
 define('_EN_COMPONENTS_PLUGINS_USAGE', "Usage");
-define('_EN_COMPONENTS_PLUGINS_USAGE_DESC', "Select gadgets you want to be used with this plugin:");
+define('_EN_COMPONENTS_PLUGINS_USAGE_DESC', "Select gadgets you want to use this plugin:");
 define('_EN_COMPONENTS_PLUGINS_USAGE_GADGET', "Gadget");
 define('_EN_COMPONENTS_PLUGINS_USAGE_BACKEND', "Back-end");
 define('_EN_COMPONENTS_PLUGINS_USAGE_FRONTEND', "Front-end");
