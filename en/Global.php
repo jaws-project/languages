@@ -100,6 +100,7 @@ define('_EN_GLOBAL_LOGIN_SECURE', "Secure login");
 define('_EN_GLOBAL_LANGUAGE', "Language");
 define('_EN_GLOBAL_NEXTPAGE', "Next page");
 define('_EN_GLOBAL_PREVIOUSPAGE', "Previous page");
+define('_EN_GLOBAL_CONTROLPANEL', "Control Panel");
 define('_EN_GLOBAL_ERROR_ACCESS_DENIED', "You do not have access to this section");
 define('_EN_GLOBAL_ERROR_ACCESS_RESTRICTED', "You must <a href=\"{0}\">login</a> or <a href=\"{1}\">register</a> to access this section.");
 define('_EN_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "The gadget can't have the name Core, it's reserved for Jaws.");
@@ -187,6 +188,9 @@ define('_EN_GLOBAL_ERROR_IMAGE_NOMETHOD', "No method available for image handlin
 define('_EN_GLOBAL_ERROR_IMAGE_CANT_ROTATE_TO_RIGHT', "Can't rotate the image to the right");
 define('_EN_GLOBAL_ERROR_IMAGE_CANT_ROTATE_TO_LEFT', "Can't rotate the image to the left");
 define('_EN_GLOBAL_ERROR_CANT_RESIZE_IMAGE', "There was a problem resizing the image");
+
+/* Common warning */
+define('_EN_GLOBAL_WARNING_OFFLINE', "Warning: website is offline!");
 
 /* Common errors */
 define('_EN_GLOBAL_ERROR_QUERY_FAILED', "There was a problem while trying to run {0} query.");
