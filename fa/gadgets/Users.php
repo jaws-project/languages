@@ -53,8 +53,6 @@ define('_FA_USERS_GROUPS_INCOMPLETE_FIELDS', "خواهشمند است نام گ�
 define('_FA_USERS_GROUPS_UPDATE', "ثبت تغییرات گروه");
 define('_FA_USERS_GROUPS_EDIT', "ویرایش گروه");
 define('_FA_USERS_GROUPS_DELETE', "زدودن گروه");
-define('_FA_USERS_GROUPS_PERMISSIONS', "دسترسیهای گروه");
-define('_FA_USERS_GROUPS_ACL_UPDATED', "تغییرات دسترسیهای گروه ثبت شد ");
 define('_FA_USERS_GROUPS_GROUP_NOT_EXIST', "گروه دلخواه شما یافت نشد");
 define('_FA_USERS_GROUPS_MEMBERS', "کاربران هموند");
 define('_FA_USERS_GROUPS_ADD_USER', "افزودن کاربر به یک گروه");
@@ -129,7 +127,8 @@ define('_FA_USERS_USERS_EDIT', "ویرایش کاربر");
 define('_FA_USERS_USERS_ACCOUNT_INFO', "اطلاعات کاربر");
 define('_FA_USERS_USERS_ACCOUNT_PREF', "تنظیمات اختصاصی");
 define('_FA_USERS_USERS_ACCOUNT_UPDATE', "ثبت تغییرات کاربر");
-define('_FA_USERS_USERS_PERMISSIONS', "دسترسیها");
+define('_FA_USERS_ACLS', "دسترسی ها");
+define('_FA_USERS_ACLS_COMPONENTS', "ابزار/افزونه");
 define('_FA_USERS_USER_CONFIRM_DELETE', "آیا این کاربر و تمام دادههای فرستادن شده بدست او پاک شوند؟");
 define('_FA_USERS_USER_MEMBER_OF_GROUPS', "کاربر {0} هموند گروههای زیر است");
 define('_FA_USERS_USER_MEMBER_OF_NO_GROUPS', "کاربر {0} هموند هیچ گروهی نیست");
@@ -140,17 +139,17 @@ define('_FA_USERS_USER_CURRENTLY_EDITING', "شما هم اکنون در حال �
 define('_FA_USERS_LOGIN_TITLE', "ورود");
 define('_FA_USERS_NOCHANGE_PASSWORD', "اگر تصمیم به تغییر گذرواژه ندارید، آنرا خالی بگذارید");
 define('_FA_USERS_USERS_MARK_GROUPS', "انتخاب گروههایی که این کاربر میبایستی هموند آنها باشد");
-define('_FA_USERS_RESET_ACL', "ریست دسترسیها");
-define('_FA_USERS_RESET_ACL_CONFIRM', "آیا میخواهید دسترسیها را ریست کنید؟");
+define('_FA_USERS_ACL_RESET', "ریست دسترسیها");
+define('_FA_USERS_ACL_RESET_CONFIRM', "آیا میخواهید دسترسیها را ریست کنید؟");
 define('_FA_USERS_PERSONAL', "اطلاعات شخصی");
 define('_FA_USERS_PREFERENCES', "تنظیمات کاربر");
 define('_FA_USERS_ADVANCED_OPTS_EDITOR', "ویرایشگر کاربر");
 define('_FA_USERS_ADVANCED_OPTS_LANGUAGE', "زبان پیش‌فرض");
 define('_FA_USERS_ADVANCED_OPTS_THEME', "قالب پیش‌فرض");
 define('_FA_USERS_ADVANCED_OPTS_NOT_YET', "هیچ گزینه‌ای انتخاب نشده است");
-define('_FA_USERS_USERS_PERMISSION_ALLOW', "اجازه دسترسی");
-define('_FA_USERS_USERS_PERMISSION_DENY', "عدم دسترسی");
-define('_FA_USERS_USERS_PERMISSION_NONE', "پیش فرض");
+define('_FA_USERS_ACLS_ALLOW', "اجازه دسترسی");
+define('_FA_USERS_ACLS_DENY', "عدم دسترسی");
+define('_FA_USERS_ACLS_DEFAULT', "پیش فرض");
 define('_FA_USERS_MYACCOUNT_UPDATED', "تغییرات در مشخصات کاربری شما ثبت شد ");
 define('_FA_USERS_MYACCOUNT_PASSWORDS_DONT_MATCH', "گذرواژه و تایپ مجدد آن با هم یکسان نیستند");
 define('_FA_USERS_MYACCOUNT_INCOMPLETE_FIELDS', "لطفا تمام فیلدها را به درستی پر کنید");

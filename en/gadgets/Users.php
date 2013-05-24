@@ -60,14 +60,14 @@ define('_EN_USERS_GROUPS_UPDATE', "Update Group");
 define('_EN_USERS_GROUPS_EDIT', "Edit Group");
 define('_EN_USERS_GROUPS_DELETE', "Delete Group");
 define('_EN_USERS_GROUPS_PERMISSIONS', "Group permissions");
-define('_EN_USERS_GROUPS_ACL_UPDATED', "Group privileges have been updated");
+define('_EN_USERS_GROUP_ACL_UPDATED', "Group privileges have been updated.");
+define('_EN_USERS_GROUP_ACL_NOT_UPDATED', "updating group privileges was failed.");
 define('_EN_USERS_GROUPS_GROUP_NOT_EXIST', "The requested group does not exist.");
 define('_EN_USERS_GROUPS_MEMBERS', "Members");
 define('_EN_USERS_GROUPS_ADD_USER', "Add user to group");
 define('_EN_USERS_GROUPS_CONFIRM_DELETE', "Are you sure you want to delete this group?");
 define('_EN_USERS_GROUPS_CURRENTLY_EDITING_GROUP', "You are currently editing group {0}");
 define('_EN_USERS_GROUPS_MARK_USERS', "Select the users you want to add to the group");
-define('_EN_USERS_GROUPS_ACL_RESETED', "Group privileges have been reseted");
 
 /* Group Management Responses*/
 define('_EN_USERS_GROUPS_CREATED', "Group {0} has been created.");
@@ -134,7 +134,6 @@ define('_EN_USERS_USERS_EDIT', "Edit User");
 define('_EN_USERS_USERS_ACCOUNT_INFO', "Account Information");
 define('_EN_USERS_USERS_ACCOUNT_PREF', "Account Preferences");
 define('_EN_USERS_USERS_ACCOUNT_UPDATE', "Update Account");
-define('_EN_USERS_USERS_PERMISSIONS', "Permissions");
 define('_EN_USERS_USER_CONFIRM_DELETE', "Delete this user and all information this user has submitted?");
 define('_EN_USERS_USER_MEMBER_OF_GROUPS', "{0} is a member of the groups below");
 define('_EN_USERS_USER_MEMBER_OF_NO_GROUPS', "Currently {0} is not in any group");
@@ -145,8 +144,6 @@ define('_EN_USERS_USER_CURRENTLY_EDITING', "You are currently editing user {0}")
 define('_EN_USERS_LOGIN_TITLE', "Login");
 define('_EN_USERS_NOCHANGE_PASSWORD', "Just leave it empty if you are not willing to change it");
 define('_EN_USERS_USERS_MARK_GROUPS', "Select the groups you want this user member of");
-define('_EN_USERS_RESET_ACL', "Reset ACL");
-define('_EN_USERS_RESET_ACL_CONFIRM', "Are you sure you want to reset (delete) the permissions?");
 define('_EN_USERS_PERSONAL', "Personal Information");
 define('_EN_USERS_PREFERENCES', "Preferences");
 define('_EN_USERS_CONTACTS', "Contacts Information");
@@ -162,13 +159,16 @@ define('_EN_USERS_ADVANCED_OPTS_EDITOR', "User editor");
 define('_EN_USERS_ADVANCED_OPTS_LANGUAGE', "Preferred language");
 define('_EN_USERS_ADVANCED_OPTS_THEME', "Preferred theme");
 define('_EN_USERS_ADVANCED_OPTS_NOT_YET', "No value defined yet");
-define('_EN_USERS_USERS_PERMISSION_ALLOW', "Allow");
-define('_EN_USERS_USERS_PERMISSION_DENY', "Deny");
-define('_EN_USERS_USERS_PERMISSION_NONE', "Default");
 define('_EN_USERS_USER_ACTIVITY', "Activity");
 define('_EN_USERS_USER_ACTIVITY_IN_GADGET', "In {0} gadget");
 define('_EN_USERS_USER_ACTIVITY_ITEM', "{0} Item in {1}");
 define('_EN_USERS_USER_NOT_HAVE_ACTIVITY', "User dose not have any activity!");
+
+define('_EN_USERS_ACLS', "Permissions");
+define('_EN_USERS_ACLS_COMPONENTS', "Component");
+define('_EN_USERS_ACLS_DEFAULT', "Default");
+define('_EN_USERS_ACLS_ALLOW', "Allow");
+define('_EN_USERS_ACLS_DENY', "Deny");
 
 /* MyAccount */
 define('_EN_USERS_MYACCOUNT_UPDATED', "Your profile has been updated.");
@@ -187,9 +187,9 @@ define('_EN_USERS_WELCOME', 'Welcome');
 /* User Management Responses */
 define('_EN_USERS_USERS_CREATED', "User {0} has been created.");
 define('_EN_USERS_USERS_UPDATED', "User {0} has been updated.");
-define('_EN_USERS_USERS_ACL_UPDATED', "User privileges have been updated.");
+define('_EN_USERS_USER_ACL_UPDATED', "User privileges have been updated.");
+define('_EN_USERS_USER_ACL_NOT_UPDATED', "Updating user privileges failed.");
 define('_EN_USERS_USER_DELETED', "User {0} has been deleted.");
-define('_EN_USERS_USERS_ACL_RESETED', "User privileges have been reseted.");
 define('_EN_USERS_USERS_PERSONALINFO_UPDATED', "Personal information have been updated");
 define('_EN_USERS_USERS_ADVANCED_UPDATED', "User advanced options have been updated");
 define('_EN_USERS_USERS_CONTACTINFO_UPDATED', "User contacts information have been updated");
