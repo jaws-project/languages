@@ -274,19 +274,3 @@ define('_EN_GLOBAL_HTTP_ERROR_TITLE_500', "Internal Server Error");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_500', "Internal Server Error, please contact the site administrator if you believe it should fix.");
 define('_EN_GLOBAL_HTTP_ERROR_TITLE_503', "Service Unavailable");
 define('_EN_GLOBAL_HTTP_ERROR_CONTENT_503', "This website is down for maintenance. Please check back again soon.");
-
-/* Comments */
-define('_EN_GLOBAL_COMMENTS_STATUS', "Comment status");
-define('_EN_GLOBAL_STATUS_APPROVED', "Approved");
-define('_EN_GLOBAL_STATUS_WAITING', "Waiting");
-define('_EN_GLOBAL_STATUS_SPAM', "Spam");
-define('_EN_GLOBAL_COMMENTS_MARK_AS', "Mark as");
-define('_EN_GLOBAL_MARK_AS_APPROVED', "Mark as approved");
-define('_EN_GLOBAL_MARK_AS_WAITING', "Mark as waiting");
-define('_EN_GLOBAL_MARK_AS_SPAM', "Mark as spam");
-define('_EN_GLOBAL_SPAM_POSSIBLE_DUPLICATE_MESSAGE', "Duplicate message denied.");
-define('_EN_GLOBAL_MESSAGE_SENT', "Your message successfully sent.");
-define('_EN_GLOBAL_COMMENTS_RESTRICTED', "You must <a href=\"{0}\">login</a> or <a href=\"{1}\">register</a> to post a comment.");
-define('_EN_GLOBAL_COMMENT_UPDATED', "Comment updated");
-define('_EN_GLOBAL_COMMENT_MARKED', "Comment marked");
-define('_EN_GLOBAL_COMMENT_DELETED', "Comment deleted");

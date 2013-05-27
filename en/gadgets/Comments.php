@@ -48,4 +48,16 @@ define('_EN_COMMENTS_ERROR_CANT_UPDATE_PROPERTIES', "There was a problem updatin
 define('_EN_COMMENTS_ALLOW_COMMENTS', "Allow comments site-wide");
 define('_EN_COMMENTS_ALLOW_COMMENTS_RESTRICTED', "Restricted");
 
-
+define('_EN_COMMENTS_COMMENTS_STATUS', "Comment status");
+define('_EN_COMMENTS_STATUS_APPROVED', "Approved");
+define('_EN_COMMENTS_STATUS_WAITING', "Waiting");
+define('_EN_COMMENTS_STATUS_SPAM', "Spam");
+define('_EN_COMMENTS_MARK_AS_APPROVED', "Mark as approved");
+define('_EN_COMMENTS_MARK_AS_WAITING', "Mark as waiting");
+define('_EN_COMMENTS_MARK_AS_SPAM', "Mark as spam");
+define('_EN_COMMENTS_SPAM_POSSIBLE_DUPLICATE_MESSAGE', "Duplicate message denied.");
+define('_EN_COMMENTS_MESSAGE_SENT', "Your message successfully sent.");
+define('_EN_COMMENTS_COMMENTS_RESTRICTED', "You must <a href=\"{0}\">login</a> or <a href=\"{1}\">register</a> to post a comment.");
+define('_EN_COMMENTS_COMMENT_UPDATED', "Comment updated");
+define('_EN_COMMENTS_COMMENT_MARKED', "Comment marked");
+define('_EN_COMMENTS_COMMENT_DELETED', "Comment deleted");
