@@ -110,3 +110,7 @@ define('_FA_INSTALL_FINISH_INFO', "نصب وب سایت شما با موفقیت
 define('_FA_INSTALL_FINISH_CHOICES', "حالا شما دو انتخاب دارید <a href=\"{0}\">دیدن سایت</a> یا <a href=\"{1}\">ورود به کنترل پنل </a>.");
 define('_FA_INSTALL_FINISH_MOVE_LOG', "تذکر: اگر شما ویژگی ثبت گزارش مراحل نصب را در اولین مرحله فعال نموده بودید ما به پیشنهاد می کنیم آنرا در مسیر دیگری ذخیره نمایید و سپس فایل مورد نظر را جابجا ویا حذف نمایید.");
 define('_FA_INSTALL_FINISH_THANKS', "از اینکه جاوز را برای استفاده انتخاب نموده اید، متشکریم!");
+define('_FA_INSTALL_SAMPLE_MENU_TITLE1', "برگه نخست");
+define('_FA_INSTALL_SAMPLE_MENU_TITLE2', "بایگانی بلاگ");
+define('_FA_INSTALL_SAMPLE_MENU_TITLE3', "نگارخانه");
+define('_FA_INSTALL_SAMPLE_MENU_TITLE4', "تماس با ما");

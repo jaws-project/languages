@@ -30,6 +30,7 @@ define('_FA_GLOBAL_YES', "بلی");
 define('_FA_GLOBAL_NO', "خیر");
 define('_FA_GLOBAL_CREATED', "ساخته شد");
 define('_FA_GLOBAL_UPDATED', "بروزرسانی شد");
+define('_FA_GLOBAL_ADD', "افزودن {0}");
 define('_FA_GLOBAL_EDIT', "ویرایش {0}");
 define('_FA_GLOBAL_DELETE', "زدودن {0}");
 define('_FA_GLOBAL_START_TIME', "زمان آغاز");
@@ -37,6 +38,7 @@ define('_FA_GLOBAL_STOP_TIME', "زمان پایان");
 define('_FA_GLOBAL_PREVIEW', "پیش نمایش");
 define('_FA_GLOBAL_EMAIL', "پست الکترونیک");
 define('_FA_GLOBAL_ON', "در");
+define('_FA_GLOBAL_ORDERBY', "چینش با");
 define('_FA_GLOBAL_SEARCH', "جستجو");
 define('_FA_GLOBAL_PUBLISHED', "منتشر شود");
 define('_FA_GLOBAL_DRAFT', "پیش نویس");
@@ -45,7 +47,10 @@ define('_FA_GLOBAL_DISABLED', "غیرفعال شده");
 define('_FA_GLOBAL_ENABLE', "فعال");
 define('_FA_GLOBAL_DISABLE', "غیرفعال");
 define('_FA_GLOBAL_VISIBLE', "قابل نمایش");
+define('_FA_GLOBAL_GROUP', "گروه");
+define('_FA_GLOBAL_GROUPS', "گروه‌ها");
 define('_FA_GLOBAL_CATEGORY', "دسته");
+define('_FA_GLOBAL_CATEGORIES', "دسته‌بندی‌ها");
 define('_FA_GLOBAL_DATE', "تاریخ");
 define('_FA_GLOBAL_ACTIONS', "فرامین");
 define('_FA_GLOBAL_GADGETS', "ابزارها");
@@ -77,6 +82,7 @@ define('_FA_GLOBAL_ALIGN_RIGHT', "راست چین");
 define('_FA_GLOBAL_STATUS', "وضعیت");
 define('_FA_GLOBAL_WIDTH', "پهنا");
 define('_FA_GLOBAL_HEIGHT', "بلندی");
+define('_FA_GLOBAL_COUNT', "شمار");
 define('_FA_GLOBAL_SPAMCHECK_EMPTY', "چک کردن اسپم");
 define('_FA_GLOBAL_THANKS', "با سپاس");
 define('_FA_GLOBAL_NOGADGET', "بدون ابزار");
@@ -84,12 +90,14 @@ define('_FA_GLOBAL_LOGIN', "ورود");
 define('_FA_GLOBAL_LOGOUT', "خروج");
 define('_FA_GLOBAL_USERNAME', "نام کاربری");
 define('_FA_GLOBAL_PASSWORD', "گذرواژه");
+define('_FA_GLOBAL_AUTHTYPE', "گونه شناسایی");
 define('_FA_GLOBAL_MY_ACCOUNT', "مشخصات کاربری");
 define('_FA_GLOBAL_REMEMBER_ME', "مرا بخاطر بسپار");
 define('_FA_GLOBAL_LOGIN_SECURE', "بکارگیری سیستم رمزنگاری");
 define('_FA_GLOBAL_LANGUAGE', "زبان");
 define('_FA_GLOBAL_NEXTPAGE', "برگه پسین");
 define('_FA_GLOBAL_PREVIOUSPAGE', "برگه پیشین");
+define('_FA_GLOBAL_CONTROLPANEL', "بخش راهبری");
 define('_FA_GLOBAL_ERROR_ACCESS_DENIED', "دسترسی شما به این بخش ممکن نیست");
 define('_FA_GLOBAL_ERROR_ACCESS_RESTRICTED', "برای دسترسی به این بخش میبایستی عضو سایت شوید، لطفا <a href=\"{0}\">لاگین</a> کنید و یا <a href=\"{1}\">عضو</a> شوید.");
 define('_FA_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "برای نام ابزار از کلمه Core نمی‌توان استفاده کرد.");
@@ -157,6 +165,7 @@ define('_FA_GLOBAL_ERROR_IMAGE_NOMETHOD', "هیچ شیوه ایی برای تغ�
 define('_FA_GLOBAL_ERROR_IMAGE_CANT_ROTATE_TO_RIGHT', "تصویر به راست نمی چرخد");
 define('_FA_GLOBAL_ERROR_IMAGE_CANT_ROTATE_TO_LEFT', "تصویر به چپ نمی چرخد");
 define('_FA_GLOBAL_ERROR_CANT_RESIZE_IMAGE', "تغییر اندازه تصویر با مشکل مواجه شد");
+define('_FA_GLOBAL_WARNING_OFFLINE', "هشدار: سایت شما پویا نمی‌باشد");
 define('_FA_GLOBAL_ERROR_QUERY_FAILED', "اجرای کوئری {0} با مشکل مواجه شد");
 define('_FA_GLOBAL_ERROR_FAILED_CREATING_DIR', "ساخت شاخه جدید با مشکل مواجه شد");
 define('_FA_GLOBAL_ERROR_FAILED_ADDING_REGISTRY_KEY', "اضافه کردن کلید {0} با مشکل مواجه شد");
@@ -184,6 +193,7 @@ define('_FA_GLOBAL_ERROR_LOGIN_STATUS_0', "این کاربر به دست سرپ�
 define('_FA_GLOBAL_ERROR_LOGIN_STATUS_2', "درستی ایمیل این کاربر هنوز وارسی نشده است");
 define('_FA_GLOBAL_ERROR_SESSION_NOTFOUND', "شناسه ارتباطی با سرور (session cookie) پیدا نشد");
 define('_FA_GLOBAL_ERROR_INVALID_USERNAME', "نام کاربری نادرست است، تنها می‌توان بنداژه و شماره با بلندی بیشتر از 2 بندواژه اسکی بکار برد");
+define('_FA_GLOBAL_ERROR_INVALID_GROUPNAME', "نام گروه درست نیست، برای نام آن تنها می‌توان از بندواژه یا شماره با درازای بیش از دو بندواژه بهره گرفت");
 define('_FA_GLOBAL_ERROR_INVALID_EMAIL_ADDRESS', "نشانی ایمیل نادرست است");
 define('_FA_GLOBAL_ERROR_INVALID_PASSWORD', "گذرواژه نادرست است، تنها بندواژه های اسکی و بلندیی بیش از {0} بندواژه روا می باشد");
 define('_FA_GLOBAL_ERROR_INVALID_COMPLEXITY', "گذرواژه به اندازه ای که می بایست، پیچیده نیست، گذرواژه می بایستی دربرگیرنده بندواژه های کوچک، بزرگ، شماره و بندواژه های ویژه اسکی باشد");
@@ -207,22 +217,15 @@ define('_FA_GLOBAL_CAPTCHA_ERROR_NOT_ADDED', "ذخیره تصویر امنیتی
 define('_FA_GLOBAL_CAPTCHA_ERROR_OLD_CAPTCHAS_NOT_DELETED', "پاک کردن تصاویر امنیتی قبلی با مشکل مواجه شد");
 define('_FA_GLOBAL_CAPTCHA_ERROR_FORCED_CAPTCHAS_NOT_DELETED', "پاک کردن تصویر امنیتی حتی با اعمال فشار باز هم با مشکل مواجه شد");
 define('_FA_GLOBAL_CAPTCHA_ERROR_DOES_NOT_MATCH', "نوشته شما با تصویر امنیتی یکسان نمی‌باشد");
-define('_FA_GLOBAL_HTTP_ERROR_TITLE_404', "صفحه دلخواه شما یافت نشد");
-define('_FA_GLOBAL_HTTP_ERROR_CONTENT_404', "برگه دلخواه شما ({0}) یافت نشد، اگر اطمینان دارید این صفحه بایستی وجود داشته باشد با مدیر سایت تماس بگیرید.");
+define('_FA_GLOBAL_HTTP_ERROR_TITLE_301', "جابجایی همیشگی");
+define('_FA_GLOBAL_HTTP_ERROR_TITLE_302', "جابجایی زودگذر");
 define('_FA_GLOBAL_HTTP_ERROR_TITLE_403', "دسترسی غیر ممکن است");
 define('_FA_GLOBAL_HTTP_ERROR_CONTENT_403', "شما مجوز لازم برای مشاهده این صفحه را ندارید");
+define('_FA_GLOBAL_HTTP_ERROR_TITLE_404', "صفحه دلخواه شما یافت نشد");
+define('_FA_GLOBAL_HTTP_ERROR_CONTENT_404', "برگه دلخواه شما ({0}) یافت نشد، اگر اطمینان دارید این صفحه بایستی وجود داشته باشد با مدیر سایت تماس بگیرید.");
+define('_FA_GLOBAL_HTTP_ERROR_TITLE_410', "پاک شده برای همیشه");
+define('_FA_GLOBAL_HTTP_ERROR_CONTENT_410', "برگه درخواستی شما پاک شده و دیگر در دسترس نمی‌باشد");
 define('_FA_GLOBAL_HTTP_ERROR_TITLE_500', "خطای داخلی سیستم");
 define('_FA_GLOBAL_HTTP_ERROR_CONTENT_500', "به دلیل نامشخص انجام درخواست شما با خطا روبرو شد. اگر اطمینان دارید این خطا غیر موجه می‌باشد، لطفا با مدیر سایت تماس بگیرید.");
 define('_FA_GLOBAL_HTTP_ERROR_TITLE_503', "سرویس دهی موقتا امکان پذیر نمی باشد");
 define('_FA_GLOBAL_HTTP_ERROR_CONTENT_503', "با عرض پوزش، بدلیل بروزرسانی و اعمال برخی تغییرات، سرویس دهی موقتاً امکان پذیر نمی باشد.\nلطفاً بعداً مراجعه نمایید.");
-define('_FA_GLOBAL_COMMENTS_STATUS', "وضعیت توضیح");
-define('_FA_GLOBAL_STATUS_APPROVED', "تایید شده");
-define('_FA_GLOBAL_STATUS_WAITING', "درلیست انتظار");
-define('_FA_GLOBAL_STATUS_SPAM', "اسپم");
-define('_FA_GLOBAL_COMMENTS_MARK_AS', "نشاندار به عنوان");
-define('_FA_GLOBAL_MARK_AS_APPROVED', "مهر تایید");
-define('_FA_GLOBAL_MARK_AS_WAITING', "مهر انتظار");
-define('_FA_GLOBAL_MARK_AS_SPAM', "مهر اسپم");
-define('_FA_GLOBAL_SPAM_POSSIBLE_DUPLICATE_MESSAGE', "پیام تکراری است.");
-define('_FA_GLOBAL_MESSAGE_SENT', "پیام شما فرستاده شد.");
-define('_FA_GLOBAL_COMMENTS_RESTRICTED', "برای فرستادن دیدگاه میبایستی عضو سایت شوید، لطفا <a href=\"{0}\">لاگین</a> کنید و یا <a href=\"{1}\">عضو</a> شوید.");
