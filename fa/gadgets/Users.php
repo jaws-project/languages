@@ -27,18 +27,6 @@ define('_FA_USERS_ACL_EDITUSERPERSONAL', "ویرایش شناسه‌های فر�
 define('_FA_USERS_ACL_EDITUSERCONTACT', "ویرایش شناسه‌های تماس از سوی کاربر");
 define('_FA_USERS_ACL_EDITUSERPREFERENCES', "ویرایش تنظیمات از سوی کاربر");
 define('_FA_USERS_ACL_MANAGEAUTHENTICATIONMETHOD', "ویرایش روش تایید اعتبار کاربران");
-define('_FA_USERS_LAYOUT_LOGINBOX', "بلوک لاگین");
-define('_FA_USERS_LAYOUT_LOGINBOX_DESC', "نمایش بلوک لاگین");
-define('_FA_USERS_LAYOUT_LOGINLINKS', "پیوندهای کاربری");
-define('_FA_USERS_LAYOUT_LOGINLINKS_DESC', "نمایش پیوندهای کاربری");
-define('_FA_USERS_LAYOUT_ONLINE_USERS', "کاربران برخط");
-define('_FA_USERS_LAYOUT_ONLINE_USERS_DESC', "نمایش فهرست کاربران برخط");
-define('_FA_USERS_LAYOUT_ONLINE_STATISTICS', "آمار کاربران برخط");
-define('_FA_USERS_LAYOUT_ONLINE_STATISTICS_DESC', "نمایش آمار کاربران هموند و مهمان");
-define('_FA_USERS_LAYOUT_LATEST_REGISTERED', "کاربران تازه");
-define('_FA_USERS_LAYOUT_LATEST_REGISTERED_DESC', "نمایش فهرست کاربران تازه عضو شده");
-define('_FA_USERS_LAYOUT_PROFILE', "درباره کاربر");
-define('_FA_USERS_LAYOUT_PROFILE_DESC', "نمایش پروفایل کاربر");
 define('_FA_USERS_GROUPS_GROUPNAME', "نام گروه");
 define('_FA_USERS_GROUPS_GROUPID', "شناسه گروه");
 define('_FA_USERS_GROUPS_GROUP', "گروه");
@@ -59,7 +47,6 @@ define('_FA_USERS_GROUPS_ADD_USER', "افزودن کاربر به یک گروه"
 define('_FA_USERS_GROUPS_CONFIRM_DELETE', "آیا می خواهید این گروه را پاک کنید؟");
 define('_FA_USERS_GROUPS_CURRENTLY_EDITING_GROUP', "گروه {0} الان در حال ویرایش است");
 define('_FA_USERS_GROUPS_MARK_USERS', "کاربرانی را که میخواهید به گروه افزوده شوند را گزینش کنید");
-define('_FA_USERS_GROUPS_ACL_RESETED', "دسترسیهای گروه دلخواه شما ریست شد");
 define('_FA_USERS_GROUPS_CREATED', "گروه {0} ساخته شد");
 define('_FA_USERS_GROUPS_UPDATED', "تغییرات گروه {0} ثبت شد");
 define('_FA_USERS_GROUPS_DELETED', "گروه {0} زدوده شد");
@@ -75,14 +62,6 @@ define('_FA_USERS_USERS_ADD', "ایجاد کاربر");
 define('_FA_USERS_ACCOUNT_EDIT', "ویرایش کاربر");
 define('_FA_USERS_ACCOUNT_DELETE', "زدودن کاربر");
 define('_FA_USERS_USERS_GROUPS', "هموندی در گروههای کاربری");
-define('_FA_USERS_ACLRULES', "موارد دسترسی");
-
-define('_FA_USERS_USERS_AVATAR', "تصویر شما");
-define('_FA_USERS_USERS_UPLOAD_AVATAR', "ارسال تصویر");
-define('_FA_USERS_USERS_DELETE_AVATAR', "حذف تصویر");
-
-define('_FA_USERS_USERS_SIGNATURE', "امضا");
-
 define('_FA_USERS_USERS_USERNAME', "نام کاربری");
 define('_FA_USERS_USERS_PASSWORD', "گذرواژه");
 define('_FA_USERS_USERS_NICKNAME', "نام نمایشی");
@@ -127,8 +106,6 @@ define('_FA_USERS_USERS_EDIT', "ویرایش کاربر");
 define('_FA_USERS_USERS_ACCOUNT_INFO', "اطلاعات کاربر");
 define('_FA_USERS_USERS_ACCOUNT_PREF', "تنظیمات اختصاصی");
 define('_FA_USERS_USERS_ACCOUNT_UPDATE', "ثبت تغییرات کاربر");
-define('_FA_USERS_ACLS', "دسترسی ها");
-define('_FA_USERS_ACLS_COMPONENTS', "ابزار/افزونه");
 define('_FA_USERS_USER_CONFIRM_DELETE', "آیا این کاربر و تمام دادههای فرستادن شده بدست او پاک شوند؟");
 define('_FA_USERS_USER_MEMBER_OF_GROUPS', "کاربر {0} هموند گروههای زیر است");
 define('_FA_USERS_USER_MEMBER_OF_NO_GROUPS', "کاربر {0} هموند هیچ گروهی نیست");
@@ -139,17 +116,18 @@ define('_FA_USERS_USER_CURRENTLY_EDITING', "شما هم اکنون در حال �
 define('_FA_USERS_LOGIN_TITLE', "ورود");
 define('_FA_USERS_NOCHANGE_PASSWORD', "اگر تصمیم به تغییر گذرواژه ندارید، آنرا خالی بگذارید");
 define('_FA_USERS_USERS_MARK_GROUPS', "انتخاب گروههایی که این کاربر میبایستی هموند آنها باشد");
-define('_FA_USERS_ACL_RESET', "ریست دسترسیها");
-define('_FA_USERS_ACL_RESET_CONFIRM', "آیا میخواهید دسترسیها را ریست کنید؟");
 define('_FA_USERS_PERSONAL', "اطلاعات شخصی");
 define('_FA_USERS_PREFERENCES', "تنظیمات کاربر");
 define('_FA_USERS_ADVANCED_OPTS_EDITOR', "ویرایشگر کاربر");
 define('_FA_USERS_ADVANCED_OPTS_LANGUAGE', "زبان پیش‌فرض");
 define('_FA_USERS_ADVANCED_OPTS_THEME', "قالب پیش‌فرض");
 define('_FA_USERS_ADVANCED_OPTS_NOT_YET', "هیچ گزینه‌ای انتخاب نشده است");
+define('_FA_USERS_ACLS', "دسترسی ها");
+define('_FA_USERS_ACLS_PERMISSIONS', "دسترسی ها");
+define('_FA_USERS_ACLS_COMPONENTS', "ابزار/افزونه");
+define('_FA_USERS_ACLS_DEFAULT', "پیش فرض");
 define('_FA_USERS_ACLS_ALLOW', "اجازه دسترسی");
 define('_FA_USERS_ACLS_DENY', "عدم دسترسی");
-define('_FA_USERS_ACLS_DEFAULT', "پیش فرض");
 define('_FA_USERS_MYACCOUNT_UPDATED', "تغییرات در مشخصات کاربری شما ثبت شد ");
 define('_FA_USERS_MYACCOUNT_PASSWORDS_DONT_MATCH', "گذرواژه و تایپ مجدد آن با هم یکسان نیستند");
 define('_FA_USERS_MYACCOUNT_INCOMPLETE_FIELDS', "لطفا تمام فیلدها را به درستی پر کنید");
@@ -163,9 +141,9 @@ define('_FA_USERS_LOGINLINKS', "پیوندهای کاربری");
 define('_FA_USERS_WELCOME', "خوش آمدید");
 define('_FA_USERS_USERS_CREATED', "کاربر {0} ساخته شد");
 define('_FA_USERS_USERS_UPDATED', "تغییرات کاربر {0} ثبت شد");
-define('_FA_USERS_USERS_ACL_UPDATED', "تغییرات دسترسیها ثبت شد");
+define('_FA_USERS_USER_ACL_UPDATED', "دسترسی های کاربر بروزرسانی شد.");
+define('_FA_USERS_USER_ACL_NOT_UPDATED', "بروزرسانی دسترسی ها کاربر با خطا مواجه گردید.");
 define('_FA_USERS_USER_DELETED', "کاربر {0} حذف شد");
-define('_FA_USERS_USERS_ACL_RESETED', "دسترسیهای کاربر ریست شد");
 define('_FA_USERS_USERS_PERSONALINFO_UPDATED', "تنظیمات شخصی کاربر ثبت شد");
 define('_FA_USERS_USERS_ADVANCED_UPDATED', "تنظیمات کاربر ثبت شد");
 define('_FA_USERS_USERS_NOT_CREATED', "خطا هنگام ساختن کاربر {0}");
