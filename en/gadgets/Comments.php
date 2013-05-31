@@ -10,6 +10,12 @@
  * "Content-Transfer-Encoding: 8bit"
  */
 
+/* ACLs */
+define('_EN_COMMENTS_ACL_DEFAULT', "Administrate comments");
+define('_EN_COMMENTS_ACL_MANAGECOMMENTS', "Manage all gadget's comments");
+define('_EN_COMMENTS_ACL_REPLYCOMMENTS', "Reply to comments");
+define('_EN_COMMENTS_ACL_SETTINGS', "Change settings");
+
 define('_EN_COMMENTS_NAME', "Comments");
 define('_EN_COMMENTS_DESCRIPTION', "A gadget to management comments");
 
