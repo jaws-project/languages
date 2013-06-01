@@ -30,7 +30,7 @@ define('_FA_PREFERENCES_COOKIE_PRECEDENCE', "اولویت تنظیمات کوک�
 define('_FA_PREFERENCES_NOT_DEFINED', "هیچ گزینه‌ای انتخاب نشده است");
 define('_FA_PREFERENCES_ACL_DEFAULT', "دسترسی به تغییر در مشخصات ابزار");
 define('_FA_PREFERENCES_ACL_UPDATEPROPERTIES', "فعال/غیرفعال کردن گزینه‌های تنظیمات");
-define('_FA_PREFERENCES_LAYOUT_DISPLAY', "نمایش تنظیمات");
-define('_FA_PREFERENCES_LAYOUT_DISPLAY_DESCRIPTION', "نمایش تنظیمات(قالب، ویرایشگر، زبان و ...)");
+define('_FA_PREFERENCES_ACTIONS_DISPLAY', "نمایش تنظیمات");
+define('_FA_PREFERENCES_ACTIONS_DISPLAY_DESC', "نمایش تنظیمات(قالب، ویرایشگر، زبان و ...)");
 define('_FA_PREFERENCES_PROPERTIES_UPDATED', "تغییرات مشخصات ثبت شد");
 define('_FA_PREFERENCES_ERROR_PROPERTIES_NOT_UPDATED', "بروز خطا در ثبت تغییرات");
