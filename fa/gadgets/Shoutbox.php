@@ -15,8 +15,8 @@ define('_FA_SHOUTBOX_DESCRIPTION', "ابزاری برای گفتگوی همزم�
 define('_FA_SHOUTBOX_ACL_DEFAULT', "مدیریت گفتگو");
 define('_FA_SHOUTBOX_ACL_MANAGECOMMENTS', "مدیریت پیام‌ها");
 define('_FA_SHOUTBOX_ACL_UPDATEPROPERTIES', "ویرایش پیام‌ها");
-define('_FA_SHOUTBOX_LAYOUT_DISPLAY', "نمایش گفتگو");
-define('_FA_SHOUTBOX_LAYOUT_DISPLAY_DESC', "نمایش های یک گفتگو");
+define('_FA_SHOUTBOX_ACTIONS_DISPLAY', "نمایش گفتگو");
+define('_FA_SHOUTBOX_ACTIONS_DISPLAY_DESC', "نمایش های یک گفتگو");
 define('_FA_SHOUTBOX_MESSAGE', "پیام");
 define('_FA_SHOUTBOX_SEND', "ارسال پیام");
 define('_FA_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "لطفا پیام خالی ارسال نکنید.");
