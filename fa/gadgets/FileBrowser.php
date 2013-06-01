@@ -12,6 +12,8 @@
 
 define('_FA_FILEBROWSER_NAME', "مدیریت فایل");
 define('_FA_FILEBROWSER_DESCRIPTION', "ابزاری ساده برای مدیریت فایلها");
+define('_FA_FILEBROWSER_ACTIONS_INITIALFOLDER', "پوشه ابتدایی");
+define('_FA_FILEBROWSER_ACTIONS_INITIALFOLDER_DESC', "نمایش لیست فایل/دایرکتوری های موجود در پوشه ریشه");
 define('_FA_FILEBROWSER_ACL_DEFAULT', "راهبری ابزار مدیریت فایل");
 define('_FA_FILEBROWSER_ACL_MANAGEFILES', "مدیریت فایل‌ها");
 define('_FA_FILEBROWSER_ACL_UPLOADFILES', "آپلود فایلها");
@@ -38,8 +40,6 @@ define('_FA_FILEBROWSER_ROOT', "شاخه اصلی");
 define('_FA_FILEBROWSER_FILEINFO', "مشاهده اطلاعات بیشتر");
 define('_FA_FILEBROWSER_ENTRIES_COUNT', "{0} فایل/دایرکتوری");
 define('_FA_FILEBROWSER_HITS', "دانلودها");
-define('_FA_FILEBROWSER_INITIAL_FOLDER', "پوشه ابتدایی");
-define('_FA_FILEBROWSER_INITIAL_FOLDER_DESC', "نمایش لیست فایل/دایرکتوری های موجود در پوشه ریشه");
 define('_FA_FILEBROWSER_CREATED_DIR', "دایرکتوری {0} ایجاد شد");
 define('_FA_FILEBROWSER_DELETED_FILE', "فایل {0} حذف شد");
 define('_FA_FILEBROWSER_DELETED_DIR', "دایرکتوری {0} حذف شد");
