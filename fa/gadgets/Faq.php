@@ -12,13 +12,13 @@
 
 define('_FA_FAQ_NAME', "پرسش‌های فراگیر");
 define('_FA_FAQ_DESCRIPTION', "پرسش هایی از قبل آماده شده به همراه پاسخ های آن ها برای راهنمایی بیشتر بازدید کنندگان.");
+define('_FA_FAQ_ACTIONS_LISTCATEGORIES', "فهرست دسته‌بندی‌ها");
+define('_FA_FAQ_ACTIONS_LISTCATEGORIES_DESC', "نمایش لیست پرسش‌ها یک دسته");
 define('_FA_FAQ_ACL_DEFAULT', "مدیریت پرسش‌ها");
 define('_FA_FAQ_ACL_ADDQUESTION', "افزودن پرسش‌ها");
 define('_FA_FAQ_ACL_EDITQUESTION', "ویرایش پرسش‌ها");
 define('_FA_FAQ_ACL_DELETEQUESTION', "حذف پرسش‌ها");
 define('_FA_FAQ_ACL_MANAGECATEGORIES', "مدیریت دسته‌بندی‌ها");
-define('_FA_FAQ_LAYOUT_LISTCATEGORIES', "فهرست دسته‌بندی‌ها");
-define('_FA_FAQ_LAYOUT_LISTCATEGORIES_DESCRIPTION', "نمایش لیست پرسش‌ها یک دسته");
 define('_FA_FAQ_CATEGORIES', "دسته‌بندی پرسش‌ها");
 define('_FA_FAQ_TITLE', "پاسخ به پرسش‌ها");
 define('_FA_FAQ_CONTENTS', "محتویات");
