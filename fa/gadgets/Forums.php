@@ -12,6 +12,8 @@
 
 define('_FA_FORUMS_NAME', "انجمن");
 define('_FA_FORUMS_DESCRIPTION', "ابزاری برای گفتمان کاربران در بخش‌های گوناگون");
+define('_FA_FORUMS_ACTIONS_RECENTTOPICS', "تازه‌ترین نوشته‌های انجمن");
+define('_FA_FORUMS_ACTIONS_RECENTTOPICS_DESC', "نمایش تازه‌ترین نوشته‌های دسته‌بندی گزینش شده");
 define('_FA_FORUMS_ACL_ADDFORUM', "افزودن انجمن");
 define('_FA_FORUMS_ACL_EDITFORUM', "ویرایش انجمن");
 define('_FA_FORUMS_ACL_LOCKFORUM', "بستن انجمن");
@@ -37,8 +39,6 @@ define('_FA_FORUMS_ACL_DELETEPOST', "زدودن نوشته");
 define('_FA_FORUMS_ACL_DELETEOTHERSPOST', "زدودن نوشته دیگران");
 define('_FA_FORUMS_ACL_DELETEOUTDATEDPOST', "زدودن نوشته های دیرین");
 define('_FA_FORUMS_ACL_DELETEPOSTINLOCKEDTOPIC', "زدودن نوشته در جستار بسته شده");
-define('_FA_FORUMS_LAYOUT_RECENT_POSTS', "تازه‌ترین نوشته‌های انجمن");
-define('_FA_FORUMS_LAYOUT_RECENT_POSTS_DESC', "نمایش تازه‌ترین نوشته‌های دسته‌بندی گزینش شده");
 define('_FA_FORUMS_GROUP', "دسته");
 define('_FA_FORUMS_GROUPS', "دسته‌ها");
 define('_FA_FORUMS_GROUPS_ALL', "همه دسته‌ها");
