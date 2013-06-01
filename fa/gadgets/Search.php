@@ -13,12 +13,12 @@
 define('_FA_SEARCH_NAME', "جستجو");
 define('_FA_SEARCH_DESCRIPTION', "امکان جستجو در سایت را فراهم می‌کند");
 define('_FA_SEARCH_ACL_DEFAULT', "مدیریت جستجو");
-define('_FA_SEARCH_LAYOUT_BOX', "بلوک جستجو");
-define('_FA_SEARCH_LAYOUT_BOX_DESCRIPTION', "فراهم کردن امکان جستجو");
-define('_FA_SEARCH_LAYOUT_SIMPLEBOX', "بلوک جستجوی ساده");
-define('_FA_SEARCH_LAYOUT_SIMPLEBOX_DESCRIPTION', "بلوک جستجو بدون امکان انتخاب ابزارها");
-define('_FA_SEARCH_LAYOUT_ADVANCEDBOX', "جستجوی پیشرفته");
-define('_FA_SEARCH_LAYOUT_ADVANCEDBOX_DESCRIPTION', "جستجوی پیشرفته");
+define('_FA_SEARCH_ACTIONS_BOX', "بلوک جستجو");
+define('_FA_SEARCH_ACTIONS_BOX_DESC', "فراهم کردن امکان جستجو");
+define('_FA_SEARCH_ACTIONS_SIMPLEBOX', "بلوک جستجوی ساده");
+define('_FA_SEARCH_ACTIONS_SIMPLEBOX_DESC', "بلوک جستجو بدون امکان انتخاب ابزارها");
+define('_FA_SEARCH_ACTIONS_ADVANCEDBOX', "جستجوی پیشرفته");
+define('_FA_SEARCH_ACTIONS_ADVANCEDBOX_DESC', "جستجوی پیشرفته");
 define('_FA_SEARCH_RESULTS', "نتایج جستجو");
 define('_FA_SEARCH_RESULTS_SUBTITLE', "{0} مورد شامل عبارت '<span class=\"result_title\">{1}</span>' در بخش های زیر پیدا شد:");
 define('_FA_SEARCH_RESULTS_IN_GADGETS', "{0} مورد در بخش <b>{2}</b>");
