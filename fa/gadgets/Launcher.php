@@ -12,6 +12,7 @@
 
 define('_FA_LAUNCHER_NAME', "سکو");
 define('_FA_LAUNCHER_DESCRIPTION', "ابزاری برای اجرای اسکریپت های مستقل");
-define('_FA_LAUNCHER_DISPLAY', "نمایش این اسکریپت");
+define('_FA_LAUNCHER_ACTIONS_EXECUTE', "اسکریپت");
+define('_FA_LAUNCHER_ACTIONS_EXECUTE_DESC', "اجرای این اسکریپت");
 define('_FA_LAUNCHER_ERROR_SCRIPT_NOT_EXISTS', "اسکریپت دلخواه شما پیدا نشد");
 define('_FA_LAUNCHER_ERROR_FUNCTION_NOT_EXISTS', "تابع دلخواه شما پیدا نشد");
