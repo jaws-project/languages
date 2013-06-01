@@ -39,7 +39,6 @@ define('_FA_POLICY_ENCRYPTION_512BIT', "512 بیت");
 define('_FA_POLICY_ENCRYPTION_1024BIT', "1024 بیت");
 define('_FA_POLICY_ENCRYPTION_KEY_START_DATE', "تاریخ ایجاد کلید");
 define('_FA_POLICY_ANTISPAM', "ضد هرزنامه");
-define('_FA_POLICY_ANTISPAM_ALLOWDUPLICATE', "مجوز تکرار پیامهای مشابه");
 define('_FA_POLICY_ANTISPAM_CAPTCHA', "تصویر امنیتی");
 define('_FA_POLICY_ANTISPAM_CAPTCHA_ALWAYS', "همواره");
 define('_FA_POLICY_ANTISPAM_CAPTCHA_ANONYMOUS', "فقط بازدیدکنندگان مهمان");
@@ -55,6 +54,8 @@ define('_FA_POLICY_PASSWD_LOCKEDOUT_TIME', "مدت زمان قفل شده کلم
 define('_FA_POLICY_PASSWD_MAX_AGE', "حداکثر طول عمر کلمه رمز");
 define('_FA_POLICY_PASSWD_RESISTANT', "پایدار");
 define('_FA_POLICY_PASSWD_MIN_LEN', "حداقل طول کلمه رمز");
+define('_FA_POLICY_LOGIN_CAPTCHA', "تصویر امنیتی بلوک لاگین");
+define('_FA_POLICY_LOGIN_CAPTCHA_AFTER_WRONG', "فعالسازی پس از {0} بار ورود ناموفق");
 define('_FA_POLICY_XSS_PARSING_LEVEL', "میزان بررسی XSS");
 define('_FA_POLICY_XSS_PARSING_NORMAL', "معمولی");
 define('_FA_POLICY_XSS_PARSING_PARANOID', "سخت‌گیری");
