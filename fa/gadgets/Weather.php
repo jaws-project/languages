@@ -15,8 +15,10 @@ define('_FA_WEATHER_DESCRIPTION', "نقاط جغرافیایی خود را بر 
 define('_FA_WEATHER_ACL_DEFAULT', "دسترسی به ابزار آب و هوا");
 define('_FA_WEATHER_ACL_MANAGEREGIONS', "افزودن، ویرایش و حذف نواحی");
 define('_FA_WEATHER_ACL_UPDATEPROPERTIES', "امکان تغییر در مشخصات ابزار");
-define('_FA_WEATHER_LAYOUT_REGIONS', "همه نواحی");
-define('_FA_WEATHER_LAYOUT_REGIONS_DESC', "نمایش آب و هوای همه نواحی");
+define('_FA_WEATHER_ACTIONS_REGIONWEATHER', "ناحیه");
+define('_FA_WEATHER_ACTIONS_REGIONWEATHER_DESC', "نمایش آب و هوای ناحیه");
+define('_FA_WEATHER_ACTIONS_ALLREGIONSWEATHER', "همه نواحی");
+define('_FA_WEATHER_ACTIONS_ALLREGIONSWEATHER_DESC', "نمایش آب و هوای همه نواحی");
 define('_FA_WEATHER_REGIONS', "نواحی");
 define('_FA_WEATHER_GEOPOSITION', "نقطه جغرافیایی");
 define('_FA_WEATHER_FASTURL', "دسترسی سریع URL");
