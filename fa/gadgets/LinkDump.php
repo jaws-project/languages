@@ -12,17 +12,17 @@
 
 define('_FA_LINKDUMP_NAME', "پیوندها");
 define('_FA_LINKDUMP_DESCRIPTION', "ابزاری ساده برای لینک دادن به صفحات وب");
+define('_FA_LINKDUMP_ACTIONS_DISPLAY', "نمایش لینک ها");
+define('_FA_LINKDUMP_ACTIONS_DISPLAY_DESC', "نمایش لینکها با محدودیت تعداد");
+define('_FA_LINKDUMP_ACTIONS_SHOWCATEGORIES', "لیست دسته بندیها");
+define('_FA_LINKDUMP_ACTIONS_SHOWCATEGORIES_DESC', "نمایش لیست دسته بندیها");
+define('_FA_LINKDUMP_ACTIONS_SHOWTAGCLOUD', "لیست برچسبها");
+define('_FA_LINKDUMP_ACTIONS_SHOWTAGCLOUD_DESC', "تهیه لیسی از برچسبهای لینکها");
 define('_FA_LINKDUMP_ACL_DEFAULT', "مدیریت پیوندها");
 define('_FA_LINKDUMP_ACL_MANAGELINKS', "مديريت لینکها");
 define('_FA_LINKDUMP_ACL_MANAGEGROUPS', "مدیریت دسته لینکها");
 define('_FA_LINKDUMP_ACL_MANAGETAGS', "مدیريت برچسبها");
 define('_FA_LINKDUMP_ACL_UPDATEPROPERTIES', "ثبت مشخصات");
-define('_FA_LINKDUMP_LAYOUT_DISPLAY', "نمایش لینک ها");
-define('_FA_LINKDUMP_LAYOUT_DISPLAY_DESCRIPTION', "نمایش لینکها با محدودیت تعداد");
-define('_FA_LINKDUMP_LAYOUT_CATEGORIES', "لیست دسته بندیها");
-define('_FA_LINKDUMP_LAYOUT_CATEGORIES_DESCRIPTION', "نمایش لیست دسته بندیها");
-define('_FA_LINKDUMP_LAYOUT_TAG_CLOUD', "لیست برچسبها");
-define('_FA_LINKDUMP_LAYOUT_TAG_CLOUD_DESCRIPTION', "تهیه لیسی از برچسبهای لینکها");
 define('_FA_LINKDUMP_FASTURL', "دسترسی سریع URL");
 define('_FA_LINKDUMP_RANK', "رتبه");
 define('_FA_LINKDUMP_LINKS_TITLE', "لیست گروهها و لینکهای زیر مجموعه");
