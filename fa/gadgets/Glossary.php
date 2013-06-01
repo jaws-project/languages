@@ -10,10 +10,10 @@
  * "Content-Transfer-Encoding: 8bit"
  */
 
-define('_FA_GLOSSARY_LAYOUT_RANDOM', "نمایش تصادفی عبارات");
-define('_FA_GLOSSARY_LAYOUT_RANDOM_DESC', "نمایش عباراتی که به صورت تصادفی انتخاب شده اند");
-define('_FA_GLOSSARY_LAYOUT_LISTOF', "نمایش لیست عبارات");
-define('_FA_GLOSSARY_LAYOUT_LISTOF_DESC', "نمایش لیست تمام عبارات");
+define('_FA_GLOSSARY_ACTIONS_RANDOMTERMS', "نمایش تصادفی عبارات");
+define('_FA_GLOSSARY_ACTIONS_RANDOMTERMS_DESC', "نمایش عباراتی که به صورت تصادفی انتخاب شده اند");
+define('_FA_GLOSSARY_ACTIONS_LISTOFTERMS', "نمایش لیست عبارات");
+define('_FA_GLOSSARY_ACTIONS_LISTOFTERMS_DESC', "نمایش لیست تمام عبارات");
 define('_FA_GLOSSARY_MENUBAR_VIEWTERMS', "نمایش عبارت");
 define('_FA_GLOSSARY_MENUBAR_ADDTERM', "افزودن عبارت جدید");
 define('_FA_GLOSSARY_MENUBAR_PROPERTIES', "خصوصیات");
