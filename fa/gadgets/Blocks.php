@@ -22,7 +22,8 @@ define('_FA_BLOCKS_ACL_DEFAULT', "دسترسی به ابزار بلوک‌ها")
 define('_FA_BLOCKS_ACL_ADDBLOCK', "امکان ایجاد بلوک جدید");
 define('_FA_BLOCKS_ACL_EDITBLOCK', "امکان ویرایش بلوک‌ها");
 define('_FA_BLOCKS_ACL_DELETEBLOCK', "امکان حذف بلوک");
-define('_FA_BLOCKS_SHOW_BLOCK', "نمایش بلوک");
+define('_FA_BLOCKS_ACTIONS_BLOCK', "نمایش این بلوک");
+define('_FA_BLOCKS_ACTIONS_BLOCK_DESC', "نمایش بلوک");
 define('_FA_BLOCKS_UPDATED', "تغییرات بلوک ({0}) ثبت شد");
 define('_FA_BLOCKS_ADDED', "بلوک ({0}) ایجاد شد");
 define('_FA_BLOCKS_DELETED', "بلوک ({0}) حذف شد");
