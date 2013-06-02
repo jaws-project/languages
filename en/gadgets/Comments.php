@@ -40,14 +40,6 @@ define('_EN_COMMENTS_POSTEDBY', "Posted by");
 define('_EN_COMMENTS_REPLY_TO_COMMENT', "Reply");
 define('_EN_COMMENTS_REPLIER', "Replied by");
 
-define('_EN_COMMENTS_FILTER_BY', "Filter by");
-define('_EN_COMMENTS_SEARCH_POST_ID_IS', "post ID is");
-define('_EN_COMMENTS_SEARCH_COMMENT_CONTAINS', "comment contains");
-define('_EN_COMMENTS_SEARCH_NAME_CONTAINS', "name contains");
-define('_EN_COMMENTS_SEARCH_EMAIL_CONTAINS', "e-mail address contains");
-define('_EN_COMMENTS_SEARCH_URL_CONTAINS', "URL contains");
-define('_EN_COMMENTS_SEARCH_IP_IS', "ip address is");
-
 define('_EN_COMMENTS_ANTISPAM_ALLOWDUPLICATE', "Allow duplicate messages");
 define('_EN_COMMENTS_PROPERTIES_UPDATED', "Properties have been updated");
 define('_EN_COMMENTS_ERROR_CANT_UPDATE_PROPERTIES', "There was a problem updating the properties");
