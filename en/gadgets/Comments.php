@@ -11,7 +11,6 @@
  */
 
 /* ACLs */
-define('_EN_COMMENTS_ACL_DEFAULT', "Administrate comments");
 define('_EN_COMMENTS_ACL_MANAGECOMMENTS', "Manage all gadget's comments");
 define('_EN_COMMENTS_ACL_REPLYCOMMENTS', "Reply to comments");
 define('_EN_COMMENTS_ACL_SETTINGS', "Change settings");
