@@ -104,7 +104,8 @@ define('_EN_GLOBAL_CONTROLPANEL', "Control Panel");
 define('_EN_GLOBAL_ERROR_ACCESS_DENIED', "You do not have access to this section");
 define('_EN_GLOBAL_ERROR_ACCESS_RESTRICTED', "You must <a href=\"{0}\">login</a> or <a href=\"{1}\">register</a> to access this section.");
 define('_EN_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "The gadget can't have the name Core, it's reserved for Jaws.");
-define('_EN_GLOBAL_READ_DOCUMENTATION', "Read documentation");
+define('_EN_GLOBAL_HELP', "Help");
+define('_EN_GLOBAL_VIEW_SITE', "View Site");
 define('_EN_GLOBAL_TIMES', "{0} time(s)");
 define('_EN_GLOBAL_RE', "Re: ");
 
