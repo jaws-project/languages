@@ -93,6 +93,7 @@ define('_RU_GLOBAL_LOGIN_SECURE', "Безопасный вход");
 define('_RU_GLOBAL_LANGUAGE', "Язык");
 define('_RU_GLOBAL_NEXTPAGE', "Следующая страница");
 define('_RU_GLOBAL_PREVIOUSPAGE', "Предыдущая страница");
+define('_RU_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_RU_GLOBAL_ERROR_ACCESS_DENIED', "Вам не разрешен доступ к этому разделу");
 define('_RU_GLOBAL_ERROR_ACCESS_RESTRICTED', "Вы должны <a href=\"{0}\">войти</a> или <a href=\"{1}\">зарегистрироваться</a>, чтобы получить доступ к этому разделу.");
 define('_RU_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Компонент не может называться Core, имя зарезервировано за Jaws.");

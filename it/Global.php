@@ -92,6 +92,7 @@ define('_IT_GLOBAL_LOGIN_SECURE', "Login sicuro");
 define('_IT_GLOBAL_LANGUAGE', "Lingua");
 define('_IT_GLOBAL_NEXTPAGE', "Prossima pagina");
 define('_IT_GLOBAL_PREVIOUSPAGE', "Pagina precedente");
+define('_IT_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_IT_GLOBAL_ERROR_ACCESS_DENIED', "Non puoi accedere a questa sezione");
 define('_IT_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Il gadget non puo' avere nome Core, è riservato per Jaws.");
 define('_IT_GLOBAL_READ_DOCUMENTATION', "Leggi la documentazione");

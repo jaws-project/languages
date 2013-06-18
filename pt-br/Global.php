@@ -92,6 +92,7 @@ define('_PT-BR_GLOBAL_LOGIN_SECURE', "Login seguro");
 define('_PT-BR_GLOBAL_LANGUAGE', "Idioma");
 define('_PT-BR_GLOBAL_NEXTPAGE', "Próxima página");
 define('_PT-BR_GLOBAL_PREVIOUSPAGE', "Página anterior");
+define('_PT_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_PT-BR_GLOBAL_ERROR_ACCESS_DENIED', "Você não tem acesso à esta seção");
 define('_PT-BR_GLOBAL_ERROR_ACCESS_RESTRICTED', "Você deve se <a href=\"{0}\">autenticar</a> ou <a href=\"{1}\">registrar</a> para acessar essa área.");
 define('_PT-BR_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "A palavra Core é reservada e nenhum gadget pode ter esse nome..");

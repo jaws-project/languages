@@ -67,6 +67,7 @@ define('_AR_GLOBAL_LAST', "اخير");
 define('_AR_GLOBAL_STATUS', "الحالة");
 define('_AR_GLOBAL_SPAMCHECK_EMPTY', "فحص البريد المزعج spam (اتركه فارغا)");
 define('_AR_GLOBAL_THANKS', "Thanks");
+define('_AR_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&larr;");
 define('_AR_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "البريمج لا يمكن تسميته بالأسم Core ﻷن هذا الأسم محجوز لجاوس.");
 define('_AR_GLOBAL_GI_GADGET_NAME', "اسم البريمج");
 define('_AR_GLOBAL_GI_GADGET_GADGETNAME', "اسم البريمج");

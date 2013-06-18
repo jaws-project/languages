@@ -93,6 +93,7 @@ define('_SV_GLOBAL_LOGIN_SECURE', "Säker inloggning");
 define('_SV_GLOBAL_LANGUAGE', "Språk");
 define('_SV_GLOBAL_NEXTPAGE', "Nästa");
 define('_SV_GLOBAL_PREVIOUSPAGE', "Föregående");
+define('_SV_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_SV_GLOBAL_ERROR_ACCESS_DENIED', "Du har inte behörighet hit");
 define('_SV_GLOBAL_ERROR_ACCESS_RESTRICTED', "Du måste <a href=\"{0}\">logga in</a> eller <a href=\"{1}\">registrera dig</a> för att komma åt platsen.");
 define('_SV_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Modulen kan inte heta Core, namnet är reserverat i Jaws.");

@@ -90,6 +90,7 @@ define('_TR_GLOBAL_LOGIN_SECURE', "Oturum Açma");
 define('_TR_GLOBAL_LANGUAGE', "Dil");
 define('_TR_GLOBAL_NEXTPAGE', "Sonraki Sayfa");
 define('_TR_GLOBAL_PREVIOUSPAGE', "Önceki Sayfa");
+define('_TR_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_TR_GLOBAL_ERROR_ACCESS_DENIED', "Bu bölüme erişim yetkiniz yok");
 define('_TR_GLOBAL_ERROR_ACCESS_RESTRICTED', "Bu bölüme erişebilmek için <a href=\"{0}\">Oturum Açmalı</a> yada <a href=\"{1}\">Kayıt</a> olmalısınız.");
 define('_TR_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Bu araç ismi çekirdekte olamaz, bu isim JAWS için ayrılmıştır.");

@@ -26,3 +26,4 @@ define('_FA_CONTROLPANEL_LOGIN_TITLE', "ورود");
 define('_FA_CONTROLPANEL_LOGGED_IN_AS', "وارد شده با");
 define('_FA_CONTROLPANEL_UNSAVED_CHANGES', "شما در این صفحه تغییرات ثبت نشده‌ای دارید");
 define('_FA_CONTROLPANEL_OFFLINE_WARNING', "هشدار، سایت در وضعیت غیرفعال می‌باشد!");
+define('_FA_CONTROLPANEL_LATEST_JAWS_VERSION', "تازه‌ترین نگارش جاوز");

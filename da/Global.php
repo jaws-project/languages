@@ -54,6 +54,7 @@ define('_DA_GLOBAL_INFO', "Info");
 define('_DA_GLOBAL_VERSION', "Version");
 define('_DA_GLOBAL_ALL', "Alle");
 define('_DA_GLOBAL_HOME', "Hjem");
+define('_DA_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_DA_GLOBAL_GI_GADGET_NAME', "Moduler");
 define('_DA_GLOBAL_GI_GADGET_GADGETNAME', "Modulnavn");
 define('_DA_GLOBAL_GI_GADGET_JAWSVERSION', "Påkrævet version af Jaws");

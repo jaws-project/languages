@@ -90,6 +90,7 @@ define('_DE_GLOBAL_LOGIN_SECURE', "Sicheres Anmelden");
 define('_DE_GLOBAL_LANGUAGE', "Sprache");
 define('_DE_GLOBAL_NEXTPAGE', "Nächste Seite");
 define('_DE_GLOBAL_PREVIOUSPAGE', "Vorherige Seite");
+define('_DE_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_DE_GLOBAL_ERROR_ACCESS_DENIED', "Sie haben keinen Zugang zu dieser Seite");
 define('_DE_GLOBAL_ERROR_ACCESS_RESTRICTED', "Sie müssen sich <a href=\"{0}\">anmelden</a> oder <a href=\"{0}\">registrieren</a>, um diesen Bereich zu sehen. ");
 define('_DE_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Das Gadget kann keinen Corenamen haben. Dieser ist für Jaws reserviert.");

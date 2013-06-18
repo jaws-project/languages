@@ -98,6 +98,7 @@ define('_FA_GLOBAL_LANGUAGE', "زبان");
 define('_FA_GLOBAL_NEXTPAGE', "برگه پسین");
 define('_FA_GLOBAL_PREVIOUSPAGE', "برگه پیشین");
 define('_FA_GLOBAL_CONTROLPANEL', "بخش راهبری");
+define('_FA_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&larr;");
 define('_FA_GLOBAL_ERROR_ACCESS_DENIED', "دسترسی شما به این بخش ممکن نیست");
 define('_FA_GLOBAL_ERROR_ACCESS_RESTRICTED', "برای دسترسی به این بخش میبایستی عضو سایت شوید، لطفا <a href=\"{0}\">لاگین</a> کنید و یا <a href=\"{1}\">عضو</a> شوید.");
 define('_FA_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "برای نام ابزار از کلمه Core نمی‌توان استفاده کرد.");

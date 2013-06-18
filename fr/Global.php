@@ -93,6 +93,7 @@ define('_FR_GLOBAL_LOGIN_SECURE', "Connexion sécurisée");
 define('_FR_GLOBAL_LANGUAGE', "Langue");
 define('_FR_GLOBAL_NEXTPAGE', "Page suivante");
 define('_FR_GLOBAL_PREVIOUSPAGE', "Page précédente");
+define('_FR_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_FR_GLOBAL_ERROR_ACCESS_DENIED', "Vous n'avez pas accès a cette section");
 define('_FR_GLOBAL_ERROR_ACCESS_RESTRICTED', "Vous devez vous connecter ou vous inscrire pour accéder à cette section.");
 define('_FR_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Le gadget ne peut pas avoir le nom Core, ce nom est réserve pour Jaws");

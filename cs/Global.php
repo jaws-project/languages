@@ -92,6 +92,7 @@ define('_CS_GLOBAL_LOGIN_SECURE', "Zabezpečené přihlášení");
 define('_CS_GLOBAL_LANGUAGE', "Jazyk");
 define('_CS_GLOBAL_NEXTPAGE', "Další stránka");
 define('_CS_GLOBAL_PREVIOUSPAGE', "Předchozí stránka");
+define('_CS_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_CS_GLOBAL_ERROR_ACCESS_DENIED', "Nemáte přístup do této sekce");
 define('_CS_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Gadget se nemůže jmenovat Core, toto jméno je rezervováno pro Jaws.");
 define('_CS_GLOBAL_READ_DOCUMENTATION', "Číst dokumentaci");

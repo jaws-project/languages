@@ -68,6 +68,7 @@ define('_RO_GLOBAL_LAST', "Ultima");
 define('_RO_GLOBAL_STATUS', "Conditie");
 define('_RO_GLOBAL_SPAMCHECK_EMPTY', "Verificare spam (lasa gol)");
 define('_RO_GLOBAL_THANKS', "Multumiri");
+define('_RO_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_RO_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Gadget-ul nu poate avea denumirea Core, este rezervata pentru Jaws.");
 define('_RO_GLOBAL_GI_GADGET_NAME', "Nume Gadget");
 define('_RO_GLOBAL_GI_GADGET_GADGETNAME', "Nume Gadget");

@@ -92,6 +92,7 @@ define('_PL_GLOBAL_LOGIN_SECURE', "Bezpieczne logowanie");
 define('_PL_GLOBAL_LANGUAGE', "Język");
 define('_PL_GLOBAL_NEXTPAGE', "Następna strona");
 define('_PL_GLOBAL_PREVIOUSPAGE', "Poprzednia strona");
+define('_PL_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_PL_GLOBAL_ERROR_ACCESS_DENIED', "Nie masz dostępu do tego gadżetu");
 define('_PL_GLOBAL_ERROR_ACCESS_RESTRICTED', "Musisz się <a href=\"{0}\">zalogować</a> lub <a href=\"{1}\">zarejestrować</a> by mieć dostęp do tej strony.");
 define('_PL_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Gadżet nie może mieć nazwy Core; jest ona zarezerwowana dla Jaws.");

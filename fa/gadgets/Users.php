@@ -199,8 +199,8 @@ define('_FA_USERS_ONLINE_NO_ONLINE', "هیچ کاربر برخطی یافت نش
 define('_FA_USERS_ONLINE_REGISTERED_COUNT', "کاربران برخط");
 define('_FA_USERS_ONLINE_GUESTS_COUNT', "مهمانان برخط");
 define('_FA_USERS_PROPERTIES_ANON_REGISTER', "توانایی هموند شدن بازید کنندگان");
-define('_FA_USERS_PROPERTIES_ANON_REPETITIVE_EMAIL', "امکان بکارگیری چند باره یک ایمیل برای هموند شدن");
-define('_FA_USERS_PROPERTIES_ANON_ACTIVATION', "شیوه پویا سازی");
+define('_FA_USERS_PROPERTIES_ANON_REPETITIVE_EMAIL', "امکان استفاده از ایمیل تکراری برای هموند شدن");
+define('_FA_USERS_PROPERTIES_ANON_ACTIVATION', "شیوه فعال‌سازی ");
 define('_FA_USERS_PROPERTIES_ACTIVATION_AUTO', "خودکار");
 define('_FA_USERS_PROPERTIES_ACTIVATION_BY_USER', "بدست کاربر");
 define('_FA_USERS_PROPERTIES_ACTIVATION_BY_ADMIN', "بدست مدیران سایت");

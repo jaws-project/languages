@@ -90,6 +90,7 @@ define('_NB_GLOBAL_LOGIN_SECURE', "Sikker innlogging");
 define('_NB_GLOBAL_LANGUAGE', "Språk");
 define('_NB_GLOBAL_NEXTPAGE', "Neste side");
 define('_NB_GLOBAL_PREVIOUSPAGE', "Foregående side");
+define('_NB_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_NB_GLOBAL_ERROR_ACCESS_DENIED', "Du har ikke tilgang til denne seksjonen");
 define('_NB_GLOBAL_ERROR_ACCESS_RESTRICTED', "Du må <a href=\"{0}\">logge inn</a> eller <a href=\"{1}\">registrere</a> for å få tilgang til denne seksjonen.");
 define('_NB_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Modulen kan ikke ha navnet Core. Navnet er reservert for Jaws.");

@@ -91,6 +91,7 @@ define('_HE_GLOBAL_LOGIN_SECURE', "כניסה מאבטחת");
 define('_HE_GLOBAL_LANGUAGE', "שפה");
 define('_HE_GLOBAL_NEXTPAGE', "הדף הבא");
 define('_HE_GLOBAL_PREVIOUSPAGE', "הדף הקודם");
+define('_HE_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&larr;");
 define('_HE_GLOBAL_ERROR_ACCESS_DENIED', "אין לך הרשאות גישה לחלק זה");
 define('_HE_GLOBAL_ERROR_ACCESS_RESTRICTED', "עליך <a href=\"{0}\">להתחבר</a> או <a href=\"{1}\">להירשם</a> על מנת לגשת לתוכן זה");
 define('_HE_GLOBAL_READ_DOCUMENTATION', "קרא תיעוד");

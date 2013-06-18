@@ -33,3 +33,6 @@ define('_EN_CONTROLPANEL_LOGIN_TITLE', "Login");
 define('_EN_CONTROLPANEL_LOGGED_IN_AS', "Logged in as");
 define('_EN_CONTROLPANEL_UNSAVED_CHANGES', "You have unsaved changes in this page");
 define('_EN_CONTROLPANEL_OFFLINE_WARNING', "Warning: website is offline!");
+
+/**/
+define('_EN_CONTROLPANEL_LATEST_JAWS_VERSION', "Latest Jaws version");

@@ -92,6 +92,7 @@ define('_JA_GLOBAL_LOGIN_SECURE', "セキュアログイン");
 define('_JA_GLOBAL_LANGUAGE', "言語");
 define('_JA_GLOBAL_NEXTPAGE', "次のページ");
 define('_JA_GLOBAL_PREVIOUSPAGE', "前のページ");
+define('_JA_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_JA_GLOBAL_ERROR_ACCESS_DENIED', "このセクションへアクセスできません");
 define('_JA_GLOBAL_ERROR_ACCESS_RESTRICTED', "このセクションへのアクセスは <a href=\"{0}\">ログイン</a> か <a href=\"{1}\">登録</a> しなければなりません。");
 define('_JA_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Jaws のために予約されているため、ガジェットは「Core」の名前を持つことができません。");

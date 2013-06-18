@@ -67,6 +67,7 @@ define('_ZH_GLOBAL_LAST', "最后");
 define('_ZH_GLOBAL_STATUS', "位置");
 define('_ZH_GLOBAL_SPAMCHECK_EMPTY', "垃圾检查 (清空)");
 define('_ZH_GLOBAL_THANKS', "谢谢");
+define('_ZH_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_ZH_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "这个组件不能具有核心名字,核心名称被jaws保留.");
 define('_ZH_GLOBAL_GI_GADGET_NAME', "组件名称");
 define('_ZH_GLOBAL_GI_GADGET_GADGETNAME', "组件名称");

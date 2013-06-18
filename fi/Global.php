@@ -92,6 +92,7 @@ define('_FI_GLOBAL_LOGIN_SECURE', "Suojattu kirjautuminen");
 define('_FI_GLOBAL_LANGUAGE', "Kieli");
 define('_FI_GLOBAL_NEXTPAGE', "Seuraava sivu");
 define('_FI_GLOBAL_PREVIOUSPAGE', "Edellinen sivu");
+define('_FI_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_FI_GLOBAL_ERROR_ACCESS_DENIED', "Sinulla ei ole oikeutta alueelle");
 define('_FI_GLOBAL_ERROR_ACCESS_RESTRICTED', "Sinun täytyy <a href=\"{0}\">kirjautua</a> tai <a href=\"{1}\">rekisteröityä</a> päästäksesi alueelle.");
 define('_FI_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Laajennuksella ei voi olla nimeä Core, koska se on varattu Jaws:lle.");

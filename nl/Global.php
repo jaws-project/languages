@@ -92,6 +92,7 @@ define('_NL_GLOBAL_LOGIN_SECURE', "Veilige inlog");
 define('_NL_GLOBAL_LANGUAGE', "Taal");
 define('_NL_GLOBAL_NEXTPAGE', "Volgende pagina");
 define('_NL_GLOBAL_PREVIOUSPAGE', "Vorige pagina");
+define('_NL_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_NL_GLOBAL_ERROR_ACCESS_DENIED', "U hebt geen toegang tot deze sectie");
 define('_NL_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "Deze gadget kan niet de naam Core hebben, die is voorbehouden voor Jawws");
 define('_NL_GLOBAL_READ_DOCUMENTATION', "Lees de documentatie");

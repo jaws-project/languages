@@ -92,6 +92,7 @@ define('_CA_GLOBAL_LOGIN_SECURE', "Inici de sessió segura");
 define('_CA_GLOBAL_LANGUAGE', "Idioma");
 define('_CA_GLOBAL_NEXTPAGE', "Pàgina següent");
 define('_CA_GLOBAL_PREVIOUSPAGE', "Pàgina anterior");
+define('_CA_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_CA_GLOBAL_ERROR_ACCESS_DENIED', "No podeu accedir a aquesta secció.");
 define('_CA_GLOBAL_ERROR_ACCESS_RESTRICTED', "Cal <a href=\"{0}\">iniciar la sessió</a> o bé <a href=\"{1}\">registrar-se</a> per a veure aquesta secció.");
 define('_CA_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "El gadget no pot anomenar-se Core, està reservat per Jaws.");

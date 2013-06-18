@@ -88,6 +88,7 @@ define('_BN_GLOBAL_REMEMBER_ME', "মনে রাখবে");
 define('_BN_GLOBAL_LANGUAGE', "ভাষা");
 define('_BN_GLOBAL_NEXTPAGE', "পরের পাতা");
 define('_BN_GLOBAL_PREVIOUSPAGE', "আগের পাতা");
+define('_BN_GLOBAL_CONTROLPANEL_TITLE_SEPARATOR', "&rarr;");
 define('_BN_GLOBAL_ERROR_ACCESS_DENIED', "এখানে আপনার প্রবেশাধিকার নেই");
 define('_BN_GLOBAL_GADGETS_GADGET_CANT_HAVE_NAME_CORE', "এই নামটি ব্যবহার করা যাবেনা। জস এই নামটি সংরক্ষণ করে");
 define('_BN_GLOBAL_READ_DOCUMENTATION', "ডক্যুমেন্টেশন পড়ুন");
