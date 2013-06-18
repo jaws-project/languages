@@ -107,6 +107,7 @@ define('_EN_USERS_USERS_GENDER', "Gender");
 define('_EN_USERS_USERS_GENDER_0', "Unknown");
 define('_EN_USERS_USERS_GENDER_1', "Male");
 define('_EN_USERS_USERS_GENDER_2', "Female");
+define('_EN_USERS_USERS_SSN', "SSN");
 define('_EN_USERS_USERS_BIRTHDAY', "Birthday");
 define('_EN_USERS_USERS_BIRTHDAY_SAMPLE', "e.g., 2009/08/31");
 define('_EN_USERS_USERS_ABOUT', "About");

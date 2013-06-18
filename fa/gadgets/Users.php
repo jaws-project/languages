@@ -95,6 +95,7 @@ define('_FA_USERS_USERS_GENDER', "جنسیت");
 define('_FA_USERS_USERS_GENDER_0', "ناشناخته");
 define('_FA_USERS_USERS_GENDER_1', "مرد");
 define('_FA_USERS_USERS_GENDER_2', "زن");
+define('_FA_USERS_USERS_SSN', "شماره ملی");
 define('_FA_USERS_USERS_BIRTHDAY', "زادروز");
 define('_FA_USERS_USERS_BIRTHDAY_SAMPLE', "مانند: 18 - 05 - 1360");
 define('_FA_USERS_USERS_ABOUT', "درباره خود");
