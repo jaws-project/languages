@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_SETTINGS_NAME', "پیکربندی");
 define('_FA_SETTINGS_DESCRIPTION', "پیکربندی سامانه جاوز");
 define('_FA_SETTINGS_ACL_BASICSETTINGS', "دسترسی به پیکربندی پایه");
@@ -28,15 +27,13 @@ define('_FA_SETTINGS_DEFAULT_SITE_LANGUAGE', "زبان پیش فرض سایت");
 define('_FA_SETTINGS_ADMIN_LANGUAGE', "زبان بخش مدیریت");
 define('_FA_SETTINGS_MAIN_GADGET', "ابزار پیش فرض");
 define('_FA_SETTINGS_SITE_EMAIL', "ایمیل پیش فرض سایت");
-define('_FA_SETTINGS_DATE_FORMAT', "قالب تاریخ");
-define('_FA_SETTINGS_ALLOW_COMMENTS', "توانایی درج نظرات");
-define('_FA_SETTINGS_ALLOW_COMMENTS_RESTRICTED', "تنها اعضا");
+define('_FA_SETTINGS_DATE_FORMAT', "ساختار تاریخ");
 define('_FA_SETTINGS_GRAVATAR', "Gravatar Rating");
 define('_FA_SETTINGS_GRAVATAR_G', "G: Child friendly content.");
 define('_FA_SETTINGS_GRAVATAR_PG', "PG: Possibly offensive content.");
 define('_FA_SETTINGS_GRAVATAR_R', "R: Nudity, intense violence, explicit sexual content, or drug use.");
 define('_FA_SETTINGS_GRAVATAR_X', "X: Hardcore sexual imagery, or intense violence.");
-define('_FA_SETTINGS_USE_GRAVATAR', "Use gravatar");
+define('_FA_SETTINGS_USE_GRAVATAR', "استفاده از gravatar");
 define('_FA_SETTINGS_SAVED', "پیکربندی شما ثبت شد");
 define('_FA_SETTINGS_EDITOR', "ویرایشگر");
 define('_FA_SETTINGS_EDITOR_CLASSIC', "ویرایشگر پیش فرض");
@@ -63,8 +60,8 @@ define('_FA_SETTINGS_META_CUSTOM', "META دلخواه");
 define('_FA_SETTINGS_META_ADD_CUSTOM', "افزودن META");
 define('_FA_SETTINGS_MAIL_SETTINGS', "پیکربندی ایمیل");
 define('_FA_SETTINGS_MAIL_MAILER', "فرستنده ایمیل");
-define('_FA_SETTINGS_MAIL_GATE_EMAIL', "فرستادن با ایمیل");
-define('_FA_SETTINGS_MAIL_GATE_TITLE', "فرستادن با نام");
+define('_FA_SETTINGS_MAIL_GATE_EMAIL', "ایمیل فرستنده");
+define('_FA_SETTINGS_MAIL_GATE_TITLE', "نام فرستنده");
 define('_FA_SETTINGS_MAIL_SMTP_VRFY', "SMTP + Verification");
 define('_FA_SETTINGS_MAIL_SENDMAIL_PATH', "مسیر sendmail");
 define('_FA_SETTINGS_MAIL_SMTP_HOST', "نشانی سرور SMTP");

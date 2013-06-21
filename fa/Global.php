@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_GLOBAL_LANG_DIRECTION', "rtl");
 define('_FA_GLOBAL_ID', "کد");
 define('_FA_GLOBAL_TITLE', "نام");
@@ -42,8 +41,8 @@ define('_FA_GLOBAL_ORDERBY', "چینش با");
 define('_FA_GLOBAL_SEARCH', "جستجو");
 define('_FA_GLOBAL_PUBLISHED', "منتشر شود");
 define('_FA_GLOBAL_DRAFT', "پیش نویس");
-define('_FA_GLOBAL_ENABLED', "فعال شده");
-define('_FA_GLOBAL_DISABLED', "غیرفعال شده");
+define('_FA_GLOBAL_ENABLED', "فعال");
+define('_FA_GLOBAL_DISABLED', "غیرفعال");
 define('_FA_GLOBAL_ENABLE', "فعال");
 define('_FA_GLOBAL_DISABLE', "غیرفعال");
 define('_FA_GLOBAL_VISIBLE', "قابل نمایش");
