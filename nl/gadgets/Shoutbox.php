@@ -20,7 +20,7 @@ define('_NL_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Toon een shoutbox");
 define('_NL_SHOUTBOX_MESSAGE', "Bericht");
 define('_NL_SHOUTBOX_SEND', "Verstuur bericht");
 define('_NL_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Verstuur aub. geen lege berichten.");
-define('_NL_SHOUTBOX_ENTRIES', "Shoutbox berichten");
+define('_NL_SHOUTBOX_SHOUTBOX', "Shoutbox berichten");
 define('_NL_SHOUTBOX_SETTINGS', "Instellingen");
 define('_NL_SHOUTBOX_ENTRY', "Berichten");
 define('_NL_SHOUTBOX_SHOW_MORE', "Toon meer");

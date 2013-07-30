@@ -20,7 +20,7 @@ define('_AR_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Displays a shoutbox");
 define('_AR_SHOUTBOX_MESSAGE', "رسالة");
 define('_AR_SHOUTBOX_SEND', "ارسال الرسالة");
 define('_AR_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "من فضلك لا ترسل رسائل فارغة .");
-define('_AR_SHOUTBOX_ENTRIES', "مدخلات صندوق المحادثة");
+define('_AR_SHOUTBOX_SHOUTBOX', "مدخلات صندوق المحادثة");
 define('_AR_SHOUTBOX_SETTINGS', "الأعدادات");
 define('_AR_SHOUTBOX_ENTRY', "رسالة");
 define('_AR_SHOUTBOX_SHOW_MORE', "اعرض المزيد");

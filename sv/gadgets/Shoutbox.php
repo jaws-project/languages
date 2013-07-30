@@ -20,7 +20,7 @@ define('_SV_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Visar ett chatfönster");
 define('_SV_SHOUTBOX_MESSAGE', "Meddelande");
 define('_SV_SHOUTBOX_SEND', "Skicka meddelande");
 define('_SV_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Vänligen skicka inte tomma meddelanden.");
-define('_SV_SHOUTBOX_ENTRIES', "Chatfönster-inlägg");
+define('_SV_SHOUTBOX_SHOUTBOX', "Chatfönster-inlägg");
 define('_SV_SHOUTBOX_SETTINGS', "Inställningar");
 define('_SV_SHOUTBOX_ENTRY', "Meddelande");
 define('_SV_SHOUTBOX_SHOW_MORE', "Visa mer");

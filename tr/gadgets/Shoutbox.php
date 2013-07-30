@@ -20,7 +20,7 @@ define('_TR_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Bir Sohbet Kutusunun görünümü");
 define('_TR_SHOUTBOX_MESSAGE', "Mesaj");
 define('_TR_SHOUTBOX_SEND', "Mesaj gönder");
 define('_TR_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Lütfen boş mesajlar göndermeyin.");
-define('_TR_SHOUTBOX_ENTRIES', "Sohbet Kutusu Kayıtları");
+define('_TR_SHOUTBOX_SHOUTBOX', "Sohbet Kutusu Kayıtları");
 define('_TR_SHOUTBOX_SETTINGS', "Ayarlar");
 define('_TR_SHOUTBOX_ENTRY', "Mesaj");
 define('_TR_SHOUTBOX_SHOW_MORE', "Tamamını göster");

@@ -19,7 +19,7 @@ define('_JA_SHOUTBOX_LAYOUT_DISPLAY_DESC', "チャットボックスを表示し
 define('_JA_SHOUTBOX_MESSAGE', "メッセージ");
 define('_JA_SHOUTBOX_SEND', "メッセージを送信する");
 define('_JA_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "空のメッセージは送信できません。");
-define('_JA_SHOUTBOX_ENTRIES', "チャットボックスエントリー");
+define('_JA_SHOUTBOX_SHOUTBOX', "チャットボックスエントリー");
 define('_JA_SHOUTBOX_SETTINGS', "設定");
 define('_JA_SHOUTBOX_ENTRY', "メッセージ");
 define('_JA_SHOUTBOX_SHOW_MORE', "もっと表示");

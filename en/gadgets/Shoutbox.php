@@ -23,10 +23,10 @@ define('_EN_SHOUTBOX_ACTIONS_DISPLAY', "Display Shoutbox");
 define('_EN_SHOUTBOX_ACTIONS_DISPLAY_DESC', "Displays a shoutbox");
 
 /* Strings */
+define('_EN_SHOUTBOX_SHOUTBOX', "Shoutbox");
 define('_EN_SHOUTBOX_MESSAGE', "Message");
 define('_EN_SHOUTBOX_SEND', "Send Message");
 define('_EN_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Please don't send empty messages.");
-define('_EN_SHOUTBOX_ENTRIES', "Shoutbox Entries");
 define('_EN_SHOUTBOX_SETTINGS', "Settings");
 define('_EN_SHOUTBOX_ENTRY', "Message");
 define('_EN_SHOUTBOX_SHOW_MORE', "Show more");

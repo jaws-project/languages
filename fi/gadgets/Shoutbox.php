@@ -20,7 +20,7 @@ define('_FI_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Näyttää chat");
 define('_FI_SHOUTBOX_MESSAGE', "Viesti");
 define('_FI_SHOUTBOX_SEND', "Lähetä viesti");
 define('_FI_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Et voi lähettää tyhjää viestiä.");
-define('_FI_SHOUTBOX_ENTRIES', "Chat viestit");
+define('_FI_SHOUTBOX_SHOUTBOX', "Chat viestit");
 define('_FI_SHOUTBOX_SETTINGS', "Asetukset");
 define('_FI_SHOUTBOX_ENTRY', "Viesti");
 define('_FI_SHOUTBOX_SHOW_MORE', "Näytä enemmän");

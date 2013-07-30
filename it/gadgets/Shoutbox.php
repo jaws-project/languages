@@ -20,7 +20,7 @@ define('_IT_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Mostra una Shoutbox");
 define('_IT_SHOUTBOX_MESSAGE', "Messaggio");
 define('_IT_SHOUTBOX_SEND', "Invia Messaggio");
 define('_IT_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Per favore, non inviare messaggi vuoti.");
-define('_IT_SHOUTBOX_ENTRIES', "Messaggi della Shoutbox");
+define('_IT_SHOUTBOX_SHOUTBOX', "Messaggi della Shoutbox");
 define('_IT_SHOUTBOX_SETTINGS', "Impostazioni");
 define('_IT_SHOUTBOX_ENTRY', "Messaggio");
 define('_IT_SHOUTBOX_SHOW_MORE', "Mostrane di piu'");

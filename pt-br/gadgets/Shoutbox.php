@@ -20,7 +20,7 @@ define('_PT-BR_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Exibe a janela de chat");
 define('_PT-BR_SHOUTBOX_MESSAGE', "Mensagem");
 define('_PT-BR_SHOUTBOX_SEND', "Enviar mensagem");
 define('_PT-BR_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Por favor não envie mensagens em branco");
-define('_PT-BR_SHOUTBOX_ENTRIES', "Entradas do chat");
+define('_PT-BR_SHOUTBOX_SHOUTBOX', "Entradas do chat");
 define('_PT-BR_SHOUTBOX_SETTINGS', "Configurações");
 define('_PT-BR_SHOUTBOX_ENTRY', "Mensagem");
 define('_PT-BR_SHOUTBOX_SHOW_MORE', "Mostrar Mais");

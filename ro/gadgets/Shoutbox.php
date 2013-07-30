@@ -20,7 +20,7 @@ define('_RO_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Afiseaza o caseta chat");
 define('_RO_SHOUTBOX_MESSAGE', "Mesaj");
 define('_RO_SHOUTBOX_SEND', "Trimite mesaj");
 define('_RO_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Te rog nu trimite mesaje fara continut.");
-define('_RO_SHOUTBOX_ENTRIES', "Intrari Caseta Chat");
+define('_RO_SHOUTBOX_SHOUTBOX', "Intrari Caseta Chat");
 define('_RO_SHOUTBOX_SETTINGS', "Setari");
 define('_RO_SHOUTBOX_ENTRY', "Mesaj");
 define('_RO_SHOUTBOX_SHOW_MORE', "Arata mai mult");

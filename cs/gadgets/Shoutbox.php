@@ -20,7 +20,7 @@ define('_CS_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Zobrazí chat, ve kterém mohou náv
 define('_CS_SHOUTBOX_MESSAGE', "Zpráva");
 define('_CS_SHOUTBOX_SEND', "Odeslat zprávu");
 define('_CS_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Prosím neposílejte prázné zprávy.");
-define('_CS_SHOUTBOX_ENTRIES', "Zprávy");
+define('_CS_SHOUTBOX_SHOUTBOX', "Zprávy");
 define('_CS_SHOUTBOX_SETTINGS', "Nastavení");
 define('_CS_SHOUTBOX_ENTRY', "Zpráva");
 define('_CS_SHOUTBOX_SHOW_MORE', "Ukázat více");

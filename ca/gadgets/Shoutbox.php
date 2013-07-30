@@ -20,7 +20,7 @@ define('_CA_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Mostra un quadre de xat");
 define('_CA_SHOUTBOX_MESSAGE', "Missatge");
 define('_CA_SHOUTBOX_SEND', "Trametre el missatge");
 define('_CA_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Si us plau no envieu missatges vuits.");
-define('_CA_SHOUTBOX_ENTRIES', "Entrades del quadre de xat");
+define('_CA_SHOUTBOX_SHOUTBOX', "Entrades del quadre de xat");
 define('_CA_SHOUTBOX_SETTINGS', "Preferències");
 define('_CA_SHOUTBOX_ENTRY', "Missatge");
 define('_CA_SHOUTBOX_SHOW_MORE', "Mostrar més");

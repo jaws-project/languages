@@ -20,7 +20,7 @@ define('_RU_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Показать чат");
 define('_RU_SHOUTBOX_MESSAGE', "Сообщение");
 define('_RU_SHOUTBOX_SEND', "Отправить сообщение");
 define('_RU_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Пожалуйста, не посылайте пустых сообщений.");
-define('_RU_SHOUTBOX_ENTRIES', "Сообщения чата");
+define('_RU_SHOUTBOX_SHOUTBOX', "Сообщения чата");
 define('_RU_SHOUTBOX_SETTINGS', "Настройки");
 define('_RU_SHOUTBOX_ENTRY', "Запись");
 define('_RU_SHOUTBOX_SHOW_MORE', "Показать еще");

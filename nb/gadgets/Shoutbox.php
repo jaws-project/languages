@@ -20,7 +20,7 @@ define('_NB_SHOUTBOX_LAYOUT_DISPLAY_DESC', "Vis en prateboks");
 define('_NB_SHOUTBOX_MESSAGE', "Beskjed");
 define('_NB_SHOUTBOX_SEND', "Send beskjed");
 define('_NB_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "Ikke send tomme beskjeder.");
-define('_NB_SHOUTBOX_ENTRIES', "Prateboksinnlegg");
+define('_NB_SHOUTBOX_SHOUTBOX', "Prateboksinnlegg");
 define('_NB_SHOUTBOX_SETTINGS', "Innstillinger");
 define('_NB_SHOUTBOX_ENTRY', "Beskjed");
 define('_NB_SHOUTBOX_SHOW_MORE', "Vis mer");

@@ -20,7 +20,7 @@ define('_ZH_SHOUTBOX_LAYOUT_DISPLAY_DESC', "显示一个聊天室");
 define('_ZH_SHOUTBOX_MESSAGE', "信息");
 define('_ZH_SHOUTBOX_SEND', "发送信息");
 define('_ZH_SHOUTBOX_DONT_SEND_EMPTY_MESSAGES', "请不要发送信消息.");
-define('_ZH_SHOUTBOX_ENTRIES', "聊天室入口");
+define('_ZH_SHOUTBOX_SHOUTBOX', "聊天室入口");
 define('_ZH_SHOUTBOX_SETTINGS', "设置");
 define('_ZH_SHOUTBOX_ENTRY', "信息");
 define('_ZH_SHOUTBOX_SHOW_MORE', "显示更多");
