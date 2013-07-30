@@ -43,6 +43,7 @@ define('_EN_VISITCOUNTER_COUNTER_RESETED', "Counter has been reseted");
 define('_EN_VISITCOUNTER_PROPERTIES_UPDATED', "The properties have been updated!");
 
 /* Common strings */
+define('_EN_VISITCOUNTER_VISITORS', "Visitors");
 define('_EN_VISITCOUNTER_IP', "IP Address");
 define('_EN_VISITCOUNTER_DATE', "Date");
 define('_EN_VISITCOUNTER_TYPE', "Type");
