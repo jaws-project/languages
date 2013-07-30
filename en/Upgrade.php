@@ -22,12 +22,12 @@ define('_EN_UPGRADE_WRITECONFIG', "Save Configuration");
 define('_EN_UPGRADE_FINISHED', "Finished");
 
 /* Introduction */
-define('_EN_UPGRADE_INTRO_WELCOME', "Welcome to the Jaws upgrader.");
-define('_EN_UPGRADE_INTRO_UPGRADER', "Using the upgrader you can upgrade and old installation to the current one. Just please make sure you have the following things available");
-define('_EN_UPGRADE_INTRO_DATABASE', "Database details - hostname, username, password, database name.");
-define('_EN_UPGRADE_INTRO_FTP', "A way of uploading files, probably FTP.");
+define('_EN_UPGRADE_INTRO_WELCOME', "Welcome to the Jaws upgrade wizard.");
+define('_EN_UPGRADE_INTRO_UPGRADER', "Using this wizard you can upgrade an old installation of Jaws to the current one. Please make sure you have the following things available");
+define('_EN_UPGRADE_INTRO_DATABASE', "Database details (i.e. hostname, username, password and database name)");
+define('_EN_UPGRADE_INTRO_FTP', "A way of uploading files, probably FTP");
 define('_EN_UPGRADE_INTRO_LOG', "Log the upgrade process (and errors) to a file ({0})");
-define('_EN_UPGRADE_INTRO_LOG_ERROR', "Note: If you want to log the upgrade process (and errors) of the installation to a file you first need to set write-access permissions to the ({0}) directory and then refresh this page with your browser");
+define('_EN_UPGRADE_INTRO_LOG_ERROR', "Note: If you want to log the upgrade process (and errors) of the installation to a file you first need to set write-access permissions to the ({0}) directory and then refresh this page with your browser.");
 
 /* Authentication */
 define('_EN_UPGRADE_AUTH_PATH_INFO', "To make sure that you are really the owner of this site, please create a file called <strong>{0}</strong> in your Jaws upgrade directory (<strong>{1}</strong>).");
