@@ -155,6 +155,8 @@ define('_EN_USERS_CONTACTS_POSTAL_CODE', "Postal code");
 define('_EN_USERS_CONTACTS_PHONE_NUMBER', "Phone number");
 define('_EN_USERS_CONTACTS_MOBILE_NUMBER', "Mobile number");
 define('_EN_USERS_CONTACTS_FAX_NUMBER', "Fax number");
+define('_EN_USERS_USERS_AVATAR_UPLOAD', "Upload Avatar");
+define('_EN_USERS_USERS_AVATAR_DELETE', "Delete Avatar");
 
 define('_EN_USERS_ADVANCED_OPTS_EDITOR', "User editor");
 define('_EN_USERS_ADVANCED_OPTS_LANGUAGE', "Preferred language");
