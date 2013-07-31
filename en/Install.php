@@ -104,13 +104,13 @@ define('_EN_INSTALL_USER_RESPONSE_CREATE_FAILED', "There was a problem while cre
 /* Settings */
 define('_EN_INSTALL_SETTINGS_INFO', "You can now set the default settings for your site. You can change any of these later by logging into the Control Panel and selecting Settings.");
 define('_EN_INSTALL_SETTINGS_SITE_NAME', "Site Name");
-define('_EN_INSTALL_SETTINGS_SITE_NAME_INFO', "The name to display for your site.");
+define('_EN_INSTALL_SETTINGS_SITE_NAME_INFO', "Pick a name for your website");
 define('_EN_INSTALL_SETTINGS_SLOGAN', "Site Slogan");
-define('_EN_INSTALL_SETTINGS_SLOGAN_INFO', "A longer description of the site.");
+define('_EN_INSTALL_SETTINGS_SLOGAN_INFO', "A longer description of the site");
 define('_EN_INSTALL_SETTINGS_SITE_LANGUAGE', "Site Language");
-define('_EN_INSTALL_SETTINGS_SITE_LANGUAGE_INFO', "The main language to display the site in.");
-define('_EN_INSTALL_SETTINGS_SITE_SAMPLE', "Site sample");
-define('_EN_INSTALL_SETTINGS_SITE_SAMPLE_INFO', "Install some gadgets with sample data.");
+define('_EN_INSTALL_SETTINGS_SITE_LANGUAGE_INFO', "Default site language");
+define('_EN_INSTALL_SETTINGS_SITE_SAMPLE', "Sample site");
+define('_EN_INSTALL_SETTINGS_SITE_SAMPLE_INFO', "Install some gadgets with sample data");
 
 /* WriteConfig */
 define('_EN_INSTALL_CONFIG_INFO', "You now need to save your configuration file.");
