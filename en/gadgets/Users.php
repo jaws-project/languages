@@ -26,7 +26,7 @@ define('_EN_USERS_ACL_EDITUSERNICKNAME', "Edit user's nickname by user");
 define('_EN_USERS_ACL_EDITUSEREMAIL', "Edit user's email by user");
 define('_EN_USERS_ACL_EDITUSERPASSWORD', "Edit user's password by user");
 define('_EN_USERS_ACL_EDITUSERPERSONAL', "Edit user's personal data by user");
-define('_EN_USERS_ACL_EDITUSERCONTACT', "Edit user's contact data by user");
+define('_EN_USERS_ACL_EDITUSERCONTACTS', "Edit user's contacts data by user");
 define('_EN_USERS_ACL_EDITUSERPREFERENCES', "Edit user's preferences by user");
 define('_EN_USERS_ACL_MANAGEAUTHENTICATIONMETHOD', "Manage authentication method");
 

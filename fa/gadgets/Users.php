@@ -24,7 +24,7 @@ define('_FA_USERS_ACL_EDITUSERNICKNAME', "ویرایش نام نمایشی از 
 define('_FA_USERS_ACL_EDITUSEREMAIL', "ویرایش نشانی ایمیل از سوی کاربر");
 define('_FA_USERS_ACL_EDITUSERPASSWORD', "ویرایش گذرواژه از سوی کاربر");
 define('_FA_USERS_ACL_EDITUSERPERSONAL', "ویرایش شناسه‌های فردی از سوی کاربر");
-define('_FA_USERS_ACL_EDITUSERCONTACT', "ویرایش شناسه‌های تماس از سوی کاربر");
+define('_FA_USERS_ACL_EDITUSERCONTACTS', "ویرایش شناسه‌های تماس از سوی کاربر");
 define('_FA_USERS_ACL_EDITUSERPREFERENCES', "ویرایش تنظیمات از سوی کاربر");
 define('_FA_USERS_ACL_MANAGEAUTHENTICATIONMETHOD', "ویرایش روش تایید اعتبار کاربران");
 define('_FA_USERS_ACTIONS_LOGINBOX', "بلوک لاگین");
