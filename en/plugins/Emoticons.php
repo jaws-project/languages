@@ -13,5 +13,5 @@
 
 //Emoticons translation - en
 define('_EN_PLUGINS_EMOTICONS_DESCRIPTION', "Allows the user to add nice emoticons");
-define('_EN_PLUGINS_EMOTICONS_EXAMPLE', "");
+define('_EN_PLUGINS_EMOTICONS_EXAMPLE', "I\'m in love with Jaws Developers ;-), :-(, :-P, ;-)");
 define('_EN_PLUGINS_EMOTICONS_ADD', "Add an Emoticon");
