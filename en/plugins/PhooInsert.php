@@ -11,7 +11,7 @@
  */
 
 define('_EN_PLUGINS_PHOOINSERT_DESCRIPTION', "Adds image insert capability to editor.");
-define('_EN_PLUGINS_PHOOINSERT_EXAMPLE', "");
+define('_EN_PLUGINS_PHOOINSERT_EXAMPLE', "[phoo album=\"1\" picture=\"1\" title=\"everybody\" class=\"image\" size=\"Medium\" linked=\"Yes\"]");
 define('_EN_PLUGINS_PHOOINSERT_INSERT_IMAGE', "Insert image");
 define('_EN_PLUGINS_PHOOINSERT_PHOTO_GALLERY', "Photo Gallery");
 define('_EN_PLUGINS_PHOOINSERT_PHOTO_SELECT', "Select Photo");
