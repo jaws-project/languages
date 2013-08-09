@@ -240,7 +240,8 @@ define('_EN_USERS_PROPERTIES_CANT_UPDATE', "There was a problem when updating th
 /* Permission message */
 define('_EN_USERS_NO_PERMISSION_TITLE', "No permission");
 define('_EN_USERS_NO_PERMISSION_DESC', "I'm sorry but you don't have permission to execute this action ({0}::{1}).");
-define('_EN_USERS_NO_PERMISSION_ANON_DESC', "The reason is that you are logged as anonymous. A possible fix is to <a href=\"{0}\">login again</a> with a valid username.");
+define('_EN_USERS_NO_PERMISSION_ANON_DESC', "The reason is that you are logged as anonymous. A possible fix is to <a href=\"{0}\">login again</a> with a valid username or going to <a href=\"{1}\">previous page</a>.");
+define('_EN_USERS_NO_PERMISSION_KNOWN_DESC', "A possible options is <a href=\"{0}\">logout</a> or going to <a href=\"{1}\">previous page</a>.");
 
 /* Anon registration */
 define('_EN_USERS_REGISTER', "Create account");
