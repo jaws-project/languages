@@ -11,4 +11,4 @@
  */
 
 define('_EN_PLUGINS_ACCESSLIMITER_DESCRIPTION', "Limit access to content or part of content");
-define('_EN_PLUGINS_ACCESSLIMITER_EXAMPLE', "");
+define('_EN_PLUGINS_ACCESSLIMITER_EXAMPLE', "[limited]your content[/limited]<br />[limited users=\"afz,ion\"]your content[/limited]<br />[limited groups=\"admins\"]your content[/limited]<br />[limited users=\"afz\" groups=\"admins\"]your content[/limited]");
