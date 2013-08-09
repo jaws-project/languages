@@ -11,3 +11,4 @@
  */
 
 define('_EN_PLUGINS_BLOCKIMPORT_DESCRIPTION', "Import content of specified block");
+define('_EN_PLUGINS_BLOCKIMPORT_EXAMPLE', "");

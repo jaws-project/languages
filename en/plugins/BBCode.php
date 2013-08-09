@@ -11,6 +11,7 @@
  */
 
 define('_EN_PLUGINS_BBCODE_DESCRIPTION', "BBCode parser");
+define('_EN_PLUGINS_BBCODE_EXAMPLE', "");
 define('_EN_PLUGINS_BBCODE_SAMPLES', "[b]bold text[/b]<br/>[i]italic text[/i]<br/>[url=http://jaws-project.com]Jaws Project[/url]");
 define('_EN_PLUGINS_BBCODE_BOLD_SAMPLE', "Bold text: [b]text[/b]");
 define('_EN_PLUGINS_BBCODE_ITALIC_SAMPLE', "Italic text: [i]text[/i]");

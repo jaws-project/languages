@@ -11,3 +11,4 @@
  */
 
 define('_EN_PLUGINS_ACTIONIMPORT_DESCRIPTION', "Import result of specified gadget action");
+define('_EN_PLUGINS_ACTIONIMPORT_EXAMPLE', "");

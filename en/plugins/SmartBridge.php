@@ -13,5 +13,6 @@
 
 //SmartTBridge translation - en
 define('_EN_PLUGINS_SMARTBRIDGE_DESCRIPTION', "Links between the Blog, Static Page and Phoo gadgets easily");
+define('_EN_PLUGINS_SMARTBRIDGE_EXAMPLE', "");
 define('_EN_PLUGINS_SMARTBRIDGE_ADD', "Link a fast URL");
 define('_EN_PLUGINS_SMARTBRIDGE_SAMPLE', "Gadget:FastURL");

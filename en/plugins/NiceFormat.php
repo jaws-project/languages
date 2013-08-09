@@ -13,6 +13,7 @@
 
 //NiceFormat translation - en
 define('_EN_PLUGINS_NICEFORMAT_DESCRIPTION', "Easy, fast and valid XHTML code in your text");
+define('_EN_PLUGINS_NICEFORMAT_EXAMPLE', "");
 define('_EN_PLUGINS_NICEFORMAT_TEXT_BOLD', "Bold Text");
 define('_EN_PLUGINS_NICEFORMAT_TEXT_ITALIC', "Italic Text");
 define('_EN_PLUGINS_NICEFORMAT_TEXT_UNDERLINE', "Underline Text");

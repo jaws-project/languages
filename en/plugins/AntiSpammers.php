@@ -13,3 +13,4 @@
 
 //AntiSpammers Translation - en
 define('_EN_PLUGINS_ANTISPAMMERS_DESCRIPTION', "Replace every email address with 'at' and 'dot' strings");
+define('_EN_PLUGINS_ANTISPAMMERS_EXAMPLE', "");

@@ -12,6 +12,7 @@
 
 //SpellNumber translation - fa
 define('_EN_PLUGINS_SPELLNUMBER_DESCRIPTION', "Translating number to string format");
+define('_EN_PLUGINS_SPELLNUMBER_EXAMPLE', "");
 define('_EN_PLUGINS_SPELLNUMBER_ADD', "Add SpellNumber tags");
 
 //Digits

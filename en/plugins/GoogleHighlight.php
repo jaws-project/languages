@@ -11,3 +11,4 @@
  */
 
 define('_EN_PLUGINS_GOOGLEHIGHLIGHT_DESCRIPTION', "Highlight words that Google asks for");
+define('_EN_PLUGINS_GOOGLEHIGHLIGHT_EXAMPLE', "");

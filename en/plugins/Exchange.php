@@ -11,3 +11,4 @@
  */
 
 define('_EN_PLUGINS_EXCHANGE_DESCRIPTION', "Replace a statement with another");
+define('_EN_PLUGINS_EXCHANGE_EXAMPLE', "");

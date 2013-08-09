@@ -11,3 +11,4 @@
  */
 
 define('_EN_PLUGINS_ACCESSLIMITER_DESCRIPTION', "Limit access to content or part of content");
+define('_EN_PLUGINS_ACCESSLIMITER_EXAMPLE', "");
