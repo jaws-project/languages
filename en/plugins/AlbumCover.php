@@ -13,5 +13,5 @@
 
 //AlbumCover translation - en
 define('_EN_PLUGINS_ALBUMCOVER_DESCRIPTION', "Gets an Album Cover from Amazon");
-define('_EN_PLUGINS_ALBUMCOVER_EXAMPLE', "");
+define('_EN_PLUGINS_ALBUMCOVER_EXAMPLE', "[AlbumCover Artist='The Beatles' Album='Abbey Road']");
 define('_EN_PLUGINS_ALBUMCOVER_ADD', "Add an AlbumCover");
