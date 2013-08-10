@@ -19,6 +19,7 @@ define('_EN_UPGRADE_REPORT', "Report");
 define('_EN_UPGRADE_VER_TO_VER', "{0} to {1}");
 define('_EN_UPGRADE_SETTINGS', "Settings");
 define('_EN_UPGRADE_WRITECONFIG', "Save Configuration");
+define('_EN_UPGRADE_CLEANUP', "Cleanup");
 define('_EN_UPGRADE_FINISHED', "Finished");
 
 /* Introduction */
@@ -103,6 +104,11 @@ define('_EN_UPGRADE_CONFIG_SOLUTION_PERMISSION', "Make <strong>{0}</strong> writ
 define('_EN_UPGRADE_CONFIG_SOLUTION_UPLOAD', "Copy and paste the contents of the box below into a file and save it as <strong>{0}</strong>");
 define('_EN_UPGRADE_CONFIG_RESPONSE_WRITE_FAILED', "There was an unknown error writing the configuration file.");
 define('_EN_UPGRADE_CONFIG_RESPONSE_MAKE_CONFIG', "You need to either make the config directory writable, or create {0} by hand.");
+
+/* Cleanup */
+define('_EN_UPGRADE_CLEANUP_INFO', "Jaws gadgets and plugins in 0.9.x is based on different file/directory structure, so you must cleanup outdated files/directories listed below:");
+define('_EN_UPGRADE_CLEANUP_ERROR_PERMISSION', "Error occurred while deleting files/directories");
+define('_EN_UPGRADE_CLEANUP_NOT_REQUIRED', "There is no outdated file or directory");
 
 /* Finished */
 define('_EN_UPGRADE_FINISH_INFO', "You have now finished setting up your website!");
