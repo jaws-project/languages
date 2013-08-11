@@ -9,8 +9,8 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_PLUGINS_NICEFORMAT_DESCRIPTION', "افزودن ساده و سریع تگهای XHTML در متون");
+define('_FA_PLUGINS_NICEFORMAT_EXAMPLE', "** Bold Text ** \n__ Italic Text __\netc...");
 define('_FA_PLUGINS_NICEFORMAT_TEXT_BOLD', "متن ضخیم(Bold)");
 define('_FA_PLUGINS_NICEFORMAT_TEXT_ITALIC', "متن کج(Italic)");
 define('_FA_PLUGINS_NICEFORMAT_TEXT_UNDERLINE', "متن زیر خط‌دار(Underline)");

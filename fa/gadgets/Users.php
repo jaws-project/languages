@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_USERS_NAME', "کاربران");
 define('_FA_USERS_DESCRIPTION', "راهبری کاربران");
 define('_FA_USERS_ACL_DEFAULT', "دسترسی به ابزار راهبری کاربران");
@@ -98,6 +97,7 @@ define('_FA_USERS_USERS_GENDER_2', "زن");
 define('_FA_USERS_USERS_SSN', "شماره ملی");
 define('_FA_USERS_USERS_BIRTHDAY', "زادروز");
 define('_FA_USERS_USERS_BIRTHDAY_SAMPLE', "مانند: 18 - 05 - 1360");
+define('_FA_USERS_USERS_SIGNATURE', "دستینه");
 define('_FA_USERS_USERS_ABOUT', "درباره خود");
 define('_FA_USERS_USERS_EXPERIENCES', "کاردانی و توانمندی");
 define('_FA_USERS_USERS_OCCUPATIONS', "پیشینه کاری");
@@ -143,6 +143,8 @@ define('_FA_USERS_CONTACTS_POSTAL_CODE', "کد پستی");
 define('_FA_USERS_CONTACTS_PHONE_NUMBER', "شماره تلفن ثابت");
 define('_FA_USERS_CONTACTS_MOBILE_NUMBER', "شماره تلفن همراه");
 define('_FA_USERS_CONTACTS_FAX_NUMBER', "شماره نمابر");
+define('_FA_USERS_USERS_AVATAR_UPLOAD', "بارگذاری نماد");
+define('_FA_USERS_USERS_AVATAR_DELETE', "زدودن نماد");
 define('_FA_USERS_ADVANCED_OPTS_EDITOR', "ویرایشگر کاربر");
 define('_FA_USERS_ADVANCED_OPTS_LANGUAGE', "زبان پیش‌فرض");
 define('_FA_USERS_ADVANCED_OPTS_THEME', "قالب پیش‌فرض");

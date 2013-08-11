@@ -2,15 +2,15 @@
 /**
  * Meta Data
  *
- * "Project-Id-Version: BBCode"
+ * "Project-Id-Version: Plugins_BBCode"
  * "Last-Translator: Ali Fazelzadeh <afz@php.net>"
  * "Language-Team: FA"
  * "MIME-Version: 1.0"
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_PLUGINS_BBCODE_DESCRIPTION', "ترجمان نوشته های BBCode");
+define('_FA_PLUGINS_BBCODE_EXAMPLE', "-");
 define('_FA_PLUGINS_BBCODE_SAMPLES', "[b]نوشته توپر[/b]<br/>[i]نوشته کج[/i]<br/>[url=http://jaws-project.com]وب سایت جاوز[/url]");
 define('_FA_PLUGINS_BBCODE_BOLD_SAMPLE', "نوشته توپر: [b]نوشته[/b]");
 define('_FA_PLUGINS_BBCODE_ITALIC_SAMPLE', "نوشته کج: [i]نوشته[/i]");

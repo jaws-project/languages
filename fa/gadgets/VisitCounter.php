@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_VISITCOUNTER_NAME', "شمارنده بازدیدها");
 define('_FA_VISITCOUNTER_DESCRIPTION', "ابزاری ساده برای نگهداری تعاد بازدیدکنندگان از سایت شما");
 define('_FA_VISITCOUNTER_ACL_DEFAULT', "دسترسی به این ابزار");
@@ -34,6 +33,7 @@ define('_FA_VISITCOUNTER_SINCE', "پس از");
 define('_FA_VISITCOUNTER_VISITORS_CLEARED', "مشخصات ثبت شده در ریجیستری مربیط به بازدیدها پاک شد");
 define('_FA_VISITCOUNTER_COUNTER_RESETED', "شمارنده تعداد بازدیدها ریست شد");
 define('_FA_VISITCOUNTER_PROPERTIES_UPDATED', "تغییرات مشخصات ثبت شد");
+define('_FA_VISITCOUNTER_VISITORS', "بازدیدکنندگان");
 define('_FA_VISITCOUNTER_IP', "آدرس IP");
 define('_FA_VISITCOUNTER_DATE', "تاریخ");
 define('_FA_VISITCOUNTER_TYPE', "نوع");

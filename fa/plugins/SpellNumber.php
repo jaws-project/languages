@@ -1,21 +1,17 @@
 <?php
-
 /**
  * Meta Data
  *
- * "Project-Id-Version: SpellNumber"
+ * "Project-Id-Version: Plugins_SpellNumber"
  * "Last-Translator: Ali Fazelzadeh <afz@php.net>"
  * "Language-Team: FA"
  * "MIME-Version: 1.0"
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
-//SpellNumber translation - fa
 define('_FA_PLUGINS_SPELLNUMBER_DESCRIPTION', "تبدیل اعداد به حروف");
+define('_FA_PLUGINS_SPELLNUMBER_EXAMPLE', "[number]1386[/number]");
 define('_FA_PLUGINS_SPELLNUMBER_ADD', "افزودن تگهای SpellNumber");
-
-//Digits
 define('_FA_PLUGINS_SPELLNUMBER_SEPARATOR', " و");
 define('_FA_PLUGINS_SPELLNUMBER_0', "صفر");
 define('_FA_PLUGINS_SPELLNUMBER_1', "یک");
@@ -60,4 +56,3 @@ define('_FA_PLUGINS_SPELLNUMBER_1000000000', "میلیارد");
 define('_FA_PLUGINS_SPELLNUMBER_1000000000000', "تریلیون");
 define('_FA_PLUGINS_SPELLNUMBER_1000000000000000', "هزار تریلیون");
 define('_FA_PLUGINS_SPELLNUMBER_1000000000000000000', "میلیون تریلیون");
-
