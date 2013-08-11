@@ -11,4 +11,4 @@
  */
 
 define('_EN_PLUGINS_EXCHANGE_DESCRIPTION', "Replace a statement with another");
-define('_EN_PLUGINS_EXCHANGE_EXAMPLE', "replace 1357 with ۱۳۵۷ in persian(farsi) language");
+define('_EN_PLUGINS_EXCHANGE_EXAMPLE', "replace 1357 with ۱۳۵۷ in persian language");
