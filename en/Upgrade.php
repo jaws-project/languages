@@ -91,6 +91,7 @@ define('_EN_UPGRADE_REPORT_NEED', "Requires upgrade");
 define('_EN_UPGRADE_REPORT_NO_NEED', "Does not requires upgrade");
 define('_EN_UPGRADE_REPORT_NO_NEED_CURRENT', "Does not requires upgrade(is current)");
 define('_EN_UPGRADE_REPORT_MESSAGE', "If the upgrade found that your installed Jaws version is old it will upgrade it, if not, it will end.");
+define('_EN_UPGRADE_REPORT_NOT_SUPPORTED', "This upgrader can't upgrade versions lower than 0.8.18");
 
 /* Version */
 define('_EN_UPGRADE_VER_INFO', "Upgrading from {0} to {1} will");
