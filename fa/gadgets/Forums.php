@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_FORUMS_NAME', "انجمن");
 define('_FA_FORUMS_DESCRIPTION', "ابزاری برای گفتمان کاربران در بخش‌های گوناگون");
 define('_FA_FORUMS_ACTIONS_RECENTTOPICS', "تازه‌ترین نوشته‌های انجمن");
@@ -19,6 +18,7 @@ define('_FA_FORUMS_ACL_EDITFORUM', "ویرایش انجمن");
 define('_FA_FORUMS_ACL_LOCKFORUM', "بستن انجمن");
 define('_FA_FORUMS_ACL_DELETEFORUM', "زدودن انجمن");
 define('_FA_FORUMS_ACL_ADDTOPIC', "افزودن جستار");
+define('_FA_FORUMS_ACL_PUBLISHTOPIC', "پخش جستار");
 define('_FA_FORUMS_ACL_EDITTOPIC', "ویرایش جستار");
 define('_FA_FORUMS_ACL_MOVETOPIC', "جابجایی جستار");
 define('_FA_FORUMS_ACL_EDITOTHERSTOPIC', "ویرایش جستار دیگران");
@@ -29,6 +29,7 @@ define('_FA_FORUMS_ACL_DELETETOPIC', "زدودن جستار");
 define('_FA_FORUMS_ACL_DELETEOTHERSTOPIC', "زدودن جستار دیگران");
 define('_FA_FORUMS_ACL_DELETEOUTDATEDTOPIC', "زدودن جستار دیرین");
 define('_FA_FORUMS_ACL_ADDPOST', "افزودن نوشته");
+define('_FA_FORUMS_ACL_PUBLISHPOST', "پخش نوشته");
 define('_FA_FORUMS_ACL_ADDPOSTATTACHMENT', "افزودن فایل پیوست به نوشته");
 define('_FA_FORUMS_ACL_ADDPOSTTOLOCKEDTOPIC', "افزودن نوشته به جستار بسته شده");
 define('_FA_FORUMS_ACL_EDITPOST', "ویرایش نوشته");
