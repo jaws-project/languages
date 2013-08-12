@@ -16,7 +16,7 @@ define('_EN_UPGRADE_AUTHENTICATION', "Authentication");
 define('_EN_UPGRADE_REQUIREMENTS', "Requirements");
 define('_EN_UPGRADE_DATABASE', "Database");
 define('_EN_UPGRADE_REPORT', "Report");
-define('_EN_UPGRADE_VER_TO_VER', "{0} to {1}");
+define('_EN_UPGRADE_VER_TO_VER', "{0} to {1}{2}");
 define('_EN_UPGRADE_SETTINGS', "Settings");
 define('_EN_UPGRADE_WRITECONFIG', "Save Configuration");
 define('_EN_UPGRADE_CLEANUP', "Cleanup");
@@ -92,6 +92,9 @@ define('_EN_UPGRADE_REPORT_NO_NEED', "Does not requires upgrade");
 define('_EN_UPGRADE_REPORT_NO_NEED_CURRENT', "Does not requires upgrade(is current)");
 define('_EN_UPGRADE_REPORT_MESSAGE', "If the upgrade found that your installed Jaws version is old it will upgrade it, if not, it will end.");
 define('_EN_UPGRADE_REPORT_NOT_SUPPORTED', "This upgrader can't upgrade versions lower than 0.8.18");
+define('_EN_UPGRADE_VER_TO_VER_STEP1', " - First Step");
+define('_EN_UPGRADE_VER_TO_VER_STEP2', " - Second Step");
+define('_EN_UPGRADE_VER_TO_VER_STEP3', " - Thired Step");
 
 /* Version */
 define('_EN_UPGRADE_VER_INFO', "Upgrading from {0} to {1} will");
