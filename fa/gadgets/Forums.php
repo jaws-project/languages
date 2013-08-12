@@ -99,6 +99,8 @@ define('_FA_FORUMS_TOPICS_LOCK_NOTIFICATION_MESSAGE', "جستار زیر بدس�
 define('_FA_FORUMS_TOPICS_UNLOCK', "بازکردن جستار");
 define('_FA_FORUMS_TOPICS_UNLOCK_NOTIFICATION_SUBJECT', "باز شدن جستار در تالار گفتمان - {0}");
 define('_FA_FORUMS_TOPICS_UNLOCK_NOTIFICATION_MESSAGE', "جستار زیر بدست {0} در تالار گفتمان باز شد.");
+define('_FA_FORUMS_TOPICS_DRAFT', "پیش نویس کردن جستار");
+define('_FA_FORUMS_TOPICS_PUBLISH', "پخش کردن جستار");
 define('_FA_FORUMS_TOPICS_COUNT', "({0}) جستار");
 define('_FA_FORUMS_POSTS_NEW', "نوشته تازه");
 define('_FA_FORUMS_POSTS_NEW_TITLE', "نوشته تازه");

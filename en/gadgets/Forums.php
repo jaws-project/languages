@@ -110,6 +110,8 @@ define('_EN_FORUMS_TOPICS_LOCK_NOTIFICATION_MESSAGE', "The following topic was l
 define('_EN_FORUMS_TOPICS_UNLOCK', "Unlock Topic");
 define('_EN_FORUMS_TOPICS_UNLOCK_NOTIFICATION_SUBJECT', "Forums topic unlocked - {0}");
 define('_EN_FORUMS_TOPICS_UNLOCK_NOTIFICATION_MESSAGE', "The following topic was unlocked in the forum by {0}.");
+define('_EN_FORUMS_TOPICS_DRAFT', "Draft topic");
+define('_EN_FORUMS_TOPICS_PUBLISH', "Publish topic");
 define('_EN_FORUMS_TOPICS_COUNT', "{0} topics");
 
 /* Posts */
