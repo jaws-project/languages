@@ -20,8 +20,9 @@ define('_EN_BANNER_ACL_MANAGEGROUPS', "Group management");
 define('_EN_BANNER_ACL_BANNERSGROUPING', "Banner grouping");
 define('_EN_BANNER_ACL_VIEWREPORTS', "View reports");
 
-/* Layout Strings */
+/* Actions */
 define('_EN_BANNER_ACTIONS_DISPLAY', "Banners");
+define('_EN_BANNER_ACTIONS_DISPLAY_TITLE', "Banners - {0}");
 define('_EN_BANNER_ACTIONS_DISPLAY_DESC', "Display Banners");
 
 /* Banners Management */

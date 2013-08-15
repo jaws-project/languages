@@ -18,6 +18,7 @@ define('_FA_BANNER_ACL_MANAGEGROUPS', "دسته بندی‌های بنرها");
 define('_FA_BANNER_ACL_BANNERSGROUPING', "دسته بندی بنرها");
 define('_FA_BANNER_ACL_VIEWREPORTS', "دیدن گزارشات");
 define('_FA_BANNER_ACTIONS_DISPLAY', "بنرها");
+define('_FA_BANNER_ACTIONS_DISPLAY_TITLE', "آگهی‌ها - {0}");
 define('_FA_BANNER_ACTIONS_DISPLAY_DESC', "نمایش بنرها");
 define('_FA_BANNER_BANNERS_BANNERS', "بنرها");
 define('_FA_BANNER_BANNERS_BANNERID', "کد بنر");
