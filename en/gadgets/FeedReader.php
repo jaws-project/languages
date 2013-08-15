@@ -33,6 +33,9 @@ define('_EN_FEEDREADER_ACTION_TITLE', "News on other sites");
 define('_EN_FEEDREADER_ACTIONS_DISPLAY', "Show title news of RSS sites");
 define('_EN_FEEDREADER_ACTIONS_DISPLAY_DESC', "Show the title news and links of configured feed URLs");
 
+/* Strings */
+define('_EN_FEEDREADER_FEED', "Feed");
+
 /* Responses */
 define('_EN_FEEDREADER_SITE_UPDATED', "The site has been updated");
 define('_EN_FEEDREADER_SITE_ADDED', "The site has been added");

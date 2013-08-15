@@ -30,6 +30,7 @@ define('_FA_FEEDREADER_CONFIRM_DELETE_FEED', "آیا می‌خواهید این 
 define('_FA_FEEDREADER_ACTION_TITLE', "اخبار سایتهای دیگر");
 define('_FA_FEEDREADER_ACTIONS_DISPLAY', "نمایش عناوین خبرها از سایر سایت‌ها");
 define('_FA_FEEDREADER_ACTIONS_DISPLAY_DESC', "نمایش عنوان و لینک خبرها از آدرس‌های تعیین شده");
+define('_FA_FEEDREADER_FEED', "خوراک");
 define('_FA_FEEDREADER_SITE_UPDATED', "مشخصات سایت دلخواه شما ثبت شد");
 define('_FA_FEEDREADER_SITE_ADDED', "سایت دلخواه شما اضافه شد");
 define('_FA_FEEDREADER_SITE_DELETED', "سایت دلخواه شما حذف شد");
