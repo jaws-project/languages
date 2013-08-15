@@ -51,6 +51,7 @@ define('_FA_BLOG_ACTIONS_POPULARPOSTS', "نوشته‌های پربازدید");
 define('_FA_BLOG_ACTIONS_POPULARPOSTS_DESC', "نمایش لیست نوشته‌های پربازدید");
 define('_FA_BLOG_ACTIONS_POSTSAUTHORS', "نویسندگان نوشته‌ها");
 define('_FA_BLOG_ACTIONS_POSTSAUTHORS_DESC', "نمایش لیست نویسندگان نوشته‌ها");
+define('_FA_BLOG_LAYOUT_CALENDAR', "تقویم بلاگ");
 define('_FA_BLOG_ENTRY', "مطلب");
 define('_FA_BLOG_RECENT_COMMENTS', "نظرات اخیر در بلاگ");
 define('_FA_BLOG_COMMENTS_ON_POST', "پیام‌های این مطلب");

@@ -58,6 +58,9 @@ define('_EN_BLOG_ACTIONS_POPULARPOSTS_DESC', "Show list of popular posts");
 define('_EN_BLOG_ACTIONS_POSTSAUTHORS', "Posts Authors");
 define('_EN_BLOG_ACTIONS_POSTSAUTHORS_DESC', "Show list of posts authors");
 
+/* Layout */
+define('_EN_BLOG_LAYOUT_CALENDAR', "Blog Calendar");
+
 /* Strings */
 define('_EN_BLOG_ENTRY', "Entry");
 define('_EN_BLOG_RECENT_COMMENTS', "Recent Comments On Blog");
