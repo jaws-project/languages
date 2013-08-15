@@ -178,7 +178,7 @@ define('_FA_GLOBAL_ERROR_FILE_DOES_NOT_EXIST', "فایل {0} وجود ندارد
 define('_FA_GLOBAL_ERROR_FUNCTION_DOES_NOT_EXIST', "تابع {0} وجود ندارد");
 define('_FA_GLOBAL_ERROR_GADGET_DOES_NOT_EXIST', "ابزار {0} پیدا نشد.");
 define('_FA_GLOBAL_ERROR_PLUGIN_DOES_NOT_EXIST', "افزونه {0} پیدا نشد.");
-define('_FA_GLOBAL_ERROR_CLASS_DOES_NOT_EXIST', "کلاس {0} تعریف نشده، یا اشتباه نوشده شده و یا اینکه فایل حاوی کلاس بارگذاری نشده است");
+define('_FA_GLOBAL_ERROR_CLASS_DOES_NOT_EXIST', "کلاس {0} تعریف نشده، نادرست نوشته شده یا اینکه فایل حاوی کلاس بارگذاری نشده است");
 define('_FA_GLOBAL_ERROR_FAILED_CREATING_INSTANCE', "ساخت یک نمونه از کلاس {0} موجود در {1} با مشکل مواجه شد.");
 define('_FA_GLOBAL_ERROR_GADGET_NOT_AVAILABLE', "ابزار {0} در دسترس نمی باشد.");
 define('_FA_GLOBAL_ERROR_PLUGIN_NOT_AVAILABLE', "افزونه {0} در دسترس نمی باشد.");
