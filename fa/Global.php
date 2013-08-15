@@ -86,7 +86,7 @@ define('_FA_GLOBAL_SPAMCHECK_EMPTY', "چک کردن اسپم");
 define('_FA_GLOBAL_THANKS', "با سپاس");
 define('_FA_GLOBAL_NOGADGET', "بدون ابزار");
 define('_FA_GLOBAL_LOGIN', "ورود");
-define('_FA_GLOBAL_LOGOUT', "خروج");
+define('_FA_GLOBAL_LOGOUT', "برون‌رفت");
 define('_FA_GLOBAL_USERNAME', "نام کاربری");
 define('_FA_GLOBAL_PASSWORD', "گذرواژه");
 define('_FA_GLOBAL_AUTHTYPE', "گونه شناسایی");
