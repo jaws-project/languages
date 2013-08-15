@@ -13,6 +13,7 @@ define('_FA_FORUMS_NAME', "انجمن");
 define('_FA_FORUMS_DESCRIPTION', "ابزاری برای گفتمان کاربران در بخش‌های گوناگون");
 define('_FA_FORUMS_ACTIONS_RECENTTOPICS', "تازه‌ترین نوشته‌های انجمن");
 define('_FA_FORUMS_ACTIONS_RECENTTOPICS_DESC', "نمایش تازه‌ترین نوشته‌های دسته‌بندی گزینش شده");
+define('_FA_FORUMS_LAYOUT_RECENT_POSTS', "تازه‌ترین نوشته‌ها");
 define('_FA_FORUMS_ACL_ADDFORUM', "افزودن انجمن");
 define('_FA_FORUMS_ACL_EDITFORUM', "ویرایش انجمن");
 define('_FA_FORUMS_ACL_LOCKFORUM', "بستن انجمن");
