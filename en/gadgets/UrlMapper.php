@@ -4,9 +4,10 @@ define('_EN_URLMAPPER_NAME', "URL Manager");
 define('_EN_URLMAPPER_DESCRIPTION', "Manage how you want your URL to be accesed or printed");
 
 /** ACL **/
-define('_EN_URLMAPPER_ACL_MANAGEURLMAPPER', "Manage the URL Mapper");
-define('_EN_URLMAPPER_ACL_EDITMAPS', "Edit url maps");
-define('_EN_URLMAPPER_ACL_MANAGEERRORMAPS', "Manage url error maps");
+define('_EN_URLMAPPER_ACL_MANAGEMAPS', "Manage url maps");
+define('_EN_URLMAPPER_ACL_MANAGEALIASES', "Manage aliases");
+define('_EN_URLMAPPER_ACL_MANAGEERRORMAPS', "Manage HTTP errors");
+define('_EN_URLMAPPER_ACL_MANAGEPROPERTIES', "Manage Properties");
 
 /** Common strings **/
 define('_EN_URLMAPPER_SELECT_A_GADGET', "Select a gadget");

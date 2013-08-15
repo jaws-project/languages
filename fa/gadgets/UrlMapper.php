@@ -9,12 +9,12 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_URLMAPPER_NAME', "نگاشت");
 define('_FA_URLMAPPER_DESCRIPTION', "ابزاری برای اینکه نگاشت بین URLهای مختلف جهت کوتاه کردن و زیباسازی URLها");
-define('_FA_URLMAPPER_ACL_MANAGEURLMAPPER', "مدیریت نگاشت بین URLها");
-define('_FA_URLMAPPER_ACL_EDITMAPS', "ویرایش نگاشت‌ها");
-define('_FA_URLMAPPER_ACL_MANAGEERRORMAPS', "مدیریت نگاشت خطاهای URL");
+define('_FA_URLMAPPER_ACL_MANAGEMAPS', "راهبری نگاشت URL ");
+define('_FA_URLMAPPER_ACL_MANAGEALIASES', "راهبری نام‌های جایگزین");
+define('_FA_URLMAPPER_ACL_MANAGEERRORMAPS', "راهبری نگاشت خطاهای HTTP");
+define('_FA_URLMAPPER_ACL_MANAGEPROPERTIES', "راهبری پیکربندی");
 define('_FA_URLMAPPER_SELECT_A_GADGET', "انتخاب ابزار");
 define('_FA_URLMAPPER_MAP_NAME', "نگاشت");
 define('_FA_URLMAPPER_ADD_MAP', "افزودن نگاشت");
