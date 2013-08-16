@@ -82,9 +82,11 @@ define('_EN_USERS_GROUPS_CANT_DELETE', "There was a problem deleting group {0}."
 
 /* User Management */
 define('_EN_USERS_USERS', "Users");
+define('_EN_USERS_PROFILE_INFO', "Profile Information");
 define('_EN_USERS_ACCOUNT_INFO', "Account Information");
 define('_EN_USERS_PERSONAL_INFO', "Personal Information");
-define('_EN_USERS_PROFILE_INFO', "Profile Information");
+define('_EN_USERS_PREFERENCES_INFO', "Account Preferences");
+define('_EN_USERS_CONTACTS_INFO', "Contacts Information");
 define('_EN_USERS_USERS_ADD', "Add User");
 define('_EN_USERS_ACCOUNT_EDIT', "Edit User");
 define('_EN_USERS_ACCOUNT_DELETE', "Delete User");
@@ -133,8 +135,7 @@ define('_EN_USERS_USERS_CONFIRM_NO_CHANGES', "Are you sure you don't want to sav
 define('_EN_USERS_USERS_SELECT_A_USER', "Select an user from the left.");
 define('_EN_USERS_USER_NOT_EXIST', "The requested user does not exist.");
 define('_EN_USERS_USERS_EDIT', "Edit User");
-define('_EN_USERS_USERS_ACCOUNT_INFO', "Account Information");
-define('_EN_USERS_USERS_ACCOUNT_PREF', "Account Preferences");
+define('_EN_USERS_USERS_ACCOUNT', "Account Information");
 define('_EN_USERS_USERS_ACCOUNT_UPDATE', "Update Account");
 define('_EN_USERS_USER_CONFIRM_DELETE', "Delete this user and all information this user has submitted?");
 define('_EN_USERS_USER_MEMBER_OF_GROUPS', "{0} is a member of the groups below");
