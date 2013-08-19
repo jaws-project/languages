@@ -21,9 +21,9 @@ define('_EN_BANNER_ACL_BANNERSGROUPING', "Banner grouping");
 define('_EN_BANNER_ACL_VIEWREPORTS', "View reports");
 
 /* Actions */
-define('_EN_BANNER_ACTIONS_DISPLAY', "Banners");
-define('_EN_BANNER_ACTIONS_DISPLAY_TITLE', "Banners - {0}");
-define('_EN_BANNER_ACTIONS_DISPLAY_DESC', "Display Banners");
+define('_EN_BANNER_ACTIONS_BANNERS', "Banners");
+define('_EN_BANNER_ACTIONS_BANNERS_TITLE', "Banners - {0}");
+define('_EN_BANNER_ACTIONS_BANNERS_DESC', "Display Banners");
 
 /* Banners Management */
 define('_EN_BANNER_BANNERS_BANNERS', "Banners");
