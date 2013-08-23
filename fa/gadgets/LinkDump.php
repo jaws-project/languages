@@ -12,10 +12,10 @@
 
 define('_FA_LINKDUMP_NAME', "پیوندها");
 define('_FA_LINKDUMP_DESCRIPTION', "ابزاری ساده برای لینک دادن به صفحات وب");
-define('_FA_LINKDUMP_ACTIONS_DISPLAY', "نمایش لینک ها");
-define('_FA_LINKDUMP_ACTIONS_DISPLAY_DESC', "نمایش لینکها با محدودیت تعداد");
-define('_FA_LINKDUMP_ACTIONS_SHOWCATEGORIES', "لیست دسته بندیها");
-define('_FA_LINKDUMP_ACTIONS_SHOWCATEGORIES_DESC', "نمایش لیست دسته بندیها");
+define('_FA_LINKDUMP_ACTIONS_CATEGORY', "نمایش لینک ها");
+define('_FA_LINKDUMP_ACTIONS_CATEGORY_DESC', "نمایش لینکها با محدودیت تعداد");
+define('_FA_LINKDUMP_ACTIONS_CATEGORIES', "لیست دسته بندیها");
+define('_FA_LINKDUMP_ACTIONS_CATEGORIES_DESC', "نمایش لیست دسته بندیها");
 define('_FA_LINKDUMP_ACTIONS_SHOWTAGCLOUD', "لیست برچسبها");
 define('_FA_LINKDUMP_ACTIONS_SHOWTAGCLOUD_DESC', "تهیه لیسی از برچسبهای لینکها");
 define('_FA_LINKDUMP_ACL_DEFAULT', "مدیریت پیوندها");
