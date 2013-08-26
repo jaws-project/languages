@@ -23,11 +23,11 @@ define('_EN_EMBLEMS_ACTION_DEFAULT', "Default Action");
 define('_EN_EMBLEMS_ADD_EMBLEM', "Add a new emblem");
 define('_EN_EMBLEMS_RESULT', "Result");
 define('_EN_EMBLEMS_TYPE', "Type");
-define('_EN_EMBLEMS_TYPE_1', "Powered By ");
-define('_EN_EMBLEMS_TYPE_2', "Supports ");
-define('_EN_EMBLEMS_TYPE_3', "Is Valid ");
-define('_EN_EMBLEMS_TYPE_4', "Licensed Under ");
-define('_EN_EMBLEMS_TYPE_5', "Best Viewed With ");
+define('_EN_EMBLEMS_TYPE_1', "Powered By {0}");
+define('_EN_EMBLEMS_TYPE_2', "Supports {0}");
+define('_EN_EMBLEMS_TYPE_3', "Is Valid {0}");
+define('_EN_EMBLEMS_TYPE_4', "Licensed Under {0}");
+define('_EN_EMBLEMS_TYPE_5', "Best Viewed With {0}");
 
 //Messages
 define('_EN_EMBLEMS_ADDED', "The emblem was added to the database");
