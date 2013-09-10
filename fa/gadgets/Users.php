@@ -27,16 +27,22 @@ define('_FA_USERS_ACL_EDITUSERCONTACTS', "ویرایش شناسه‌های تم�
 define('_FA_USERS_ACL_EDITUSERPREFERENCES', "ویرایش تنظیمات از سوی کاربر");
 define('_FA_USERS_ACL_MANAGEAUTHENTICATIONMETHOD', "ویرایش روش تایید اعتبار کاربران");
 define('_FA_USERS_ACTIONS_LOGINBOX', "بلوک لاگین");
+define('_FA_USERS_ACTIONS_LOGINBOX_TITLE', "بلوک لاگین");
 define('_FA_USERS_ACTIONS_LOGINBOX_DESC', "نمایش بلوک لاگین");
 define('_FA_USERS_ACTIONS_LOGINLINKS', "پیوندهای کاربری");
+define('_FA_USERS_ACTIONS_LOGINLINKS_TITLE', "پیوندهای کاربری");
 define('_FA_USERS_ACTIONS_LOGINLINKS_DESC', "نمایش پیوندهای کاربری");
 define('_FA_USERS_ACTIONS_ONLINEUSERS', "کاربران برخط");
+define('_FA_USERS_ACTIONS_ONLINEUSERS_TITLE', "کاربران برخط");
 define('_FA_USERS_ACTIONS_ONLINEUSERS_DESC', "نمایش فهرست کاربران برخط");
 define('_FA_USERS_ACTIONS_ONLINESTATISTICS', "آمار کاربران برخط");
+define('_FA_USERS_ACTIONS_ONLINESTATISTICS_TITLE', "آمار کاربران برخط");
 define('_FA_USERS_ACTIONS_ONLINESTATISTICS_DESC', "نمایش آمار کاربران هموند و مهمان");
 define('_FA_USERS_ACTIONS_LATESTREGISTERED', "کاربران تازه");
+define('_FA_USERS_ACTIONS_LATESTREGISTERED_TITLE', "کاربران تازه");
 define('_FA_USERS_ACTIONS_LATESTREGISTERED_DESC', "نمایش فهرست کاربران تازه عضو شده");
 define('_FA_USERS_ACTIONS_ABOUTUSER', "درباره خود");
+define('_FA_USERS_ACTIONS_ABOUTUSER_TITLE', "درباره خود");
 define('_FA_USERS_ACTIONS_ABOUTUSER_DESC', "نمایش برخی داده ها درباره یک کاربر");
 define('_FA_USERS_GROUPS_GROUPNAME', "نام گروه");
 define('_FA_USERS_GROUPS_GROUPID', "شناسه گروه");

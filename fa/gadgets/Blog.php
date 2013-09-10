@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_BLOG_NAME', "بلاگ");
 define('_FA_BLOG_DESCRIPTION', "یک سیستم بلاگ چند کاربره، با توانایی پشتیبانی از trackback و pingback و دریافت نظرات و خروجی XML ");
 define('_FA_BLOG_ACL_DEFAULT', "مدیریت بلاگ");
@@ -35,10 +34,8 @@ define('_FA_BLOG_ACTIONS_RECENTCOMMENTS', "نظرات اخیر");
 define('_FA_BLOG_ACTIONS_RECENTCOMMENTSS_DESC', "نمایش خلاصه‌ای از نظرات اخیر");
 define('_FA_BLOG_ACTIONS_CALENDAR', "تقویم بلاگ");
 define('_FA_BLOG_ACTIONS_CALENDAR_DESC', "نمایش تقویم این ماه بهمراه مطالب مشخص شده بلاگ");
-define('_FA_BLOG_ACTIONS_RSSLINK', "دکمه RSS");
-define('_FA_BLOG_ACTIONS_RSSLINK_DESC', "نمایش لینک RSS");
-define('_FA_BLOG_ACTIONS_ATOMLINK', "دکمه Atom");
-define('_FA_BLOG_ACTIONS_ATOMLINK_DESC', "نمایش لینک Atom");
+define('_FA_BLOG_ACTIONS_FEEDSLINK', "دکمه خوراک");
+define('_FA_BLOG_ACTIONS_FEEDSLINK_DESC', "نمایش پیوند به خوراک");
 define('_FA_BLOG_ACTIONS_RECENTCOMMENTSRSSLINK', "دکمه RSS نظرات");
 define('_FA_BLOG_ACTIONS_RECENTCOMMENTSRSSLINK_DESC', "نمایش لینک RSS نظرات");
 define('_FA_BLOG_ACTIONS_RECENTCOMMENTSATOMLINK', "دکمه Atom نظرات");
@@ -144,6 +141,9 @@ define('_FA_BLOG_ENTRY_VISITS', "تعداد بازديد: {0}");
 define('_FA_BLOG_POPULAR_POSTS', "مطالب پربازدید");
 define('_FA_BLOG_POSTS_AUTHORS', "نویسندگان مطالب");
 define('_FA_BLOG_CATEGORY_INCOMPLETE_FIELDS', "برخی از فیلدها به درستی کامل نشده‌اند");
+define('_FA_BLOG_FEEDS_TYPE', "گونه خوراک");
+define('_FA_BLOG_FEEDS_RSS', "RSS");
+define('_FA_BLOG_FEEDS_ATOM', "Atom");
 define('_FA_BLOG_CATEGORY_ADDED', "یک دسته‌بندی اضافه شد");
 define('_FA_BLOG_CATEGORY_UPDATED', "دسته‌بندی دلخواه شما بروز شد");
 define('_FA_BLOG_CATEGORY_DELETED', "دسته‌بندی دلخواه شما حذف شد");

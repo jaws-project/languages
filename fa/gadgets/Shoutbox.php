@@ -9,14 +9,13 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_SHOUTBOX_NAME', "گفتگو");
 define('_FA_SHOUTBOX_DESCRIPTION', "ابزاری برای گفتگوی همزمان کاربران تحت وب");
 define('_FA_SHOUTBOX_ACL_DEFAULT', "مدیریت گفتگو");
 define('_FA_SHOUTBOX_ACL_MANAGECOMMENTS', "مدیریت پیام‌ها");
 define('_FA_SHOUTBOX_ACL_UPDATEPROPERTIES', "ویرایش پیام‌ها");
-define('_FA_SHOUTBOX_ACTIONS_DISPLAY', "نمایش گفتگو");
-define('_FA_SHOUTBOX_ACTIONS_DISPLAY_DESC', "نمایش های یک گفتگو");
+define('_FA_SHOUTBOX_ACTIONS_COMMENTS', "نمایش بخش گفتگو");
+define('_FA_SHOUTBOX_ACTIONS_COMMENTS_DESC', "نمایش بخش گفتگو");
 define('_FA_SHOUTBOX_SHOUTBOX', "گفتگو");
 define('_FA_SHOUTBOX_MESSAGE', "پیام");
 define('_FA_SHOUTBOX_SEND', "ارسال پیام");

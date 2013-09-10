@@ -10,7 +10,7 @@
  * "Content-Transfer-Encoding: 8bit"
  */
 
-define('_FA_PHOO_NAME', "گالری تصاویر");
+define('_FA_PHOO_NAME', "نگارخانه");
 define('_FA_PHOO_DESCRIPTION', "ابزاری توانمند برای ساخت یک گالری زیبا");
 define('_FA_PHOO_DEFAULT_VIEW', "نمایش پیش فرض");
 define('_FA_PHOO_ALBUM_LIST', "لیست آلبوم‌ها");
@@ -22,22 +22,22 @@ define('_FA_PHOO_ACTIONS_MOBLOG_DESC', "نمایش آلبوم موبلاگ");
 define('_FA_PHOO_ACTIONS_ALBUMLIST', "آلبوم‌ها");
 define('_FA_PHOO_ACTIONS_ALBUMLIST_DESC', "نمایش لیست همه آلبوم‌ها");
 define('_FA_PHOO_ACTIONS_RECENTCOMMENTS', "نظرات اخیر بر تصاویر");
-define('_FA_PHOO_ACTIONS_RECENTCOMMENTS_DESC', "نمایش خلاصه اطلاعات از نظرات اخیر");
+define('_FA_PHOO_ACTIONS_RECENTCOMMENTS_DESC', "نمایش چکیده اطلاعات از نظرات اخیر");
 define('_FA_PHOO_UNKNOW_ALBUM', "هیچ آلبومی یافت نشد");
 define('_FA_PHOO_WITHOUT_ALBUM', "تصاویر بدون آلبوم");
 define('_FA_PHOO_WITHOUT_ALBUM_DESCRIPTION', "تصاویری که متعلق به هیچ آلبومی نیستند");
 define('_FA_PHOO_ALBUMS', "آلبوم‌ها");
-define('_FA_PHOO_NEW_ALBUM', "آلبوم جدید");
+define('_FA_PHOO_NEW_ALBUM', "آلبوم تازه");
 define('_FA_PHOO_EDIT_ALBUM', "ویرایش آلبوم");
 define('_FA_PHOO_ALBUM_CREATION_DATE', "تاریخ ایجاد {0}");
 define('_FA_PHOO_EDIT_PHOTO', "ویرایش تصویر");
-define('_FA_PHOO_FIRST', "اولین");
-define('_FA_PHOO_PREVIOUS', "قبلی");
-define('_FA_PHOO_NEXT', "بعدی");
-define('_FA_PHOO_LAST', "آخرین");
+define('_FA_PHOO_FIRST', "آغاز");
+define('_FA_PHOO_PREVIOUS', "پیشین");
+define('_FA_PHOO_NEXT', "پسین");
+define('_FA_PHOO_LAST', "پایان");
 define('_FA_PHOO_THUMBS', "تصاویر کوچک شده");
-define('_FA_PHOO_WIDTH', "عرض");
-define('_FA_PHOO_HEIGHT', "ارتفاع");
+define('_FA_PHOO_WIDTH', "پهنا");
+define('_FA_PHOO_HEIGHT', "بلندی");
 define('_FA_PHOO_SIZE', "اندازه");
 define('_FA_PHOO_APERTURE', "اندازه دیاگرام");
 define('_FA_PHOO_EXPOSURE_TIME', "زمان پرتوگیرى");
@@ -48,22 +48,22 @@ define('_FA_PHOO_PHOTOS', "تصاویر");
 define('_FA_PHOO_PHOTO', "تصویر {0}");
 define('_FA_PHOO_PHOTO_COUNTER', "تصویر {0} از {1}");
 define('_FA_PHOO_PHOTOS_COUNT', "{0} تصویر");
-define('_FA_PHOO_COMMENTS', "نظرات");
+define('_FA_PHOO_COMMENTS', "دیدگاهها");
 define('_FA_PHOO_ADDITIONAL_SETTINGS', "تنظیمات اضافی");
 define('_FA_PHOO_IMPORT', "وارد کردن");
 define('_FA_PHOO_NUM_PHOTOS_ALBUM', "{0} تصویر در آلبوم");
 define('_FA_PHOO_UPLOAD_PHOTOS', "آپلود کردن تصاویر");
 define('_FA_PHOO_UPLOAD_PHOTO', "آپلود کردن تصویر");
 define('_FA_PHOO_EDIT_DESCRIPTION', "ویرایش شرح");
-define('_FA_PHOO_DELETE_ALBUM_CONFIRM', "آیا می‌خواهید این این آلبوم حذف شود؟");
+define('_FA_PHOO_DELETE_ALBUM_CONFIRM', "آیا می‌خواهید این این آلبوم پاک شود؟");
 define('_FA_PHOO_NOT_FOUND', "پیدا نشده");
 define('_FA_PHOO_NOT_PUBLISHED', "منتشر نشده");
-define('_FA_PHOO_START_UPLOADING_PHOTOS', "شروع ارسال تصاویر");
-define('_FA_PHOO_INEXISTENT_ALBUM', "آلبوم درخواستی موجود نمی باشد");
+define('_FA_PHOO_START_UPLOADING_PHOTOS', "افزودن تصاویر");
+define('_FA_PHOO_INEXISTENT_ALBUM', "آلبوم درخواستی پیدا نشد");
 define('_FA_PHOO_EMPTY_ALBUMSET', "هیچ آلبومی وجود ندارد");
 define('_FA_PHOO_PHOTO_TITLE', "عنوان تصویر");
 define('_FA_PHOO_PHOTO_DESCRIPTION', "شرح تصویر");
-define('_FA_PHOO_POSTED_BY', "ارسال شده توسط");
+define('_FA_PHOO_POSTED_BY', "فرستاده شده بدست");
 define('_FA_PHOO_ALBUM', "آلبوم");
 define('_FA_PHOO_ALLOW_COMMENTS', "اجازه درج نظر");
 define('_FA_PHOO_STATUS', "وضعیت");
@@ -122,7 +122,7 @@ define('_FA_PHOO_ORDER_TYPE_BY_NAME', "براساس نام");
 define('_FA_PHOO_ORDER_TYPE_BY_ID', "براساس شناسه");
 define('_FA_PHOO_ADD_ANOTHER_PHOTO', "اضافه نمودن یک تصویر دیگر");
 define('_FA_PHOO_COMMENT_MAIL_VISIT_URL', "<a href=\"{0}\">{1}</a>");
-define('_FA_PHOO_ALBUM_EMPTY', "آلبوم خالی");
+define('_FA_PHOO_ALBUM_EMPTY', "آلبوم تهی");
 define('_FA_PHOO_CSS_CLASS', "کلاس CSS");
 define('_FA_PHOO_THUMB', "کوچک شده");
 define('_FA_PHOO_MEDIUM', "متوسط");
@@ -142,7 +142,7 @@ define('_FA_PHOO_ACL_SETTINGS', "تغییر تنظیمات");
 define('_FA_PHOO_ACL_IMPORT', "ورود تصاویر");
 define('_FA_PHOO_ERROR_ADVANCEDSEARCH_QUERY', "یک خطا در اجرای پرس و جوی مربوط به جستجوی پیشرفته");
 define('_FA_PHOO_ERROR_GETMOBLOG', "خطا در هنگام اجرای پرس و جوی MoBlog");
-define('_FA_PHOO_ERROR_ALBUMLIST', "خطا در دریافت لیست آلبوم");
+define('_FA_PHOO_ERROR_ALBUMLIST', "خطا در دریافت فهرست آلبوم");
 define('_FA_PHOO_ERROR_RANDOMIMAGE', "خطا هنگام انتخاب یک تصویر انتخابی");
 define('_FA_PHOO_ERROR_ALBUMINFO', "یک خطا در دریافت اطلاعات یک آلبوم");
 define('_FA_PHOO_ERROR_ALBUMS', "خطا هنگام انتخاب آلبوم ها براساس {0}");
@@ -170,7 +170,7 @@ define('_FA_PHOO_ERROR_CANT_UPDATE_SETTINGS', "خطا در بروز رسانی �
 define('_FA_PHOO_ERROR_CANT_DELETE_IMAGE', "خطا به هنگام خذف تصویر");
 define('_FA_PHOO_ERROR_CANT_FETCH_SETTINGS', "خطا در دریافت تنظیمات");
 define('_FA_PHOO_ALBUM_CREATED', "آلبوم ایجاد شده است");
-define('_FA_PHOO_ALBUMS_UPDATED', "آلبوم ها یی که بروز شده اند.");
+define('_FA_PHOO_ALBUMS_UPDATED', "آلبوم‌هایی که بروز شده‌اند.");
 define('_FA_PHOO_ALBUM_UPDATED', "آلبوم به روز شده است.");
 define('_FA_PHOO_ALBUM_DELETED', "آلبوم حذف شده است.");
 define('_FA_PHOO_PHOTO_ADDED', "تصویر اضافه شد");
