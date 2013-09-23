@@ -19,6 +19,7 @@ define('_FA_GLOBAL_RESET', "ریست {0}");
 define('_FA_GLOBAL_NEW', "{0} تازه");
 define('_FA_GLOBAL_CREATE', "ساخت {0}");
 define('_FA_GLOBAL_UPDATE', "بروزرسانی {0}");
+define('_FA_GLOBAL_OK', "تأیید");
 define('_FA_GLOBAL_CANCEL', "لغو");
 define('_FA_GLOBAL_NAME', "نام");
 define('_FA_GLOBAL_FILE', "فایل");
