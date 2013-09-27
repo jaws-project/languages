@@ -9,19 +9,12 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_DIRECTORY_NAME', "دایرکتوری");
 define('_FA_DIRECTORY_DESCRIPTION', "مدیریت فایل ها با امکان به اشتراک گذاری.");
-
-/* ACLs */
 define('_FA_DIRECTORY_ACL_DEFAULT', "استفاده از ابزار دایرکتوری");
 define('_FA_DIRECTORY_ACL_SHAREFILE', "به اشتراک گذاشتن فایل");
-
-// Actions
 define('_FA_DIRECTORY_ACTIONS_DIRECTORY', "دایرکتوری");
 define('_FA_DIRECTORY_ACTIONS_DIRECTORY_DESC', "نمایش دایرکتوری");
-
-// Terms
 define('_FA_DIRECTORY_NEW_DIR', "ایجاد پوشه");
 define('_FA_DIRECTORY_NEW_FILE', "ایجاد فایل");
 define('_FA_DIRECTORY_PROPERTIES', "مشخصات");
@@ -46,14 +39,10 @@ define('_FA_DIRECTORY_FILE_PUBLIC_URL', "پیوند عمومی");
 define('_FA_DIRECTORY_FILTER_ALL_FILES', "همه فایل ها و پوشه ها");
 define('_FA_DIRECTORY_FILTER_SHARED_FILES', "تنها فایل های به اشتراک گذاشته شده");
 define('_FA_DIRECTORY_FILTER_FOREIGN_FILES', "تنها فایل های سایر کاربران");
-
-// Sharing
 define('_FA_DIRECTORY_SHARE', "اشتراک");
 define('_FA_DIRECTORY_SHARED_FOR', "به اشتراک گذاشته شده با");
 define('_FA_DIRECTORY_GROUPS', "گروه ها");
 define('_FA_DIRECTORY_USERS', "کاربران");
-
-// Messages
 define('_FA_DIRECTORY_ERROR_INCOMPLETE_DATA', "برخی فیلدها به درستی پر نشده اند.");
 define('_FA_DIRECTORY_NOTICE_SHARE_UPDATED', "وضعیت اشتراک با موفقیت بروزرسانی شد.");
 define('_FA_DIRECTORY_ERROR_UPDATING_SHARE', "بروز خطا در بروزرسانی وضعیت اشتراک.");
@@ -63,19 +52,16 @@ define('_FA_DIRECTORY_NOTICE_SEARCH_RESULT', "<b>{0}</b> مورد پیدا شد"
 define('_FA_DIRECTORY_NOTICE_SEARCH', "<b>{0}</b> result(s)");
 define('_FA_DIRECTORY_ERROR_SEARCH', "جستجو با خطا مواجه شد.");
 define('_FA_DIRECTORY_ERROR_SHORT_QUERY', "طول عبارت وارد شده باید حداقل 2 حرف باشد.");
-define('_FA_DIRECTORY_CONFIRM_FILE_DELETE', "آیا از حذف فایل مطمئن هستید؟");
-define('_FA_DIRECTORY_CONFIRM_DIR_DELETE', "همه فایل ها داخل پوشه انتخابی حذف خواهد شد. ادامه می دهید؟");
-
+define('_FA_DIRECTORY_CONFIRM_DELETE', "آیا از حذف موارد انتخاب شده مطمئن هستید؟");
 define('_FA_DIRECTORY_NOTICE_DIR_CREATED', "پوشه جدید ساخته شد.");
 define('_FA_DIRECTORY_NOTICE_DIR_UPDATED', "پوشه بروزرسانی گردید.");
-define('_FA_DIRECTORY_NOTICE_DIR_DELETED', "پوشه حذف گردید.");
 define('_FA_DIRECTORY_ERROR_DIR_CREATE', "ساخت پوشه با خطا مواجه شد.");
 define('_FA_DIRECTORY_ERROR_DIR_UPDATE', "بروزرسانی با خطا مواجه شد.");
-define('_FA_DIRECTORY_ERROR_DIR_DELETE', "حذف پوشه با خطا مواجه شد.");
-
+define('_FA_DIRECTORY_NOTICE_DELETE', "موارد انتخاب شده با موفقیت حذف گردید.");
+define('_FA_DIRECTORY_WARNING_DELETE', "حذف برخی از فایل با خطا مواجه شد.");
+define('_FA_DIRECTORY_ERROR_DELETE', "بروز خطا در حذف موارد انتخابی.");
 define('_FA_DIRECTORY_NOTICE_FILE_CREATED', "فایل با موفقیت ایجاد شد.");
 define('_FA_DIRECTORY_NOTICE_FILE_UPDATED', "فایل با موفقیت بروزرسانی شد.");
-define('_FA_DIRECTORY_NOTICE_FILE_DELETED', "فایل با موفقیت حذف گردید.");
 define('_FA_DIRECTORY_ERROR_FILE_CREATE', "ایجاد فایل با خطا مواجه شد.");
 define('_FA_DIRECTORY_ERROR_FILE_UPDATE', "بروزرسانی فایل با خطا مواجه شد.");
 define('_FA_DIRECTORY_ERROR_FILE_DELETE', "حذف فایل با خطا مواجه شد.");
