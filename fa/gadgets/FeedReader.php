@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_FEEDREADER_NAME', "کسب اخبار");
 define('_FA_FEEDREADER_DESCRIPTION', "استخراج اطلاعات از فرمتهای RSS/ATOM/OPML و نمایش آنها");
 define('_FA_FEEDREADER_CACHE_TIME', "عمر نهانگاه");
@@ -28,8 +27,8 @@ define('_FA_FEEDREADER_TITLE_VIEW_EXTERNAL', "استفاده از عنوان ت�
 define('_FA_FEEDREADER_INCOMPLETE_FIELDS', "برخی از فیلدها به درستی کامل نشده‌اند");
 define('_FA_FEEDREADER_CONFIRM_DELETE_FEED', "آیا می‌خواهید این آدرس را حذف کنید؟");
 define('_FA_FEEDREADER_ACTION_TITLE', "اخبار سایتهای دیگر");
-define('_FA_FEEDREADER_ACTIONS_DISPLAY', "نمایش عناوین خبرها از سایر سایت‌ها");
-define('_FA_FEEDREADER_ACTIONS_DISPLAY_DESC', "نمایش عنوان و لینک خبرها از آدرس‌های تعیین شده");
+define('_FA_FEEDREADER_ACTIONS_DISPLAYFEEDS', "نمایش سرنام خبرهای خوراک سایت‌ها");
+define('_FA_FEEDREADER_ACTIONS_DISPLAYFEEDS_DESC', "نمایش سرنام خبرها بهمراه پیوند به نشانی پیکربندی خوراک‌ها");
 define('_FA_FEEDREADER_FEED', "خوراک");
 define('_FA_FEEDREADER_SITE_UPDATED', "مشخصات سایت دلخواه شما ثبت شد");
 define('_FA_FEEDREADER_SITE_ADDED', "سایت دلخواه شما اضافه شد");

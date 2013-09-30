@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_FAQ_NAME', "پرسش‌های فراگیر");
 define('_FA_FAQ_DESCRIPTION', "پرسش هایی از قبل آماده شده به همراه پاسخ های آن ها برای راهنمایی بیشتر بازدید کنندگان.");
 define('_FA_FAQ_ACTIONS_LISTCATEGORIES', "فهرست دسته‌بندی‌ها");
@@ -32,6 +31,7 @@ define('_FA_FAQ_CONFIRM_DELETE_CATEGORY', "آیا می‌خواهید این د�
 define('_FA_FAQ_EDIT_CATEGORY', "ویرایش دسته");
 define('_FA_FAQ_DELETE_CATEGORY', "حذف یک دسته");
 define('_FA_FAQ_QUESTION', "پرسش");
+define('_FA_FAQ_ANSWER', "پاسخ");
 define('_FA_FAQ_MOVEUP', "انتقال به بالا");
 define('_FA_FAQ_MOVEDOWN', "انتقال به پایین");
 define('_FA_FAQ_CONFIRM_DELETE_QUESTION', "آیا می خواهید این پرسش حذف شود؟");
