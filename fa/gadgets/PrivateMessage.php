@@ -17,7 +17,7 @@ define('_FA_PRIVATEMESSAGE_ACL_DELETEMESSAGE', "حذف پیام");
 define('_FA_PRIVATEMESSAGE_ACL_ARCHIVEMESSAGE', "بایگانی پیام");
 define('_FA_PRIVATEMESSAGE_ACL_REPLYMESSAGE', "پاسخ به پیام");
 define('_FA_PRIVATEMESSAGE_ACL_COMPOSEMESSAGE', "ارسال پیام");
-define('_FA_PRIVATEMESSAGE_ACL_COMPOSEMESSAGETOALLUSERS', "ارسال پیام گروهی به تمام کاربران");
+define('_FA_PRIVATEMESSAGE_ACL_COMPOSETOALLUSERS', "ارسال پیام انبوه به تمامی کاربران");
 define('_FA_PRIVATEMESSAGE_ACTIONS_PRIVATEMESSAGE', "پیام شخصی");
 define('_FA_PRIVATEMESSAGE_ACTIONS_PRIVATEMESSAGE_DESC', "نمایش پیام شخصی");
 define('_FA_PRIVATEMESSAGE_MESSAGE_FROM', "از");
@@ -82,4 +82,4 @@ define('_FA_PRIVATEMESSAGE_ERROR_MESSAGE_NOT_SEND', "خطا هنگام ارسا�
 define('_FA_PRIVATEMESSAGE_ERROR_MESSAGE_NOT_DRAFTED', "خطا هنگام پیش نویس کردن پیام.");
 define('_FA_PRIVATEMESSAGE_ERROR_MESSAGE_READ_STATUS_NOT_CHANGED', "خطا هنگام تغییر وضعیت پیام.");
 define('_FA_PRIVATEMESSAGE_DRAFT_NOT_SAVED', "خطا هنگام ذخیره کردن پیش نویس پیام.");
-define('_FA_PRIVATEMESSAGE_MESSAGE_INCOMPLETE_FIELDS', "برخی از گزینه‌ها بدرستی پر نشده‌اند");
+define('_FA_PRIVATEMESSAGE_MESSAGE_INCOMPLETE_FIELDS', "برخی از گزینه‌ها بدرستی پر نشده‌اند.");
