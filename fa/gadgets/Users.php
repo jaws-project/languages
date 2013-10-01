@@ -97,6 +97,8 @@ define('_FA_USERS_USERS_TYPE_NORMAL', "معمولی");
 define('_FA_USERS_USERS_STATUS_0', "از کار افتاده");
 define('_FA_USERS_USERS_STATUS_1', "پويا");
 define('_FA_USERS_USERS_STATUS_2', "وارسی نشده");
+define('_FA_USERS_USERS_PRIVATE', "اطلاعات شخصی");
+define('_FA_USERS_USERS_PUBLIC', "اطلاعات عمومی");
 define('_FA_USERS_USERS_PRIVACY', "نگهداری داده‌ها");
 define('_FA_USERS_USERS_GENDER', "جنسیت");
 define('_FA_USERS_USERS_GENDER_0', "ناشناخته");
