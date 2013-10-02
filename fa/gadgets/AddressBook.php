@@ -86,6 +86,7 @@ define('_FA_ADDRESSBOOK_VIEW_GROUP_MEMBER', "مشاهده اعضا");
 define('_FA_ADDRESSBOOK_GROUP_MEMBERS_TITLE', "عناوین گروه {0}");
 define('_FA_ADDRESSBOOK_GROUP_BACK_TO_GROUPS_LIST', "بازگشت به فهرست گروه ها");
 define('_FA_ADDRESSBOOK_GROUPS_EDIT', "ویرایش گروه");
+define('_FA_ADDRESSBOOK_GROUPS_EMPTY_NAME_WARNING', "لطفا نام گروه را وارد نمایید.");
 
 // Responses
 define('_FA_ADDRESSBOOK_RESULT_NEW_GROUP_SAVED', "گروه مورد نظر با موفقیت حذف گردید.");
