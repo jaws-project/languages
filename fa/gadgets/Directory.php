@@ -15,6 +15,8 @@ define('_FA_DIRECTORY_ACL_DEFAULT', "استفاده از ابزار دایرک�
 define('_FA_DIRECTORY_ACL_SHAREFILE', "به اشتراک گذاشتن فایل");
 define('_FA_DIRECTORY_ACTIONS_DIRECTORY', "دایرکتوری");
 define('_FA_DIRECTORY_ACTIONS_DIRECTORY_DESC', "نمایش دایرکتوری");
+define('_FA_DIRECTORY_ACTIONS_STATISTICS', "آمار فایل ها");
+define('_FA_DIRECTORY_ACTIONS_STATISTICS_DESC', "نمایش اطلاعات آماری فایل ها و دایرکتوری ها");
 define('_FA_DIRECTORY_NEW_DIR', "ایجاد پوشه");
 define('_FA_DIRECTORY_NEW_FILE', "ایجاد فایل");
 define('_FA_DIRECTORY_PROPERTIES', "مشخصات");
@@ -39,6 +41,12 @@ define('_FA_DIRECTORY_FILE_PUBLIC_URL', "پیوند عمومی");
 define('_FA_DIRECTORY_FILTER_ALL_FILES', "همه فایل ها و پوشه ها");
 define('_FA_DIRECTORY_FILTER_SHARED_FILES', "تنها فایل های به اشتراک گذاشته شده");
 define('_FA_DIRECTORY_FILTER_FOREIGN_FILES', "تنها فایل های سایر کاربران");
+define('_FA_DIRECTORY_STATISTICS', "آمار فایل ها");
+define('_FA_DIRECTORY_STAT_FILES', "تعداد فایل");
+define('_FA_DIRECTORY_STAT_DIRS', "تعداد دایرکتوری");
+define('_FA_DIRECTORY_STAT_SHARED', "به اشتراک گذاشته شده توسط شما");
+define('_FA_DIRECTORY_STAT_FOREIGN', "به اشتراک گذاشته شده با شما");
+define('_FA_DIRECTORY_STAT_PUBLIC', "دارای دسترسی عمومی");
 define('_FA_DIRECTORY_SHARE', "اشتراک");
 define('_FA_DIRECTORY_SHARED_FOR', "به اشتراک گذاشته شده با");
 define('_FA_DIRECTORY_GROUPS', "گروه ها");
