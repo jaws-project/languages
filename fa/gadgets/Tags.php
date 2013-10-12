@@ -29,7 +29,10 @@ define('_FA_TAGS_CONFIRM_DELETE', "آیا می خواهید این برچسب(ه
 define('_FA_TAGS_SELECT_MORE_THAN_ONE_TAG_FOR_MERGE', "برای در هم آمیختن برچسب ها باید بیش از یک برچسب را برگزینید");
 define('_FA_TAGS_GADGET', "ابزار");
 define('_FA_TAGS_MERGE', "در هم آمیختن");
+define('_FA_TAGS_RESULT_LIMIT', "تعداد نوشته ها در هر صفحه");
 define('_FA_TAGS_TAG_ADDED', "برچسب افزوده شد");
 define('_FA_TAGS_TAG_UPDATED', "برچسب ویرایش شد");
 define('_FA_TAGS_TAGS_MERGED', "برچسب ها در هم آمیختند");
 define('_FA_TAGS_TAG_DELETED', "برچسب حذف شد");
+define('_FA_TAGS_PROPERTIES_UPDATED', "تنظیمات ذخیره گردید");
+define('_FA_TAGS_ERROR_CANT_UPDATE_PROPERTIES', "خطا در ذخیره تنظیمات");
