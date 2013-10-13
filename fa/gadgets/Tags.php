@@ -22,6 +22,7 @@ define('_FA_TAGS_TAG_CLOUD', "ابر برچسب {0}");
 define('_FA_TAGS_VIEW_TAG', "نمایش برچسب {0}");
 define('_FA_TAGS_TAG_ITEM_COUNT', "{0} نوشته");
 define('_FA_TAGS_TAG_NAME', "نام برچسب");
+define('_FA_TAGS_TAG_TITLE', "سر نام تگ");
 define('_FA_TAGS_TAG_USAGE_COUNT', "تعداد استفاده شده");
 define('_FA_TAGS_ADD_TAG', "افزودن برچسب");
 define('_FA_TAGS_EDIT_TAG', "ویرایش برچسب");
