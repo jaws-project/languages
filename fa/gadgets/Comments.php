@@ -57,3 +57,7 @@ define('_FA_COMMENTS_COMMENTS_RESTRICTED', "برای فرستادن دیدگاه
 define('_FA_COMMENTS_COMMENT_UPDATED', "دیدگاه دلخواه ویرایش شد");
 define('_FA_COMMENTS_COMMENT_MARKED', "دیدگاه دلخواه نشانه گذاری شد");
 define('_FA_COMMENTS_COMMENT_DELETED', "دیدگاه دلخواه زدوده شد");
+define('_FA_COMMENTS_PRIVATE', "خصوصی");
+define('_FA_COMMENTS_SAVE_AND_REPLY', "ذخیره و ارسال ایمیل");
+define('_FA_COMMENTS_REPLY_BY', "پاسخ داده شده بوسیه {0}");
+define('_FA_COMMENTS_YOU_GET_REPLY', "پاسخ جدیدی برای دیدگاه شما");
