@@ -21,6 +21,8 @@ define('_FA_BLOG_ACL_MANAGECOMMENTS', "مدیریت نظرات");
 define('_FA_BLOG_ACL_MANAGETRACKBACKS', "مدیریت دنبالک‌ها");
 define('_FA_BLOG_ACL_MANAGECATEGORIES', "مدیریت دسته‌بندی‌ها");
 define('_FA_BLOG_ACL_SETTINGS', "تغییر تنظیمات");
+define('_FA_BLOG_ACL_CATEGORY_ACCESS', "دسترسی به نوشته‌های دسته‌بندی {0}");
+define('_FA_BLOG_ACL_CATEGORY_MANAGE', "راهبری نوشته‌های دسته‌بندی {0}");
 define('_FA_BLOG_XMLRPC', "سرویس XML-RPC، پشتیبانی از Blogger و MetaWeblog");
 define('_FA_BLOG_WEBSERVICE', "سرویس دهنده بلاگ");
 define('_FA_BLOG_WSDL', "سرویس WSDL بلاگ");

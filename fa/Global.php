@@ -66,6 +66,7 @@ define('_FA_GLOBAL_ALL', "همه");
 define('_FA_GLOBAL_ALL_USERS', "همه کاربران");
 define('_FA_GLOBAL_ALL_GROUPS', "همه گروه‌ها");
 define('_FA_GLOBAL_HOME', "خانه");
+define('_FA_GLOBAL_TAGS', "برچسب‌ها");
 define('_FA_GLOBAL_IS_SPAM', "اسپم؟");
 define('_FA_GLOBAL_LOADING', "درحال بارگذاری...");
 define('_FA_GLOBAL_MENU', "فهرست");

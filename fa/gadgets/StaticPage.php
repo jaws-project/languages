@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_STATICPAGE_NAME', "صفحات استاتیک");
 define('_FA_STATICPAGE_DESCRIPTION', "ابزاری برای ایجاد و مدیریت صفحات استاتیک");
 define('_FA_STATICPAGE_ACTION_DEFAULT', "نمایش صفحه پیش فرض");
@@ -45,6 +44,9 @@ define('_FA_STATICPAGE_ERROR_TRANSLATION_NOT_UPDATED', "خطا هنگام برو
 define('_FA_STATICPAGE_ERROR_TRANSLATION_NOT_DELETED', "خطا هنگام حذف صفحه ترجمه");
 define('_FA_STATICPAGE_ERROR_TRANSLATION_NOT_EXISTS', "ترجمه موجود نیست");
 define('_FA_STATICPAGE_ERROR_GROUP_NOT_DELETABLE', "این دسته‌بندی قابل حذف نیست");
+define('_FA_STATICPAGE_ERROR_TAG_NOT_ADDED', "خطا هنگام افزودن برچسب‌ها");
+define('_FA_STATICPAGE_ERROR_TAG_NOT_UPDATED', "خطا هنگام بروزرسانی برچسب‌ها");
+define('_FA_STATICPAGE_ERROR_TAG_NOT_DELETED', "خطا هنگام زدودن برچسب‌ها");
 define('_FA_STATICPAGE_PAGES_LIST', "فهرست صفحات");
 define('_FA_STATICPAGE_PAGES_TREE', "درخت صفحات");
 define('_FA_STATICPAGE_TITLE_NOT_FOUND', "صفحه یافت نشد");

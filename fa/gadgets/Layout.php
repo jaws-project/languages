@@ -9,17 +9,15 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_LAYOUT_NAME', "صفحه‌آرایی");
 define('_FA_LAYOUT_DESCRIPTION', "از این ابزار برای چیدن سایر ابزارها روی صفحه استفاده می‌شود");
 define('_FA_LAYOUT_ACL_MANAGELAYOUT', "صفحه‌آرایی وب سایت");
 define('_FA_LAYOUT_ACL_MANAGETHEMES', "انتخاب قالب پیش فرض وب سایت");
 define('_FA_LAYOUT', "صفحه‌آرایی");
-define('_FA_LAYOUT_MODE', "نوع صفحه‌آرایی");
-define('_FA_LAYOUT_MODE_TWOBAR', "دو ستون");
-define('_FA_LAYOUT_MODE_LEFTBAR', "ستون چپ");
-define('_FA_LAYOUT_MODE_RIGHTBAR', "ستون راست");
-define('_FA_LAYOUT_MODE_NOBAR', "بدون ستون");
+define('_FA_LAYOUT_LAYOUTS', "داشبوردها");
+define('_FA_LAYOUT_LAYOUTS_GLOBAL', "سایت اصلی");
+define('_FA_LAYOUT_LAYOUTS_USER', "داشبورد کاربر");
+define('_FA_LAYOUT_LAYOUTS_SWITCHED', "داشبورد پیش‌فرض گزینش شد");
 define('_FA_LAYOUT_NEW', "افزودن ابزار");
 define('_FA_LAYOUT_BACK', "بازگشت به صفحه کنترل");
 define('_FA_LAYOUT_CHANGE_DW', "موقعیت نمایش ابزار");

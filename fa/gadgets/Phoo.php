@@ -9,7 +9,6 @@
  * "Content-Type: text/plain; charset=UTF-8"
  * "Content-Transfer-Encoding: 8bit"
  */
-
 define('_FA_PHOO_NAME', "نگارخانه");
 define('_FA_PHOO_DESCRIPTION', "ابزاری توانمند برای ساخت یک گالری زیبا");
 define('_FA_PHOO_DEFAULT_VIEW', "نمایش پیش فرض");
@@ -23,6 +22,8 @@ define('_FA_PHOO_ACTIONS_ALBUMLIST', "آلبوم‌ها");
 define('_FA_PHOO_ACTIONS_ALBUMLIST_DESC', "نمایش لیست همه آلبوم‌ها");
 define('_FA_PHOO_ACTIONS_RECENTCOMMENTS', "نظرات اخیر بر تصاویر");
 define('_FA_PHOO_ACTIONS_RECENTCOMMENTS_DESC', "نمایش چکیده اطلاعات از نظرات اخیر");
+define('_FA_PHOO_ACTIONS_GROUPS', "فهرست گروه‌ها");
+define('_FA_PHOO_ACTIONS_GROUPS_DESC', "نمایش آلبوم‌های گروه‌ها");
 define('_FA_PHOO_UNKNOW_ALBUM', "هیچ آلبومی یافت نشد");
 define('_FA_PHOO_WITHOUT_ALBUM', "تصاویر بدون آلبوم");
 define('_FA_PHOO_WITHOUT_ALBUM_DESCRIPTION', "تصاویری که متعلق به هیچ آلبومی نیستند");
