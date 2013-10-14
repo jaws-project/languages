@@ -24,6 +24,7 @@ define('_FA_USERS_ACL_EDITUSEREMAIL', "ویرایش نشانی ایمیل از �
 define('_FA_USERS_ACL_EDITUSERPASSWORD', "ویرایش گذرواژه از سوی کاربر");
 define('_FA_USERS_ACL_EDITUSERPERSONAL', "ویرایش شناسه‌های فردی از سوی کاربر");
 define('_FA_USERS_ACL_EDITUSERCONTACTS', "ویرایش شناسه‌های تماس از سوی کاربر");
+define('_FA_USERS_ACL_MANAGEUSERGROUPS', "توانایی ساخت گروه‌هایی از کاربران برای خود");
 define('_FA_USERS_ACL_EDITUSERPREFERENCES', "ویرایش تنظیمات از سوی کاربر");
 define('_FA_USERS_ACL_MANAGEAUTHENTICATIONMETHOD', "ویرایش روش تایید اعتبار کاربران");
 define('_FA_USERS_ACTIONS_LOGINBOX', "بلوک لاگین");
@@ -167,6 +168,15 @@ define('_FA_USERS_ACLS_COMPONENTS', "ابزار/افزونه");
 define('_FA_USERS_ACLS_DEFAULT', "پیش فرض");
 define('_FA_USERS_ACLS_ALLOW', "گواهی دسترسی");
 define('_FA_USERS_ACLS_DENY', "نداشتن دسترسی");
+define('_FA_USERS_DASHBOARD', "داشبورد");
+define('_FA_USERS_DASHBOARD_GLOBAL', "سایت اصلی");
+define('_FA_USERS_DASHBOARD_USER', "داشبورد کاربر");
+define('_FA_USERS_GROUP_DELETED', "گروه(ها) زدوده شدند");
+define('_FA_USERS_GROUP_STATUS_CHANGED', "دگرگونی خواسته شده، انجام شد");
+define('_FA_USERS_CANT_CHANGE_GROUPS_STATUS', "خطا هنگام انجام دگرگونی خواسته شده");
+define('_FA_USERS_ADD_GROUP', "افرودن گروه");
+define('_FA_USERS_MANAGE_GROUPS_MEMBERS', "راهبری هموندان گروه");
+define('_FA_USERS_GROUPS_REMOVE_USER', "زدودن کاربر از گروه");
 define('_FA_USERS_MYACCOUNT_UPDATED', "تغییرات در شناسه کاربری شما ثبت شد");
 define('_FA_USERS_MYACCOUNT_PASSWORDS_DONT_MATCH', "گذرواژه و بازنویسی آن با هم یکسان نیستند");
 define('_FA_USERS_MYACCOUNT_INCOMPLETE_FIELDS', "لطفا تمام فیلدها را به درستی پر کنید");
@@ -176,6 +186,7 @@ define('_FA_USERS_EDIT_PERSONAL', "ویرایش شناسه فردی");
 define('_FA_USERS_CONTROLPANEL', "صفحه راهبری");
 define('_FA_USERS_EDIT_PREFERENCES', "ویرایش تنظیمات ویژه");
 define('_FA_USERS_EDIT_CONTACTS', "ویرایش اطلاعات تماس");
+define('_FA_USERS_MANAGE_GROUPS', "راهبری گروه‌ها");
 define('_FA_USERS_PREFERENCES_UPDATED', "تنظمیات ویژه کاربر ثبت شد");
 define('_FA_USERS_LOGINLINKS', "پیوندهای کاربری");
 define('_FA_USERS_WELCOME', "خوش آمدید");
@@ -218,6 +229,7 @@ define('_FA_USERS_PROPERTIES_ACTIVATION_BY_USER', "بدست کاربر");
 define('_FA_USERS_PROPERTIES_ACTIVATION_BY_ADMIN', "بدست راهبران سایت");
 define('_FA_USERS_PROPERTIES_ANON_GROUP', "گروه پیش فرض برای کاربر هموند شده");
 define('_FA_USERS_PROPERTIES_PASS_RECOVERY', "توانایی بازیابی گذرواژه");
+define('_FA_USERS_PROPERTIES_DASHBOARD_BUILDING', "توانایی ساختن داشبورد بدست کاربر");
 define('_FA_USERS_PROPERTIES_UPDATED', "تغییرات پیکربندی این ابزار، ثبت شد");
 define('_FA_USERS_PROPERTIES_CANT_UPDATE', "خطا هنگام بروزرسانی پیکربندی");
 define('_FA_USERS_NO_PERMISSION_TITLE', "حق دسترسی وجود ندارد");
