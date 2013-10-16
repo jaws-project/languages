@@ -17,7 +17,7 @@ define('_FA_PRIVATEMESSAGE_ACL_DELETEMESSAGE', "حذف پیام");
 define('_FA_PRIVATEMESSAGE_ACL_ARCHIVEMESSAGE', "بایگانی پیام");
 define('_FA_PRIVATEMESSAGE_ACL_REPLYMESSAGE', "پاسخ به پیام");
 define('_FA_PRIVATEMESSAGE_ACL_COMPOSEMESSAGE', "ارسال پیام");
-define('_FA_PRIVATEMESSAGE_ACL_COMPOSETOALLUSERS', "ارسال پیام انبوه به تمامی کاربران");
+define('_FA_PRIVATEMESSAGE_ACL_COMPOSEANNOUNCEMENT', "ارسال آگهی");
 define('_FA_PRIVATEMESSAGE_ACTIONS_PRIVATEMESSAGE', "پیام شخصی");
 define('_FA_PRIVATEMESSAGE_ACTIONS_PRIVATEMESSAGE_DESC', "نمایش پیام شخصی");
 define('_FA_PRIVATEMESSAGE_MESSAGE_FROM', "از");
@@ -38,6 +38,9 @@ define('_FA_PRIVATEMESSAGE_MESSAGE_RECIPIENT_ALL_USERS', "تمام کاربرا�
 define('_FA_PRIVATEMESSAGE_MESSAGE_RECIPIENT_USERS', "کاربران");
 define('_FA_PRIVATEMESSAGE_MESSAGE_RECIPIENT_GROUPS', "گروه ها");
 define('_FA_PRIVATEMESSAGE_FORWARD_MESSAGE', "ارجاع پیام");
+define('_FA_PRIVATEMESSAGE_MESSAGE_TYPE_ANNOUNCEMENT', "آگهی");
+define('_FA_PRIVATEMESSAGE_ALL_MESSAGES', "تمام پیام ها");
+define('_FA_PRIVATEMESSAGE_ANNOUNCEMENT', "آگهی {0}");
 define('_FA_PRIVATEMESSAGE_INBOX', "صندوق ورودی {0}");
 define('_FA_PRIVATEMESSAGE_ARCHIVED', "بایگانی");
 define('_FA_PRIVATEMESSAGE_OUTBOX', "صندوق خروجی");
@@ -65,6 +68,10 @@ define('_FA_PRIVATEMESSAGE_MESSAGE_VIEW_TIME', "زمان دیده شدن");
 define('_FA_PRIVATEMESSAGE_MESSAGE_NOT_VIEW', "دیده نشده است");
 define('_FA_PRIVATEMESSAGE_MESSAGE_UNDO_SENDING', "برگشت پیام فرستاده شده");
 define('_FA_PRIVATEMESSAGE_ITEMS_PER_PAGE', "شمارگان در هر برگه");
+define('_FA_PRIVATEMESSAGE_MESSAGE_IS_ANNOUNCEMENT', "پیام از نوع آگهی است");
+define('_FA_PRIVATEMESSAGE_IN_OUT', "ورودی/خروجی");
+define('_FA_PRIVATEMESSAGE_IN', "ورودی");
+define('_FA_PRIVATEMESSAGE_OUT', "خروجی");
 define('_FA_PRIVATEMESSAGE_PROPERTIES_UPDATED', "تنظیمات به روز رسانی شد");
 define('_FA_PRIVATEMESSAGE_ERROR_NO_FILE_UPLOADED', "هیچ تصویری بارگزاری نشد.");
 define('_FA_PRIVATEMESSAGE_MESSAGE_DELETED', "پیام حذف شد.");
